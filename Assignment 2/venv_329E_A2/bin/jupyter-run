@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/lilynguyen/Downloads/UT Su25/CS 329E/CS329E-Data-Analytics/Assignment 2/venv_329E_A2/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from jupyter_client.runapp import RunApp
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(RunApp.launch_instance())
