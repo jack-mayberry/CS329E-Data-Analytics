@@ -1,0 +1,2001 @@
+Name,Sex,Event,Equipment,Division,WeightClassKg,Squat1Kg,Bench1Kg,Deadlift1Kg,ProjectedTotal
+Piotr Gurba,M,SBD,Raw,Seniorzy,66,110.0,70.0,140.0,320.0
+Ronald Walker,M,SBD,Single-ply,Open,83,150.0,120.0,202.5,472.5
+Jonathan Webb,M,SBD,Single-ply,M-T1,93,107.5,-77.5,102.5,132.5
+Sven Winther Von Der Lippe,M,SBD,Raw,Open,110,195.0,175.0,250.0,620.0
+Mert Ferdi Kar,M,SBD,Raw,Open,83,205.0,122.5,222.5,550.0
+Viktor Samúelsson,M,SBD,Single-ply,Juniors,120,350.0,295.0,305.0,950.0
+Brad McGee,M,SBD,Single-ply,Open,110,80.0,40.0,80.0,200.0
+Dominik Kováčik,M,SBD,Raw,Dorastenci,74,135.0,77.5,145.0,357.5
+Nadezhda Bobrova,F,SBD,Raw,Open,52,55.0,40.0,55.0,150.0
+Kevin Miller #4,M,SBD,Single-ply,M-V,56,140.0,90.0,162.5,392.5
+Charlotte MacPherson,F,SBD,Raw,FR-O,63,157.5,90.0,185.0,432.5
+Trevor Nelson,M,SBD,Raw,MR-O,83,165.0,112.5,227.5,505.0
+Anthony Weber,M,SBD,Raw,MR-M1,120,157.5,102.5,220.0,480.0
+David Lodahl,M,SBD,Single-ply,M-O,93,145.0,107.5,200.0,452.5
+Sametcan Uluer,M,SBD,Raw,MR-O,74,157.5,110.0,180.0,447.5
+Charif Rabah,M,SBD,Raw,Open,105,180.0,155.0,200.0,535.0
+Sophie Ratajczyk,F,SBD,Raw,FR-T2,63,87.5,45.0,105.0,237.5
+Rosie Geller-Stevens,F,SBD,Raw,F-C-Open,57,102.5,52.5,115.0,270.0
+Jesús Daniel Prieto Freire,M,SBD,Raw,M1,120+,317.5,190.0,300.0,807.5
+Scott Hill #1,M,SBD,Raw,Open,93,242.5,167.5,257.5,667.5
+Johannes Haugan Lyngedal,M,SBD,Raw,Juniors 19-23,93,215.0,135.0,262.5,612.5
+Beniamin Zabłocki,M,SBD,Single-ply,Juniorzy do lat 23,93,-140.0,125.0,180.0,165.0
+Danielle Sweeney,F,SBD,Raw,FR-Jr,63,72.5,50.0,105.0,227.5
+Mridula Agarwal,F,SBD,Single-ply,Masters 2,56,70.0,40.0,85.0,195.0
+Madeleine Reynolds,F,SBD,Raw,FR-Jr,76,117.5,57.5,135.0,310.0
+Olga Kuzmina,F,SBD,Raw,Sub-Juniors,84+,195.0,-100.0,175.0,270.0
+Rajiv Indarjeet,M,SBD,Raw,M-O-U,66,107.5,60.0,152.5,320.0
+Tony Wilkinson,M,SBD,Raw,SO,83,75.0,62.5,110.0,247.5
+Jamie Ballantyne,M,SBD,Raw,M-C-U23,83,105.0,80.0,145.0,330.0
+Fillip S Oddersborg,M,SBD,Raw,Open,74,95.0,100.0,110.0,305.0
+Marvin Madang Gau,M,SBD,Raw,Men's Raw Open,93,190.0,117.5,227.5,535.0
+Laddie Gibson,M,SBD,Single-ply,M-M1a,82.5,250.0,-187.5,227.5,290.0
+Nejc Graj,M,SBD,Raw,O,74,135.0,70.0,165.0,370.0
+Lukas Steffelbauer,M,SBD,Raw,Open,93,190.0,125.0,210.0,525.0
+Felix Hu,M,SBD,Raw,Open,105,-200.0,137.5,260.0,197.5
+Vladislav Storozhuk,M,SBD,Single-ply,Juniors,75,200.0,105.0,220.0,525.0
+Olivia Hardingham,F,SBD,Raw,FR-O,63,142.5,57.5,145.0,345.0
+Thea Lindam,F,SBD,Raw,Open,57,105.0,65.0,115.0,285.0
+Stefano Robol,M,SBD,Single-ply,Open,83,290.0,170.0,270.0,730.0
+Nikolai Nedoruev,M,SBD,Single-ply,Juniors,67.5,215.0,135.0,220.0,570.0
+Kevin Jäger #1,M,SBD,Single-ply,Open,120+,-385.0,175.0,260.0,50.0
+Katelyn Sinitiere,F,SBD,Single-ply,F-T,57,77.1,43.1,86.2,206.39999999999998
+Taylor Ingram,F,SBD,Raw,FR-T3,63,115.0,35.0,95.0,245.0
+Lea Žunić,F,SBD,Raw,Juniors,57,-65.0,-45.0,97.5,-12.5
+Arild Berget,M,SBD,Single-ply,Masters 50-59,125,250.0,175.0,150.0,575.0
+Nathan Mannion,M,SBD,Raw,MR-Jr,120,167.5,100.0,237.5,505.0
+Samali Bosa,F,SBD,Raw,Masters 3,84+,60.0,45.0,90.0,195.0
+Ben Miller #2,M,SBD,Raw,M-C-Open,93,185.0,130.0,190.0,505.0
+Nina Hinterhölzl,F,SBD,Raw,Juniors,57,97.5,62.5,112.5,272.5
+Wazeer Hussein,M,SBD,Raw,M-O-U,93,210.0,165.0,250.0,625.0
+Nunzia Manzari,F,SBD,Raw,Open,57,-82.5,45.0,125.0,87.5
+Aldreyson Ortega,M,SBD,Raw,Open,93,205.0,135.0,275.0,615.0
+Kristin Thorvaldsen,F,SBD,Single-ply,Open,75,105.0,60.0,105.0,270.0
+Richard Shipe,M,SBD,Raw,MR-O,93,192.5,152.5,-205.0,140.0
+Dennis Unitt,M,SBD,Single-ply,Masters 3,75,140.0,90.0,162.5,392.5
+Joseph Milano,M,SBD,Raw,MR-O,93,230.0,140.0,265.0,635.0
+Harvey Davis,M,SBD,Raw,MR-O,66,165.0,95.0,182.5,442.5
+Gary Le,M,SBD,Raw,Open,59,112.5,80.0,125.0,317.5
+Markku Koivukari,M,SBD,Single-ply,Over 70,93,145.0,75.0,175.0,395.0
+David Clifford,M,SBD,Raw,MR-M2,93,210.0,130.0,220.0,560.0
+Trevor Walker,M,SBD,Single-ply,Masters 1,120+,200.0,190.0,200.0,590.0
+José Nieves,M,SBD,Single-ply,M-O,120,195.0,155.0,210.0,560.0
+Iden Kilburn,M,SBD,Raw,MR-O,74,180.0,130.0,235.0,545.0
+Karel Bourgoin,F,SBD,Raw,Juniors,84,-117.5,55.0,142.5,80.0
+Miša Milošević,M,SBD,Raw,O,93,170.0,130.0,200.0,500.0
+Stephanie Winters,F,SBD,Raw,FR-M2,84,115.0,50.0,75.0,240.0
+Kate Jackson,F,SBD,Raw,F-C-U23,72,-122.5,60.0,-140.0,-202.5
+Danny Padilla,M,SBD,Raw,MR-O,83,210.0,132.5,225.0,567.5
+Kathryn Chong Siew Li,F,SBD,Raw,Women's Raw Open,52,122.5,62.5,165.0,350.0
+Austin Dunlap,M,SBD,Raw,MR-HS,110,217.5,142.5,225.0,585.0
+Halldór Kristinn Harðarson,M,SBD,Raw,Juniors,83,150.0,100.0,200.0,450.0
+Jordan Shannick,M,SBD,Raw,Open,105,170.0,112.5,215.0,497.5
+Benjamin Rast,M,SBD,Raw,MR-O,100,150.0,100.0,205.0,455.0
+Maer Jimenez,F,SBD,Raw,Open,72,130.0,70.0,170.0,370.0
+Gonçalo Neves,M,SBD,Raw,M-CL-PL,83,190.0,125.0,250.0,565.0
+John Cutrone,M,SBD,Raw,MR-T2,83,172.5,95.0,177.5,445.0
+Eoin Dwyer,M,SBD,Raw,M-O,120,187.5,107.5,220.0,515.0
+James Bullen,M,SBD,Raw,Juniors,66,112.5,70.0,-132.5,50.0
+Chris Jennings,M,SBD,Raw,M-C-Open,66,172.5,120.0,220.0,512.5
+Sascha Winters,M,SBD,Raw,Open,93,217.5,125.0,227.5,570.0
+Aleksandr Mikhaylov,M,SBD,Single-ply,Open,105,280.0,210.0,-250.0,240.0
+Dylan Ricks,M,SBD,Raw,MR-Jr,120,207.5,122.5,235.0,565.0
+Gennady Saprygin,M,SBD,Single-ply,Masters 2,82.5,140.0,100.0,130.0,370.0
+Martina Starešina,F,SBD,Raw,Open,52,55.0,30.0,70.0,155.0
+Aleksandr Marchuk,M,SBD,Single-ply,Open,125,270.0,200.0,250.0,720.0
+Eduard Chubaryan,M,SBD,Single-ply,Open,74,190.0,-110.0,160.0,240.0
+奥田 和美,F,SBD,Single-ply,Open,56,90.0,60.0,120.0,270.0
+Melissa Lemire,F,SBD,Raw,Open,84,127.5,62.5,137.5,327.5
+Oliver Butler,M,SBD,Raw,MR-Jr,74,140.0,77.5,195.0,412.5
+Jonathan Vidrine,M,SBD,Single-ply,M-T1,52,113.4,-72.6,111.1,151.9
+Gregory Osipov,M,SBD,Raw,Open,74,115.0,67.5,150.0,332.5
+Fausta Vaičiūnaitė,F,SBD,Raw,Junior,63,90.0,-50.0,100.0,140.0
+Thomas Johnston #3,M,SBD,Raw,Junior,105,210.0,-100.0,230.0,340.0
+Nils-Petter Knudsen,M,SBD,Single-ply,Open,110,200.0,110.0,200.0,510.0
+Jeremy Williams,M,SBD,Raw,MR-O,120+,185.0,160.0,220.0,565.0
+Pedro Juan Sosof Quiacain,M,SBD,Raw,Juniors,59,102.06,-83.91,142.88,161.03
+Dmitriy Olesov,M,SBD,Raw,Open,59,100.0,55.0,130.0,285.0
+Mikhail Sidorov,M,SBD,Single-ply,Masters 1,83,260.0,170.0,242.5,672.5
+浮田 大輔,M,SBD,Single-ply,Juniors,56,140.0,100.0,170.0,410.0
+Shaun Magill,M,SBD,Raw,MR-Jr,83,232.5,-137.5,295.0,390.0
+Yosyp Bodnar,M,SBD,Single-ply,Juniors,90,195.0,110.0,220.0,525.0
+Lidija Krivickienė,F,SBD,Single-ply,Open,76+,-160.0,80.0,160.0,80.0
+Taylor Hamling,M,SBD,Raw,Juniors,83,150.0,105.0,170.0,425.0
+Kenji Nakama,M,SBD,Raw,Masters 2,74,165.0,135.0,190.0,490.0
+Adam Pinkard,M,SBD,Single-ply,Open,125+,-290.0,200.0,240.0,150.0
+Roland Bautista,M,SBD,Raw,Juniors,66,140.0,97.5,195.0,432.5
+Alison Day,F,SBD,Raw,F-C-Open,72,110.0,-72.5,135.0,172.5
+Robert Maher,M,SBD,Raw,MR-O,93,192.5,132.5,222.5,547.5
+Yesika Dariana Carmona Mendez,F,SBD,Raw,Open,69,-160.0,65.0,150.0,55.0
+Viktória Tamási,F,SBD,Raw,Masters 1,63,92.5,52.5,125.0,270.0
+Mike McQuaid,M,SBD,Raw,MR-M1,83,175.0,115.0,210.0,500.0
+Sandra Dailidytė,F,SBD,Raw,F-C-Open,84,127.5,62.5,155.0,345.0
+矢口 一輝,M,SBD,Raw,High School,59,130.0,-65.0,140.0,205.0
+Tiffany Bolingbroke,F,SBD,Raw,Masters 1,63,120.0,62.5,137.5,320.0
+Bobby Mulroney,M,SBD,Raw,MR-O,83,165.0,110.0,167.5,442.5
+Mikhailo Kurbatsky,M,SBD,Single-ply,Masters 1,125,220.0,-150.0,230.0,300.0
+Damian Clayton,M,SBD,Single-ply,Open,125+,200.0,125.0,220.0,545.0
+Marek Vavrek,M,SBD,Raw,Dorastenci,105,170.0,-105.0,210.0,275.0
+Camille Dhenin,F,SBD,Raw,Sub-Juniors,57,65.0,32.5,72.5,170.0
+Kristin Furset,F,SBD,Raw,Juniors 19-23,63,80.0,45.0,120.0,245.0
+Carina Sheel,F,SBD,Raw,Juniors,57,-97.5,62.5,115.0,80.0
+Stephanie Sowin,F,SBD,Raw,FR-O,56,95.0,42.5,115.0,252.5
+Susan Kwasny,F,SBD,Raw,FR-O,56,75.0,40.0,97.5,212.5
+Bjørn Andreas Bull-Hansen,M,SBD,Single-ply,Open,110,280.0,-190.0,280.0,370.0
+Jack Long,M,SBD,Raw,M-C-U23,83,165.0,132.5,230.0,527.5
+Mayara Sprotte,F,SBD,Single-ply,Open,69,182.5,92.5,162.5,437.5
+Vivien Röder,F,SBD,Raw,Open,72,110.0,87.5,140.0,337.5
+Jamie Broussard,F,SBD,Single-ply,F-O,52,107.5,60.0,107.5,275.0
+Franco Rodriguez,M,SBD,Raw,Juniors,105,165.0,90.0,200.0,455.0
+Marius Jemtland,M,SBD,Single-ply,Open,93,-270.0,215.0,245.0,190.0
+Owen David Forero Montenegro,M,SBD,Raw,Sub-Juniors,83,-180.0,100.0,185.0,105.0
+Brenner Furlong,M,SBD,Raw,MR-T2,83,152.5,110.0,170.0,432.5
+Keissy Garcia Candanoza,F,SBD,Raw,Open,52,135.0,65.0,150.0,350.0
+Lyudmila Gaiduchenko,F,SBD,Single-ply,Open,90,192.5,135.0,222.5,550.0
+Brett Guthrie,M,SBD,Raw,Masters 2,105,160.0,90.0,200.0,450.0
+Keijo Pasanen,M,SBD,Raw,Open,83,165.0,140.0,200.0,505.0
+Gabrian Meier,M,SBD,Raw,MR-O,93,230.0,152.5,257.5,640.0
+Lilli Rojas,F,SBD,Single-ply,F-Jr,43,-70.0,27.5,-72.5,-115.0
+Sam White,M,SBD,Single-ply,M-T2,110,-220.0,175.0,-207.5,-252.5
+Dalibor Jovanović,M,SBD,Raw,J,74,100.0,95.0,150.0,345.0
+Mariya Epishina,F,SBD,Single-ply,Juniors,60,140.0,72.5,-140.0,72.5
+Sofia Fattobene,F,SBD,Raw,Sub-Junior,63,135.0,72.5,-145.0,62.5
+Tiffany Chapon,F,SBD,Raw,Open,47,157.5,97.5,162.5,417.5
+Royce Chen,M,SBD,Raw,MR-O,83,217.5,-147.5,250.0,320.0
+Richard Pell,M,SBD,Single-ply,Open,60,-237.5,105.0,215.0,82.5
+Diane Köffler,F,SBD,Single-ply,Aktive,67.5,85.0,45.0,115.0,245.0
+Spencer Minnix,M,SBD,Raw,MR-M1,93,225.0,155.0,225.0,605.0
+Wendy Williams #1,F,SBD,Raw,F-C-Open,72,90.0,45.0,130.0,265.0
+Jordyn Halladay,F,SBD,Raw,Youth 2,47,42.5,25.0,57.5,125.0
+Nicholas Tiller,M,SBD,Raw,MR-O,93,155.0,102.5,167.5,425.0
+Kerry Ferguson,M,SBD,Raw,MR-Jr,74,157.5,102.5,177.5,437.5
+Janice Shulman,F,SBD,Raw,Masters 4,52,55.0,37.5,80.0,172.5
+Tabitha Panton,F,SBD,Raw,F-C-U23,84,110.0,55.0,130.0,295.0
+Veljko Štrbanovic,M,SBD,Raw,J,59,85.0,75.0,120.0,280.0
+Petri Heikkinen,M,SBD,Single-ply,Open,100,295.0,200.0,270.0,765.0
+Róbert Valach,M,SBD,Single-ply,Sub-Juniors,110,290.0,165.0,290.0,745.0
+Grzegorz Bracha,M,SBD,Raw,Seniorzy,74,190.0,135.0,212.5,537.5
+Elias Pedersen,M,SBD,Raw,Open,66,105.0,55.0,110.0,270.0
+Thiago Santos,M,SBD,Raw,MR-O,93,-125.0,112.5,160.0,147.5
+Andrew Thompson #1,M,SBD,Single-ply,Open,125+,320.0,260.0,305.0,885.0
+Aino Askala,F,SBD,Raw,Open,72,110.0,85.0,137.5,332.5
+Mark Johnson #15,M,SBD,Single-ply,Open,100,265.0,192.5,-265.0,192.5
+Gary Wong,M,SBD,Raw,MR-Jr,105,217.5,137.5,227.5,582.5
+Merle Rimbach,F,SBD,Raw,Juniors,63,105.0,55.0,130.0,290.0
+Trey Rikard,M,SBD,Raw,MR-O,83,225.0,140.0,265.0,630.0
+Jun Furukawa,M,SBD,Single-ply,Juniors,83,280.0,160.0,-270.0,170.0
+Andrew Sevillano,M,SBD,Raw,Open,74,150.0,110.0,-180.0,80.0
+Paulius Ignatavičius,M,SBD,Single-ply,M-Sj,66,160.0,95.0,200.0,455.0
+Swara Salim Ibrahim,M,SBD,Single-ply,Juniors 19-23,93,185.0,-140.0,220.0,265.0
+Chun-Hsiung Lee,M,SBD,Single-ply,Open,90,250.0,120.0,270.0,640.0
+Konstantinos Chalkidis,M,SBD,Raw,Sub-Junior,83,-110.0,67.5,125.0,82.5
+John Dugas,M,SBD,Raw,MR-O,120+,192.5,97.5,230.0,520.0
+Wim Wamsteeker,M,SBD,Raw,Masters 2,120+,215.0,-120.0,227.5,322.5
+Paul Boss,M,SBD,Raw,MR-V,83,160.0,120.0,200.0,480.0
+Oleksandr Yermakov,M,SBD,Single-ply,Masters 1,75,180.0,110.0,190.0,480.0
+Hannah Bryan,F,SBD,Raw,FR-Jr,72,120.0,-95.0,130.0,155.0
+Lee-Lou Connebert,F,SBD,Raw,Open,52,90.0,45.0,100.0,235.0
+Gabriela Znik,F,SBD,Single-ply,Juniors,44,65.0,35.0,-85.0,15.0
+Michela Gubernati,F,SBD,Single-ply,Master I,69,180.0,87.5,185.0,452.5
+Claire Hendy,F,SBD,Raw,F-C-M1,72,87.5,52.5,122.5,262.5
+James McIlwaine,M,SBD,Raw,M-C-U23,74,195.0,95.0,185.0,475.0
+Romain Boissel,M,SBD,Raw,Seniors,83,-180.0,130.0,240.0,190.0
+Rachel Gallagher,F,SBD,Raw,FR-O,57,100.0,60.0,110.0,270.0
+Gianni Loddo,M,SBD,Raw,Sub-Juniors,66,120.0,90.0,160.0,370.0
+Joseph Borenstein,M,SBD,Raw,MR-O,83,277.5,202.5,355.0,835.0
+Sharma Arvind,M,SBD,Single-ply,Open,125,300.0,177.5,300.0,777.5
+Emma Montfort,F,SBD,Raw,Cadet,63,25.0,20.0,45.0,90.0
+Mathew Ung,M,SBD,Raw,Juniors,105,180.0,145.0,180.0,505.0
+Raluca-Florica Popp,F,SBD,Raw,F-C-Open,57,-75.0,42.5,100.0,67.5
+Tay Wee Kee,M,SBD,Raw,Junior,66,160.0,90.0,157.5,407.5
+Victor Colon-Seekwar,M,SBD,Raw,MR-C,83,157.5,110.0,212.5,480.0
+Andrew Berardinelli,M,SBD,Raw,MR-O,105,207.5,105.0,237.5,550.0
+Camilo Andres Roman Castiblanco,M,SBD,Raw,Juniors,66,140.0,70.0,150.0,360.0
+Andrew Allden,M,SBD,Raw,Juniors,93,185.0,132.5,225.0,542.5
+Sheng-Ci Su,F,SBD,Single-ply,Sub-Juniors,84+,190.0,90.0,160.0,440.0
+Jacob Myers,M,SBD,Raw,MR-Jr,93,182.5,110.0,242.5,535.0
+Brock Conrad,M,SBD,Raw,MR-O,83,117.5,95.0,142.5,355.0
+Elizabeth Carpenter,F,SBD,Raw,FR-M1a,84+,107.5,77.5,150.0,335.0
+Zachary Roberts,M,SBD,Raw,MR-O,105,197.5,125.0,245.0,567.5
+Irandousttari Amin,M,SBD,Single-ply,Juniors,90,-230.0,140.0,225.0,135.0
+Aleksandr Yakovlev,M,SBD,Single-ply,Open,67.5,220.0,140.0,-220.0,140.0
+Joseph Medved,M,SBD,Single-ply,Open,90,220.0,125.0,230.0,575.0
+Catherine Sorrenson,F,SBD,Raw,Masters 1,57,-113.0,70.0,125.5,82.5
+Kristi Anne Veien,F,SBD,Raw,Masters 40-49,84+,80.0,55.0,115.0,250.0
+Piotr Burzawa,M,SBD,Raw,Juniorzy do lat 20,66,115.0,75.0,-145.0,45.0
+Yngve Gustafsson,M,SBD,Single-ply,Open,125+,342.5,-232.5,297.5,407.5
+Daniel Hodsdon,M,SBD,Raw,MR-Jr,74,130.0,110.0,130.0,370.0
+Paulina Pajączkowska,F,SBD,Single-ply,Juniorki do lat 23,63,160.0,77.5,160.0,397.5
+Artur Bechthold,M,SBD,Raw,Open,93,180.0,135.0,200.0,515.0
+Louisa Salmon,F,SBD,Raw,F-C-Open,72,110.0,72.5,110.0,292.5
+Alexis Castro #1,M,SBD,Raw,MR-O,74,132.5,90.0,-162.5,60.0
+Leo Sustaita,M,SBD,Raw,MR-T3,74,215.0,130.0,217.5,562.5
+Madalina Ivanovici,F,SBD,Single-ply,Junior II,52,50.0,30.0,70.0,150.0
+Jake Dawes-Smith,M,SBD,Raw,MR-O,74,135.0,92.5,160.0,387.5
+Kim Kohl,M,SBD,Raw,Open,74,162.5,112.5,187.5,462.5
+Gina Hensley,F,SBD,Raw,FR-O,84,165.0,102.5,182.5,450.0
+長谷川 真紀,F,SBD,Single-ply,Open,57,120.0,75.0,120.0,315.0
+Janne-Pekka Hakala,M,SBD,Single-ply,Over 40,90,-200.0,135.0,210.0,145.0
+Zoey Carrico,F,SBD,Raw,FR-C,63,105.0,55.0,105.0,265.0
+Davide Boccia,M,SBD,Raw,Senior,93,140.0,100.0,180.0,420.0
+Lukáš Trtil,M,SBD,Single-ply,Open,120,180.0,-120.0,200.0,260.0
+Max Liersch,M,SBD,Raw,Juniors,105,155.0,95.0,175.0,425.0
+Mikael Gullander,M,SBD,Raw,Open,105,270.0,187.5,300.0,757.5
+Seth Botelho,M,SBD,Raw,MR-O,83,147.5,125.0,182.5,455.0
+Érica Duque,F,SBD,Raw,Open,47,95.0,52.5,97.5,245.0
+Miroslav Koprnicky,M,SBD,Single-ply,Masters 3,93,-190.0,157.5,210.0,177.5
+Emmanuel Preclaire,M,SBD,Raw,Masters 1,93,170.0,120.0,220.0,510.0
+Till Thomale,M,SBD,Single-ply,Open,83,205.0,162.5,200.0,567.5
+Zdravko Petrov,M,SBD,Single-ply,M-O,83,285.0,190.0,245.0,720.0
+Vanessa Trujillo,F,SBD,Raw,FR-O,84,122.5,55.0,130.0,307.5
+Ching-Lun Lin,M,SBD,Raw,Open,66,180.0,135.0,227.5,542.5
+Felicia Jiang,F,SBD,Raw,Open,47,102.5,45.0,110.0,257.5
+Georg Øksendal,M,SBD,Raw,Masters 40-49,120+,180.0,185.0,200.0,565.0
+中条 義喜,M,SBD,Single-ply,Open,56,170.0,105.0,180.0,455.0
+Yosuke Kiuchi,M,SBD,Single-ply,Open,66,270.0,165.0,265.0,700.0
+Calvin Larson,M,SBD,Raw,Masters 1,105,145.0,-110.0,180.0,215.0
+Nikolaos Karras,M,SBD,Raw,Juniors,93,240.0,160.0,267.5,667.5
+Nick Napoli,M,SBD,Raw,MR-T2,83,-155.0,-72.5,165.0,-62.5
+Thao Doan,F,SBD,Raw,FR-C,52,65.0,-32.5,77.5,110.0
+Brian Hegemann,M,SBD,Raw,MR-M,93,165.0,120.0,165.0,450.0
+王诚胤,M,SBD,Raw,Open,83,180.0,125.0,175.0,480.0
+Sari Rauhala,F,SBD,Single-ply,Open,84+,55.0,90.0,85.0,230.0
+Hugo B Klopfenstein,M,SBD,Raw,Open,93,187.5,130.0,255.0,572.5
+Zaccaria Jerdouh,M,SBD,Single-ply,Junior,74,180.0,110.0,210.0,500.0
+Jesse Korpi,M,SBD,Raw,Under 18,93,110.0,95.0,170.0,375.0
+Tyler Prata,M,SBD,Raw,MR-O,83,145.0,100.0,225.0,470.0
+Gabor Laczka,M,SBD,Single-ply,Sub-Juniors,100,-230.0,155.0,230.0,155.0
+Pierre Fontenot,M,SBD,Raw,MR-T3,93,185.0,142.5,210.0,537.5
+Stanislav Alistratov,M,SBD,Single-ply,Juniors,120+,270.0,140.0,260.0,670.0
+Asgeir Hoel,M,SBD,Single-ply,Open,105,330.0,232.5,305.0,867.5
+Brandi Eberly,F,SBD,Raw,FR-O,75,72.5,45.0,100.0,217.5
+Roland Eslava,M,SBD,Raw,Juniors,93,187.5,110.0,202.5,500.0
+Matt Lingard,M,SBD,Raw,M-C-M1,93,210.0,145.0,220.0,575.0
+AJ Delutis,M,SBD,Raw,MR-Jr,93,172.5,115.0,205.0,492.5
+Keaton Kaulfus,M,SBD,Single-ply,M-T2,93,177.5,125.0,182.5,485.0
+Kane Kavanagh-Baer,M,SBD,Raw,M-O,120,215.0,127.5,245.0,587.5
+Nathan Zielinski,M,SBD,Raw,MR-JV,74,127.5,75.0,175.0,377.5
+Bertram Worm,M,SBD,Raw,Sub-Juniors,83,172.5,105.0,200.0,477.5
+Robert Cintron,M,SBD,Raw,MR-T3,83,-185.0,145.0,197.5,157.5
+Paula Duarte,F,SBD,Raw,Juniors,57,95.0,45.0,117.5,257.5
+Sajeevan Bhaskaran,M,SBD,Single-ply,Open,52,170.0,80.0,220.0,470.0
+Petter Pettersen,M,SBD,Single-ply,Juniors 19-23,82.5,180.0,105.0,200.0,485.0
+Elisabeth Leirvik,F,SBD,Raw,Teen 14-18,76,87.5,42.5,92.5,222.5
+Zackary Borawski,M,SBD,Raw,MR-T2,83,-130.0,-92.5,142.5,-80.0
+Judy Wang,F,SBD,Raw,FR-O,84,137.5,52.5,137.5,327.5
+Abhishek Dubey,M,SBD,Single-ply,Juniors,93,277.5,170.0,-267.5,180.0
+Antonio Miletić,M,SBD,Raw,Open,74,105.0,75.0,140.0,320.0
+Weronika Kawa,F,SBD,Raw,Seniorki,69,100.0,47.5,125.0,272.5
+Omar Khan,M,SBD,Raw,M-C-U23,74,180.0,105.0,210.0,495.0
+Isaiah Siulepa,M,SBD,Raw,Open,93,210.0,122.5,220.0,552.5
+Ty Stapleton,M,SBD,Single-ply,Open,90,-300.0,207.5,275.0,182.5
+Pedro Antonio Baldan Mendes,M,SBD,Single-ply,Open,120,-240.0,150.0,225.0,135.0
+Alana Olivieri,F,SBD,Raw,Open,72,-105.0,55.0,130.0,80.0
+Hui-Chuan Huang,F,SBD,Single-ply,Open,47,100.0,65.0,155.0,320.0
+Nimród Kovács,M,SBD,Raw,Juniors,93,165.0,-110.0,175.0,230.0
+Elizabeth Irvine,F,SBD,Raw,Juniors,76,137.5,95.0,150.0,382.5
+Carmen Pirva,F,SBD,Single-ply,Junior II,90,20.0,20.0,30.0,70.0
+Yanis Hadjadj,M,SBD,Raw,Sub-Juniors,74,130.0,70.0,140.0,340.0
+Julius Ingelow,M,SBD,Single-ply,Juniors,66,170.0,105.0,190.0,465.0
+Joel Chan,M,SBD,Raw,Juniors,66,170.0,120.0,205.0,495.0
+Eric Oishi,M,SBD,Raw,Masters 1,66,205.0,115.0,180.0,500.0
+Marina Džapo,F,SBD,Raw,Open,63,-70.0,35.0,90.0,55.0
+Hubert Boudreault,M,SBD,Raw,Open,93,190.0,122.5,242.5,555.0
+Chiang Yi,F,SBD,Raw,Women's Raw Open,76,85.0,47.5,110.0,242.5
+Oddbjørn Viken,M,SBD,Raw,Masters 50-59,105,-157.5,112.5,182.5,137.5
+Haakon Borstad,M,SBD,Raw,MR-O,120,177.5,115.0,225.0,517.5
+S S Sreelakshmi,F,SBD,Raw,Open,47,70.0,50.0,90.0,210.0
+Sanna Ahonen,F,SBD,Raw,Open,63,80.0,-65.0,90.0,105.0
+Sophia Ellis,F,SBD,Raw,FR-Jr,72,127.5,90.0,182.5,400.0
+Pei-Yu Wang,M,SBD,Raw,Open,120+,350.0,205.0,325.0,880.0
+Ilias Kousanas,M,SBD,Raw,Open,66,120.0,90.0,150.0,360.0
+Samuel Stoiber,M,SBD,Raw,MR-C,105,160.0,107.5,215.0,482.5
+Matteo Morri,M,SBD,Raw,Junior,74,215.0,120.0,210.0,545.0
+Craig Bolton,M,SBD,Single-ply,Masters 1,120,245.0,150.0,235.0,630.0
+Ewelina Czop,F,SBD,Raw,Seniorki,63,105.0,40.0,105.0,250.0
+Jaspal Panesar,M,SBD,Raw,MR-G,93,182.5,97.5,250.0,530.0
+Dmitriy Yamschikov,M,SBD,Single-ply,Juniors,82.5,280.0,170.0,260.0,710.0
+Justin Mike,M,SBD,Raw,MR-O,59,-102.5,112.5,117.5,127.5
+Silja Mansikka-Aho,F,SBD,Raw,Masters 3,72,65.0,40.0,110.0,215.0
+Rochene Hawley,F,SBD,Raw,Open,57,92.5,52.5,105.0,250.0
+Anatoliy Solomonov,M,SBD,Single-ply,Open,125+,-310.0,200.0,200.0,90.0
+Kyle Knapp,M,SBD,Raw,MR-C,74,-192.5,120.0,192.5,120.0
+Ilka Schwengl-Forsthuber,F,SBD,Single-ply,Open,48,120.0,92.5,127.5,340.0
+Dave Dunford,M,SBD,Single-ply,Masters 1,105,-290.0,200.0,275.0,185.0
+Caleb Lamberth,M,SBD,Raw,MR-O,105,225.0,145.0,250.0,620.0
+Edouard Blanc,M,SBD,Raw,Juniors,83,195.0,115.0,195.0,505.0
+Juraj Gorupec,M,SBD,Raw,Open,83,185.0,97.5,185.0,467.5
+Brenda Rubio Amorós,F,SBD,Raw,SNR,52,100.0,50.0,120.0,270.0
+Adrian O'Callaghan,M,SBD,Raw,M-C-Open,83,185.0,120.0,200.0,505.0
+Theresa Baccielo,F,SBD,Raw,FR-O,76,122.5,85.0,135.0,342.5
+Tuomas Korkia-Aho,M,SBD,Single-ply,Juniors,125+,340.0,310.0,200.0,850.0
+Chris Heaton-Harris,M,SBD,Raw,M-Novice,74,90.0,85.0,150.0,325.0
+Alex Ziepke,F,SBD,Single-ply,F-V,52,97.5,42.5,100.0,240.0
+Andrei Irimie,M,SBD,Single-ply,Open,93,215.0,255.0,180.0,650.0
+Emmanuel Foster,M,SBD,Raw,Open,66,182.5,117.5,210.0,510.0
+Michael Porter #2,M,SBD,Raw,MR-T1,74,107.5,70.0,150.0,327.5
+Sławomir Śledź,M,SBD,Raw,Weterani 40-49 lat,83,190.0,140.0,210.0,540.0
+Josee Doyle,F,SBD,Raw,Sub-Juniors,52,72.5,37.5,90.0,200.0
+Chantelle Campling,F,SBD,Raw,FR-M2,84+,105.0,67.5,135.0,307.5
+Thomas Hickman,M,SBD,Raw,Sub-Juniors,83,147.5,80.0,200.0,427.5
+Corey Taylor,M,SBD,Single-ply,M-V,60,157.5,102.5,160.0,420.0
+Vladimir Jović,M,SBD,Raw,O,74,115.0,115.0,120.0,350.0
+Wassem Anwar Mohsen,M,SBD,Raw,Open,59,197.5,120.0,225.0,542.5
+Alonso Rodriguez,M,SBD,Raw,MR-Jr,74,-197.5,-115.0,222.5,-90.0
+Timo Leskinen,M,SBD,Raw,Over 40,120+,230.0,-150.0,230.0,310.0
+Sanna-Mari Jauhola,F,SBD,Raw,Over 40,52,80.0,37.5,95.0,212.5
+Jonathan Alessi,M,SBD,Raw,MR-O,83,170.0,107.5,185.0,462.5
+Joseph Delvaux,M,SBD,Raw,MR-Jr,93,215.0,135.0,265.0,615.0
+Clément Lomberget,M,SBD,Raw,Juniors,74,160.0,102.5,170.0,432.5
+Joe Richards,M,SBD,Raw,MR-Jr,93,220.0,120.0,-235.0,105.0
+Luke Watson,M,SBD,Raw,MR-Sj,74,130.0,110.0,160.0,400.0
+Danielle Moeckel,F,SBD,Raw,FR-O,52,87.5,45.0,115.0,247.5
+Brianna Ritchie,F,SBD,Raw,FR-Y,43,17.5,15.0,42.5,75.0
+Göksu Sarıca,F,SBD,Raw,FR-O,69,115.0,45.0,120.0,280.0
+Tetyana Skrypka,F,SBD,Single-ply,Sub-Juniors,75,-215.0,135.0,200.0,120.0
+Tyler Capps,M,SBD,Raw,MR-O,83,195.0,125.0,192.5,512.5
+Atle Edvardsen,M,SBD,Single-ply,Open,90,270.0,165.0,275.0,710.0
+Ryan Lee #2,M,SBD,Raw,MR-O,93,170.0,90.0,182.5,442.5
+Alexander Hansen,M,SBD,Raw,Teen 14-18,120,145.0,90.0,180.0,415.0
+Joe Lucio,M,SBD,Raw,MR-M3b,100,140.0,95.0,160.0,395.0
+Garcia Walter,M,SBD,Raw,Masters 1,105,215.0,170.0,190.0,575.0
+Susanne Raukola,F,SBD,Raw,Under 17,63,95.0,50.0,105.0,250.0
+管巧梅,F,SBD,Raw,Open,52,120.0,-45.0,140.0,215.0
+Rugilė Murauskaitė,F,SBD,Raw,Sub-Junior,63+,70.0,37.5,95.0,202.5
+Patryk Ogorzałek,M,SBD,Raw,Juniorzy do lat 20,74,190.0,-110.0,220.0,300.0
+Jean Canestrier,M,SBD,Raw,Masters 2,74,140.0,90.0,160.0,390.0
+Tyson Montoya,M,SBD,Raw,MR-C,93,202.5,125.0,215.0,542.5
+Artem Tsarkov,M,SBD,Single-ply,Sub-Juniors,52,120.0,-60.0,120.0,180.0
+Cassandra Concepcion,F,SBD,Raw,FR-Jr,72,-107.5,47.5,130.0,70.0
+Mitchell Fountain,M,SBD,Raw,MR-C,105,245.0,147.5,267.5,660.0
+Róbert Valach,M,SBD,Single-ply,Juniors,120,340.0,-220.0,320.0,440.0
+Aleksander Tokarek,M,SBD,Raw,Seniorzy,66,80.0,60.0,100.0,240.0
+Michael Sivels,M,SBD,Raw,MR-O,105,195.0,130.0,215.0,540.0
+María Estela Cuervo Usano,F,SBD,Raw,SNR,52,-125.0,60.0,130.0,65.0
+Sahil Shah #2,M,SBD,Raw,MR-Sj,66,-130.0,80.0,175.0,125.0
+Oscar Bissonnet,M,SBD,Raw,Cadet,83,35.0,27.5,45.0,107.5
+Jill Joiner-Wong,F,SBD,Raw,FR-O,67.5,117.5,75.0,127.5,320.0
+Marzia Girardi,F,SBD,Raw,Master II,52,90.0,52.5,130.0,272.5
+Aleksandar Živković,M,SBD,Raw,J,93,145.0,100.0,190.0,435.0
+Shelli Poe,F,SBD,Raw,FR-M,63,87.5,50.0,105.0,242.5
+David Arcemant,M,SBD,Raw,MR-O,105,160.0,125.0,205.0,490.0
+Alberto Borrella Díaz,M,SBD,Raw,JUN,93,-190.0,130.0,-230.0,-290.0
+Alexander De Roeck,M,SBD,Raw,Open,83,177.5,102.5,202.5,482.5
+Andrea Gonzales,F,SBD,Single-ply,F-C,60,102.5,-65.0,97.5,135.0
+Sami Siltala,M,SBD,Raw,Masters 1,74,175.0,135.0,230.0,540.0
+Ivan Kondratyuk,M,SBD,Single-ply,Teen 12-14,47,65.0,40.0,85.0,190.0
+William Garcia #1,M,SBD,Single-ply,M-O,66,75.0,185.0,75.0,335.0
+Antti Timonen,M,SBD,Single-ply,Masters 1,100,230.0,160.0,235.0,625.0
+Corbon Moss,M,SBD,Raw,MR-T2,93,160.0,102.5,220.0,482.5
+Markus Granö,M,SBD,Raw,Over 40,120,210.0,140.0,260.0,610.0
+Victor Violette,M,SBD,Raw,Sub-Juniors,93,230.0,142.5,250.0,622.5
+Kanut Wünsch,M,SBD,Single-ply,Aktive,67.5,180.0,100.0,-210.0,70.0
+Patrick Lackner,M,SBD,Raw,Open,93,150.0,-130.0,235.0,255.0
+Aaron Armstrong,M,SBD,Single-ply,M-C,75,222.5,157.5,210.0,590.0
+Robin Lizandro Geronimo Marquez,M,SBD,Raw,Open,105,-142.88,83.91,165.56,106.59
+Aleksandr Kirienko,M,SBD,Single-ply,Open,74,95.0,-95.0,120.0,120.0
+Zulma Bueno,F,SBD,Raw,Masters 1,63,60.0,-30.0,70.0,100.0
+Chambrin Nicolas Francois,M,SBD,Raw,Open,105,-120.0,75.0,150.0,105.0
+Synnøve Lund,F,SBD,Single-ply,Open,67.5,167.5,100.0,155.0,422.5
+Vyacheslav Terzov,M,SBD,Single-ply,Masters 3,82.5,-200.0,100.0,200.0,100.0
+Nikola Bijuk,M,SBD,Raw,Juniors,74,150.0,105.0,185.0,440.0
+Nina Heikkinen,F,SBD,Raw,Sub-Juniors,76,155.0,62.5,140.0,357.5
+Jordan McLaughlin,M,SBD,Raw,Open,120+,305.0,210.0,295.0,810.0
+Samantha Mello,F,SBD,Raw,FR-O,84,-130.0,65.0,147.5,82.5
+Jermaine Seymonson,M,SBD,Raw,Open,105,-160.0,135.0,210.0,185.0
+Brendan Coombs,M,SBD,Raw,Open,120+,260.0,145.0,220.0,625.0
+Andrey Tsvetkov,M,SBD,Single-ply,Juniors,90,207.5,140.0,220.0,567.5
+Dmitriy Levchenko,M,SBD,Single-ply,Open,74,-205.0,100.0,180.0,75.0
+Di Ke Wu,M,SBD,Raw,Juniors,74,190.0,-152.5,245.0,282.5
+Danielle Moss,F,SBD,Raw,FR-O,84,-127.5,72.5,132.5,77.5
+Diarmuid O'Suilleabhain,M,SBD,Raw,M-O,93,210.0,125.0,255.0,590.0
+Sabbas Pourpouridis,M,SBD,Raw,Open,105,-215.0,117.5,220.0,122.5
+Linda Jensen,F,SBD,Raw,Masters 2,57,100.0,62.5,147.5,310.0
+Sophie Duckworth,F,SBD,Raw,FR-Sj,69,55.0,50.0,70.0,175.0
+Charles Heller,M,SBD,Raw,MR-HS,66,112.5,85.0,117.5,315.0
+Madalina Stefan,F,SBD,Raw,SNR,63,115.0,60.0,115.0,290.0
+Andrew Spiers,M,SBD,Single-ply,M-E-G,93,255.0,180.0,270.0,705.0
+Jackson Morris,M,SBD,Raw,MR-O,66,137.5,92.5,160.0,390.0
+Jack Leacock,M,SBD,Raw,MR-Jr,93,185.0,110.0,205.0,500.0
+Mykelle Doud,F,SBD,Raw,Sub-Juniors,84+,120.0,67.5,135.0,322.5
+Alex Richardson,M,SBD,Single-ply,Open,120,180.0,165.0,230.0,575.0
+Anthony Contoleon,M,SBD,Raw,Open,105,195.0,135.0,220.0,550.0
+Andriy Semenkov,M,SBD,Single-ply,Open,100,-220.0,-160.0,215.0,-165.0
+Andrei Petcu,M,SBD,Raw,Juniors,83,-230.0,155.0,255.0,180.0
+Titouan Lafforgue,M,SBD,Raw,Juniors,66,200.0,112.5,215.0,527.5
+Dalibor Jovanović,M,SBD,Raw,J,74,-100.0,100.0,145.0,145.0
+Danielle Rios,F,SBD,Raw,FR-O,72,100.0,65.0,112.5,277.5
+John Endoso,M,SBD,Raw,Open,105,-217.5,-110.0,217.5,-110.0
+Jen Avarell,F,SBD,Raw,FR-O,57,115.0,70.0,135.0,320.0
+Anton Coltsov,M,SBD,Raw,Sub-Juniors,105,172.5,105.0,192.5,470.0
+Muhammad Faisal Bin Samsudin,M,SBD,Raw,Men's Raw Junior,66,165.0,120.0,220.0,505.0
+Päivi Kumpulainen,F,SBD,Single-ply,Juniors,75,-140.0,82.5,135.0,77.5
+Aleksey Belousov,M,SBD,Single-ply,Open,82.5,235.0,170.0,255.0,660.0
+Hunter Griffin,M,SBD,Raw,MR-O,105,-192.5,-97.5,192.5,-97.5
+Sabine Ehrlicher,F,SBD,Single-ply,Masters 1,67.5,90.0,45.0,110.0,245.0
+Aynsley Saucier,F,SBD,Single-ply,F-O,63,90.7,45.4,122.5,258.6
+Julie Hall,F,SBD,Raw,FR-M1,84+,60.0,42.5,87.5,190.0
+Nirit Michaeli,F,SBD,Raw,Open,52,-80.0,40.0,102.5,62.5
+Nirujan Shanmugavadivei,M,SBD,Raw,M-C-Open,74,-195.0,-95.0,-232.5,-522.5
+Jared Bowens,M,SBD,Raw,MR-T3,74,142.5,87.5,190.0,420.0
+Jassin Andre Aarsteinsen Darei,M,SBD,Raw,Juniors 19-23,105,240.0,155.0,250.0,645.0
+Ethan Allsup,M,SBD,Raw,MR-G,93,142.5,-87.5,192.5,247.5
+Jared Gafke,M,SBD,Raw,MR-O,74,152.5,97.5,182.5,432.5
+Husman Hussain,M,SBD,Raw,Open,74,150.0,95.0,212.5,457.5
+Brent Verkooijen,M,SBD,Raw,Juniors,93,200.0,132.5,240.0,572.5
+Mikhail Shatunov,M,SBD,Raw,Open,74,120.0,105.0,160.0,385.0
+Alexandr Kuramshin,M,SBD,Raw,Open,66,170.0,110.0,200.0,480.0
+Tommy Herheim,M,SBD,Raw,Masters 50-59,93,165.0,125.0,205.0,495.0
+Benjamin Yu,M,SBD,Raw,Open,66,-167.5,125.0,-197.5,-240.0
+Daniel Stojanoski,M,SBD,Raw,Open,56,80.0,-52.5,120.0,147.5
+Sloan Toth,M,SBD,Raw,MR-Jr,82.5,127.5,95.0,172.5,395.0
+Brad Gillingham,M,SBD,Raw,MR-O,125+,300.0,230.0,345.0,875.0
+Ilkka Launonen,M,SBD,Raw,Masters 3,93,155.0,150.0,195.0,500.0
+Ronan Bell,M,SBD,Raw,M-C-M2,74,160.0,110.0,180.0,450.0
+Chris Reich,M,SBD,Raw,MR-O,105,132.5,85.0,167.5,385.0
+Lilou Bellaunay,F,SBD,Raw,Sub-Juniors,57,70.0,40.0,77.5,187.5
+Andrew Keller,M,SBD,Raw,MR-T3,83,-185.0,130.0,210.0,155.0
+Sovannphaktra Pal,F,SBD,Raw,Seniors,57,120.0,62.5,142.5,325.0
+Justin Quedado,M,SBD,Raw,Open,74,225.0,155.0,282.5,662.5
+Alex Orwin,M,SBD,Raw,Open,105,227.5,150.0,255.0,632.5
+Carlo E Melendez,M,SBD,Single-ply,M-O,74,-247.5,-197.5,225.0,-220.0
+Frederic Larose,M,SBD,Raw,Open,74,160.0,115.0,190.0,465.0
+Veronika Zemková,F,SBD,Raw,Juniors,84,135.0,75.0,140.0,350.0
+Benjamin Baldwin,M,SBD,Single-ply,Teen 14-18,100,185.0,-110.0,185.0,260.0
+Donna Elder,F,SBD,Raw,F-C-Open,84,110.0,47.5,130.0,287.5
+Kristi Polizzano,F,SBD,Raw,FR-T3,48,85.0,60.0,110.0,255.0
+Anika S Nielsen,F,SBD,Raw,Open,69,110.0,50.0,130.0,290.0
+Tatyana Popova,F,SBD,Single-ply,Juniors,52,70.0,-45.0,75.0,100.0
+Megan Plouffe,F,SBD,Raw,Juniors,63,102.5,-57.5,115.0,160.0
+Alexander Diepold,M,SBD,Single-ply,Masters 4,66,130.0,95.0,135.0,360.0
+Eva Wolff,F,SBD,Single-ply,Open,72,90.0,52.5,125.0,267.5
+Kelly Schlobohm,F,SBD,Single-ply,F-M2,63,145.0,82.5,175.0,402.5
+Devin Jackson,M,SBD,Raw,MR-Jr,93,242.5,130.0,222.5,595.0
+鈴木 一裕,M,SBD,Single-ply,Open,67.5,180.0,90.0,170.0,440.0
+Jessica Doyle,F,SBD,Raw,FR-T2,84+,90.0,45.0,120.0,255.0
+Fiona Mcdonogh,F,SBD,Raw,Open,84+,-145.0,62.5,115.0,32.5
+Joana Pereira,F,SBD,Raw,Masters 2,84,110.0,40.0,100.0,250.0
+Steven Milioto-Crowe,M,SBD,Raw,MR-T2,66,172.5,95.0,187.5,455.0
+Kyle Chin Shue,M,SBD,Raw,MR-O,105,172.5,112.5,220.0,505.0
+Ayla Murray,F,SBD,Raw,Juniors,84+,90.0,47.5,100.0,237.5
+Maxence Babcamik,M,SBD,Raw,Sub-Juniors,74,85.0,60.0,120.0,265.0
+Tibor Kreizler,M,SBD,Raw,Open,120,182.5,132.5,210.0,525.0
+Erik Němec,M,SBD,Raw,Juniors,93,247.5,140.0,295.0,682.5
+Dave Jacoby,M,SBD,Single-ply,Open,110,-365.0,-202.5,322.5,-245.0
+Phonaek Meepalang,M,SBD,Raw,Juniors,74,197.5,100.0,225.0,522.5
+John Ivar Pettersen,M,SBD,Single-ply,Teen 14-18,74,195.0,125.0,195.0,515.0
+Justyna Szarek,F,SBD,Raw,Seniorki,69,165.0,95.0,-180.0,80.0
+Francis Martineau,M,SBD,Raw,Open,105,265.0,147.5,250.0,662.5
+Cathy Phatien,F,SBD,Raw,Seniors,47,85.0,47.5,100.0,232.5
+Dave Brown #2,M,SBD,Raw,M-C-M3,66,82.5,67.5,-122.5,27.5
+Andrey Petrov,M,SBD,Single-ply,Open,100,280.0,190.0,270.0,740.0
+Jarren Vizena,M,SBD,Single-ply,M-O,74,122.5,65.0,142.5,330.0
+Michael Mcauley-MacDonald,M,SBD,Raw,MR-V,66,175.0,110.0,175.0,460.0
+Bilal Abdelwahed,M,SBD,Raw,Open,93,-160.0,105.0,180.0,125.0
+Peter Byrne,M,SBD,Raw,MR-O,93,-190.0,135.0,210.0,155.0
+Timothy Bagla,M,SBD,Single-ply,M-J,66,185.0,-110.0,192.5,267.5
+Kjell Korneliussen,M,SBD,Single-ply,Open,83,130.0,140.0,170.0,440.0
+Everardo Crispin,M,SBD,Raw,MR-Jr,74,260.0,165.0,265.0,690.0
+James Almachi,M,SBD,Single-ply,Juniors,53,-180.0,90.0,195.0,105.0
+Meghan Hogan,F,SBD,Raw,FR-O,72,-125.0,82.5,147.5,105.0
+Otto Manninen,M,SBD,Raw,Open,105,195.0,135.0,215.0,545.0
+内山 新太郎,M,SBD,Raw,Masters 4,59,100.0,65.0,140.0,305.0
+Timo Rantala,M,SBD,Raw,Masters 2,120+,175.0,140.0,200.0,515.0
+Sarah Rosåsen,F,SBD,Raw,Juniors 19-23,84+,145.0,100.0,160.0,405.0
+Bartosz Gamszej,M,SBD,Raw,Seniorzy,83,50.0,-50.0,60.0,60.0
+Kayley Phillips,F,SBD,Raw,Open,52,110.0,55.0,150.0,315.0
+Abdullah Sami Qashqary,M,SBD,Raw,Sub-Juniors,83,162.5,107.5,172.5,442.5
+Peter Spence,M,SBD,Raw,MR-O,120,190.0,110.0,227.5,527.5
+Eric Desmoulin,M,SBD,Raw,Masters 2,105,192.5,135.0,215.0,542.5
+Christine Dutrow,F,SBD,Raw,FR-O,63,100.0,52.5,122.5,275.0
+Charito A Kløvstad,F,SBD,Raw,Masters +70,57,67.5,37.5,110.0,215.0
+Dmytro Solovyov,M,SBD,Single-ply,Open,75,195.0,150.0,220.0,565.0
+Katie Ramsay,F,SBD,Raw,Open,63,137.5,80.0,160.0,377.5
+Andrew Morris,M,SBD,Raw,MR-T2,93,180.0,135.0,207.5,522.5
+Egil Fredriksen,M,SBD,Raw,Masters 60-69,93,112.5,130.0,140.0,382.5
+Jacob Cook,M,SBD,Raw,MR-Sj,93,132.5,92.5,177.5,402.5
+Abhirami M. V,F,SBD,Raw,Open,84,160.0,70.0,155.0,385.0
+Romain Picot-Guéraud,M,SBD,Single-ply,Juniors,75,255.0,150.0,240.0,645.0
+Wiggo Kalsås,M,SBD,Raw,Juniors 19-23,93,160.0,90.0,190.0,440.0
+Ian Lucy,M,SBD,Raw,MR-Jr,120,242.5,-145.0,265.0,362.5
+Ashley Armstrong #2,F,SBD,Raw,FR-O,63,102.5,62.5,157.5,322.5
+Tatyana Fomina,F,SBD,Single-ply,Masters 2,67.5,-145.0,60.0,142.5,57.5
+Christian Bartolomei,M,SBD,Raw,MR-O,83,200.0,135.0,230.0,565.0
+Ramis Bakhshaliev,M,SBD,Single-ply,Juniors,67.5,150.0,110.0,-180.0,80.0
+Jérémy Vallerand,M,SBD,Raw,Open,120,-325.0,185.0,-310.0,-450.0
+Alex Johnson #3,M,SBD,Raw,MR-T3,83,-137.5,92.5,150.0,105.0
+Anna Komárková,F,SBD,Single-ply,Open,69,130.0,85.0,110.0,325.0
+Jari Nurminen,M,SBD,Raw,Over 40,120,190.0,120.0,200.0,510.0
+Trish Muldrock,F,SBD,Raw,Masters 4,47,75.0,58.0,120.0,253.0
+Branislav Vanga,M,SBD,Raw,Juniori,105,200.0,160.0,250.0,610.0
+Ryan Carriedo,M,SBD,Raw,Juniors,83,187.5,105.0,220.0,512.5
+Ritika Borah,F,SBD,Raw,Open,57,107.5,50.0,125.0,282.5
+Tom Andrews,M,SBD,Raw,M-C-Open,105,190.0,122.5,217.5,530.0
+Marc Guerrero Mayorga,M,SBD,Raw,Open,105,135.0,90.0,185.0,410.0
+Keith Miller,M,SBD,Raw,Juniors,105,215.0,140.0,250.0,605.0
+Emanuele Chirico,M,SBD,Raw,Senior,83,190.0,135.0,210.0,535.0
+Maxime Gorre,M,SBD,Raw,Juniors,93,180.0,115.0,222.5,517.5
+Dorian Thiery,M,SBD,Raw,Seniors,105,285.0,165.0,285.0,735.0
+鳥山 龍実,M,SBD,Single-ply,Open,74,170.0,140.0,190.0,500.0
+Liz Rodriguez,F,SBD,Raw,Sub-Juniors,69,80.0,35.0,100.0,215.0
+Kevin Shepard,M,SBD,Single-ply,Open,100,317.5,217.5,315.0,850.0
+Emil Andexlinger,M,SBD,Raw,Open,120+,260.0,190.0,260.0,710.0
+Jonathan Murphy #4,M,SBD,Raw,MR-O,105,175.0,95.0,195.0,465.0
+Oleksandr Kotendzhi,M,SBD,Single-ply,Open,82.5,270.0,160.0,260.0,690.0
+Chris Meyers,M,SBD,Single-ply,M-O,83,225.0,155.0,205.0,585.0
+Gabriela Martinez,F,SBD,Raw,Sub-Juniors,84+,90.0,35.0,95.0,220.0
+Shay Donald,F,SBD,Raw,FR-M1a,69,82.5,50.0,97.5,230.0
+Yuriy Stepanov,M,SBD,Single-ply,Open,83,300.0,165.0,260.0,725.0
+Diego José Del Valle Almoguera,M,SBD,Raw,JUN,93,-150.0,92.5,200.0,142.5
+Kristine Løvås,F,SBD,Raw,Open,63,70.0,60.0,90.0,220.0
+Enzo Luis Salvatore Zappavigna Ongolo-Mballa,M,SBD,Raw,Sub-Juniors,53,125.0,-97.5,-210.0,-182.5
+Denisa Turková,F,SBD,Single-ply,Open,57,115.0,65.0,90.0,270.0
+Thomas Krzwida,M,SBD,Single-ply,Masters 1,105,-220.0,155.0,220.0,155.0
+Washington Faatauvaa,M,SBD,Single-ply,Open,90,-130.0,-70.0,-130.0,-330.0
+Markus Köberle,M,SBD,Single-ply,Open,83,200.0,135.0,220.0,555.0
+Terry Hedstrom,M,SBD,Single-ply,M-M3b,110,25.0,102.5,165.0,292.5
+Dante Citizen,M,SBD,Single-ply,M-TJ,67.5,180.0,115.0,210.0,505.0
+Rob MacKenzie,M,SBD,Raw,Masters 2,83,140.0,100.0,175.0,415.0
+Lubna El Lawand,F,SBD,Raw,Open,57,105.0,62.5,135.0,302.5
+Harry Heatherington-welch,M,SBD,Raw,Open,105,190.0,160.0,207.5,557.5
+Yuliya Bushuyeva,F,SBD,Single-ply,Juniors,82.5,115.0,50.0,125.0,290.0
+Helen Trenerry,F,SBD,Raw,Masters 3,57,-80.0,50.0,120.0,90.0
+Andy Askow,M,SBD,Raw,Open,120+,335.0,212.5,297.5,845.0
+Chiara Deciantis,F,SBD,Raw,Junior,63,105.0,57.5,132.5,295.0
+Andrew Grambow,M,SBD,Single-ply,M-Sj,105,200.0,75.0,200.0,475.0
+Alex Merritt,M,SBD,Raw,MR-SO,67.5,60.0,60.0,92.5,212.5
+Anatoliy Arkhangelskiy,M,SBD,Single-ply,Open,90,-330.0,175.0,280.0,125.0
+Gwenn Culbertson,F,SBD,Single-ply,F-M1,63,77.5,52.5,100.0,230.0
+Teddy Pearson,M,SBD,Raw,MR-Sj,105,207.5,147.5,210.0,565.0
+Marjo-Riitta Mansikka,F,SBD,Raw,Over 50,63,-60.0,42.5,80.0,62.5
+Chuck Akers,M,SBD,Single-ply,M-M2b,93,195.0,145.0,202.5,542.5
+Piotr Jakimiuk,M,SBD,Raw,Seniorzy,74,235.0,-160.0,260.0,335.0
+Loic Mboukpemade,M,SBD,Raw,Cadet,53,-80.0,40.0,115.0,75.0
+Matthew Lee Ming Kai,M,SBD,Raw,Open,74,212.5,132.5,240.0,585.0
+Jari Ahvo,M,SBD,Raw,Over 50,105,100.0,105.0,180.0,385.0
+Adam Gault,M,SBD,Raw,MR-Sj,93,-170.0,110.0,220.0,160.0
+Rebecca Kennwood,F,SBD,Raw,Open,84,-125.0,72.5,145.0,92.5
+Darren Neves,M,SBD,Single-ply,Open,105,255.0,180.0,200.0,635.0
+Emmanuel Agyemang,M,SBD,Raw,MR-Jr,83,175.0,130.0,232.5,537.5
+Jens Holschbach,M,SBD,Raw,Open,93,185.0,122.5,210.0,517.5
+Peter Robertson,M,SBD,Raw,Masters 1,93,190.0,115.0,205.0,510.0
+Anne-Marije van der Linden,F,SBD,Raw,Open,69,115.0,60.0,125.0,300.0
+Emilio Madera Valerio,M,SBD,Raw,MR-O,105,100.0,65.0,145.0,310.0
+Andrzei Lendo,M,SBD,Single-ply,Weterani 40-49 lat,120+,220.0,-205.0,235.0,250.0
+Elias Kuusikko,M,SBD,Raw,Open,59,70.0,60.0,100.0,230.0
+István Standinger,M,SBD,Raw,Masters 3,120,175.0,120.0,220.0,515.0
+Byron Cesar Omar Tziboy Batz,M,SBD,Raw,Sub-Juniors,53,65.77,43.09,83.91,192.76999999999998
+Jenniford Pofagi,M,SBD,Raw,Seniors,105,275.0,-157.5,262.5,380.0
+Lim Jian Yew,M,SBD,Raw,Men's Raw Junior,105,195.0,130.0,240.0,565.0
+Andrey Aleksandrov,M,SBD,Raw,Open,74,-130.0,85.0,190.0,145.0
+Melissa Forbis,F,SBD,Raw,Masters 2,52,97.5,52.5,107.5,257.5
+Taylor Becker,M,SBD,Raw,Juniors,105,200.0,110.0,215.0,525.0
+Paul Rieger,M,SBD,Raw,Open,83,195.0,127.5,195.0,517.5
+Sergey Dekhtyarev,M,SBD,Single-ply,Open,100,265.0,-165.0,260.0,360.0
+Jasmine Brewer,F,SBD,Single-ply,Freshman/Sophomore,56,92.5,47.5,122.5,262.5
+Jennifer Keane,F,SBD,Single-ply,Open,90+,185.0,105.0,175.0,465.0
+Marie-eve Martin,F,SBD,Raw,Juniors,69,87.5,45.0,105.0,237.5
+Kimberly Swett,F,SBD,Raw,FR-G,84+,-137.5,77.5,-185.0,-245.0
+Hamad Muhammad Al-Arifi,M,SBD,Raw,Open,105,162.5,82.5,140.0,385.0
+Mohammad Subbah,M,SBD,Raw,Open,66,100.0,115.0,140.0,355.0
+Bret Oswald,M,SBD,Raw,MR-O,120,272.5,145.0,295.0,712.5
+Hung Phan,M,SBD,Raw,Open,93,245.0,160.0,290.0,695.0
+Gabrielė Butautaitė,F,SBD,Raw,FR-O,72,117.5,-70.0,135.0,182.5
+Mateo Tristan Freihow,M,SBD,Raw,Teen 14-18,83,155.0,90.0,-170.0,75.0
+Nathan Ernou,M,SBD,Raw,Juniors,74,137.5,90.0,180.0,407.5
+Julian Nguyen,M,SBD,Raw,MR-Jr,74,157.5,115.0,-207.5,65.0
+Eirik Vassdal Sætervik,M,SBD,Raw,Open,66,97.5,82.5,100.0,280.0
+Tim Cuppens,M,SBD,Raw,Open,93,215.0,155.0,225.0,595.0
+Ville Majava,M,SBD,Raw,Open,105,170.0,150.0,220.0,540.0
+Kevin Nguyen #11,M,SBD,Raw,Juniors,83,167.5,110.0,200.0,477.5
+Lukas Stravinskas,M,SBD,Raw,Junior,83,170.0,92.5,185.0,447.5
+Beverly Crawford,F,SBD,Single-ply,Juniors,72,170.0,-77.5,165.0,257.5
+Tobias Hartl,M,SBD,Raw,Open,93,205.0,140.0,225.0,570.0
+Matthew Martin,M,SBD,Raw,MR-O,83,162.5,102.5,177.5,442.5
+Adam Kiernan,M,SBD,Raw,M-C-Open,93,200.0,110.0,230.0,540.0
+Zoraida Bermúdez Doce,F,SBD,Raw,M1,63,130.0,90.0,155.0,375.0
+Benjamin Roussopoulos,M,SBD,Raw,MR-JV,83,-112.5,82.5,157.5,127.5
+Thomas Seitz,M,SBD,Raw,MR-O,66,130.0,80.0,145.0,355.0
+Nicole Smith,F,SBD,Raw,Open,63,105.0,-50.0,115.0,170.0
+Thorsten Krug,M,SBD,Single-ply,Open,125+,260.0,180.0,240.0,680.0
+Brian Odurukwe,M,SBD,Raw,Juniors,83,220.0,137.5,240.0,597.5
+Scarlet Francis,F,SBD,Raw,FR-M3,52,67.5,42.5,92.5,202.5
+Sebastian Atzori,M,SBD,Raw,Open,83,-180.0,110.0,205.0,135.0
+Rebekah Fontana,F,SBD,Raw,Open,52,70.0,40.0,95.0,205.0
+Teemu Mutikainen,M,SBD,Raw,Open,105,265.0,165.0,290.0,720.0
+John Pojman,M,SBD,Single-ply,M-O,93,220.0,115.0,225.0,560.0
+Lise Reierskog,F,SBD,Raw,Masters 40-49,72,100.0,75.0,120.0,295.0
+Józef Cisak,M,SBD,Single-ply,Weterani +70 lat,93,105.0,75.0,125.0,305.0
+Trần Hưng Lân,M,SBD,Raw,MR-O,74,-150.0,102.5,185.0,137.5
+Dai Weihong,M,SBD,Raw,Masters 1,83,185.0,122.5,205.0,512.5
+Mika Juntunen,M,SBD,Raw,Open,74,195.0,125.0,205.0,525.0
+Kane Sherrill,M,SBD,Single-ply,M-O,110,145.0,92.5,160.0,397.5
+John Walls,M,SBD,Raw,Juniors,93,255.0,180.0,257.5,692.5
+Julia Beutel,F,SBD,Raw,Juniors,52,95.0,52.5,125.0,272.5
+Jackie Blasbery,F,SBD,Single-ply,F-E-Open,84,140.0,90.0,160.0,390.0
+Gary Preteau,M,SBD,Raw,Open,93,205.0,147.5,255.0,607.5
+Jonas-René Floß,M,SBD,Single-ply,Youth B,93,60.0,60.0,80.0,200.0
+Patrice Mazouz,M,SBD,Raw,Open,74,155.0,90.0,210.0,455.0
+Mario Pinna,M,SBD,Single-ply,Master I,105,255.0,177.5,255.0,687.5
+Tara Szklenár,F,SBD,Single-ply,Open,63,70.0,50.0,60.0,180.0
+Andrey Konovalov #1,M,SBD,Single-ply,Open,120+,455.0,342.5,345.0,1142.5
+Mauri Huttunen,M,SBD,Raw,Over 40,120,227.5,165.0,220.0,612.5
+Todd Wood,M,SBD,Raw,Open,120,255.0,195.0,267.5,717.5
+Caleb Leonard,M,SBD,Raw,MR-O,74,167.5,95.0,190.0,452.5
+Iris van Pinxteren,F,SBD,Raw,Open,63,100.0,65.0,130.0,295.0
+Yi-Jie Su,F,SBD,Single-ply,Open,47,-165.0,75.0,140.0,50.0
+Vasilije Rajović,M,SBD,Raw,O,83,-170.0,125.0,190.0,145.0
+Justin Walker,M,SBD,Single-ply,M-O,90,290.0,197.5,287.5,775.0
+Andrea Mahdalová,F,SBD,Raw,Juniors,76,135.0,77.5,167.5,380.0
+Heidi Tinney,F,SBD,Raw,FR-M1b,63,75.0,47.5,95.0,217.5
+高井 真一,M,SBD,Single-ply,Sub-Juniors,66,140.0,100.0,140.0,380.0
+Danny Wilton,M,SBD,Raw,Masters 1,120+,100.0,100.0,100.0,300.0
+Mona Becker,F,SBD,Single-ply,F-O,84+,67.5,45.0,137.5,250.0
+Rose Huang Stegura,F,SBD,Raw,FR-O,57,115.0,62.5,137.5,315.0
+Calvin Hugo,M,SBD,Raw,MR-O,105,240.0,145.0,260.0,645.0
+Paul McKenna,M,SBD,Raw,MR-O,93,160.0,100.0,185.0,445.0
+Dean McFarlin,M,SBD,Raw,MR-O,83,165.0,-115.0,-215.0,-165.0
+Andrea Weidner,F,SBD,Single-ply,Open,67.5,-90.0,45.0,120.0,75.0
+Callum Holmes,M,SBD,Raw,MR-O,83,180.0,107.5,205.0,492.5
+Christian Angelov,M,SBD,Raw,Juniors,74,120.0,95.0,160.0,375.0
+Udo Thielking,M,SBD,Single-ply,Masters 3,120+,-190.0,170.0,200.0,180.0
+Isaac Dutcher,M,SBD,Raw,MR-T1,53,55.0,40.0,80.0,175.0
+Kingston Masters,M,SBD,Raw,Open,74,180.0,110.0,210.0,500.0
+Alli Puchyr,F,SBD,Raw,Open,63,57.5,27.5,80.0,165.0
+Maiya Sargent,F,SBD,Raw,Sub-Juniors,63,75.0,50.0,87.5,212.5
+Juha Seppälä,M,SBD,Single-ply,Open,110,270.0,182.5,250.0,702.5
+Vít Slováček,M,SBD,Raw,Open,93,185.0,125.0,245.0,555.0
+Joy Burt,F,SBD,Single-ply,Open,56,155.0,82.5,187.5,425.0
+Pedro Chacon,M,SBD,Raw,MR-O,93,-215.0,125.0,225.0,135.0
+Tayler Guidry,F,SBD,Single-ply,Juniors,84+,185.0,122.5,130.0,437.5
+Gísli Þrastarson,M,SBD,Single-ply,Open,83,230.0,155.0,250.0,635.0
+Trenton Wade,M,SBD,Single-ply,M-O,90,-282.5,190.0,265.0,172.5
+Nicolas Zipitria,M,SBD,Raw,Sub-Juniors,83,110.0,80.0,160.0,350.0
+Antony Tommasino,M,SBD,Raw,Seniors,83,175.0,-100.0,195.0,270.0
+Patrick Carr,M,SBD,Raw,MR-O,83,177.5,132.5,215.0,525.0
+Gennady Saprygin,M,SBD,Single-ply,Masters 2,82.5,140.0,110.0,140.0,390.0
+Andries du Plessis,M,SBD,Raw,MR-M1,120,160.0,130.0,210.0,500.0
+Marina Shelton,F,SBD,Raw,FR-O,84,185.0,95.0,190.0,470.0
+Anna K Haar,F,SBD,Raw,Open,84,170.0,87.5,170.0,427.5
+Paula Rodriguez de Limia de Miguel,F,SBD,Raw,Open,57,82.5,40.0,110.0,232.5
+Sergey Osipov,M,SBD,Single-ply,Open,67.5,190.0,142.5,200.0,532.5
+Vimal Raja S,M,SBD,Single-ply,Open,60,-237.5,115.0,215.0,92.5
+Jan Harald Langeland,M,SBD,Single-ply,Teen 14-18,100,140.0,105.0,170.0,415.0
+Andrew Torres #5,M,SBD,Single-ply,M-V,93,-265.0,132.5,-222.5,-355.0
+Anthony Kringstad,M,SBD,Raw,MR-O,74,167.5,-102.5,230.0,295.0
+Pierre Colombet,M,SBD,Raw,Masters 4,59,67.5,60.0,90.0,217.5
+Igor Melnik #1,M,SBD,Single-ply,Juniors,75,180.0,140.0,-220.0,100.0
+松浦 洋子,F,SBD,Single-ply,Masters 1,52,117.5,67.5,110.0,295.0
+Garrett Smith #2,M,SBD,Raw,MR-Jr,83,185.0,132.5,210.0,527.5
+Johnson Nguyen,M,SBD,Raw,Open,83,192.5,140.0,205.0,537.5
+Chandra Armstead,F,SBD,Single-ply,F-M2,84,70.0,60.0,92.5,222.5
+Chris Jackson #2,M,SBD,Raw,MR-T3,59,132.5,102.5,132.5,367.5
+Maxime Degive,M,SBD,Raw,Open,120,210.0,135.0,245.0,590.0
+Gareth Burgess,M,SBD,Raw,MR-O,66,160.0,105.0,185.0,450.0
+Renato Antonio Oliveira Cruz,M,SBD,Raw,Open,120+,235.0,147.5,255.0,637.5
+Ole Kristian Heimstad,M,SBD,Single-ply,Masters 40-49,93,210.0,135.0,210.0,555.0
+Melica Fabroa,F,SBD,Raw,Junior,57,112.5,50.0,127.5,290.0
+Omar Al Hasani,M,SBD,Single-ply,Juniors,83,-220.0,105.0,-215.0,-330.0
+Maddie Warren,F,SBD,Raw,Juniors,63,127.5,67.5,155.0,350.0
+Adisa Gergić,F,SBD,Raw,Open,72,-95.0,-52.5,130.0,-17.5
+Matt Machtinger,M,SBD,Single-ply,M-JV,100,-200.0,-127.5,190.0,-137.5
+Eden Scantlebury-Watson,M,SBD,Single-ply,M-Sj,74,215.0,-110.0,180.0,285.0
+Lily Wu,F,SBD,Raw,FR-O,63,-105.0,60.0,140.0,95.0
+Alessia Zambon,F,SBD,Raw,Sub-Junior,52,80.0,-55.0,95.0,120.0
+Tapani Laitala,M,SBD,Single-ply,Over 50,120,240.0,100.0,200.0,540.0
+Mikhail Gavrilov,M,SBD,Single-ply,Sub-Juniors,83,220.0,125.0,197.5,542.5
+Tait Everett Teigen,M,SBD,Raw,MR-O,93,170.0,137.5,185.0,492.5
+Tore Edland,M,SBD,Raw,Open,83,140.0,117.5,175.0,432.5
+Shaun Hughes,M,SBD,Raw,MR-O,83,195.0,125.0,225.0,545.0
+Edwardo Marin,M,SBD,Single-ply,M-T,75,226.8,108.9,215.5,551.2
+Martin S. Vee,M,SBD,Single-ply,Juniors 19-23,120,200.0,-215.0,-290.0,-305.0
+Josh Manuel,M,SBD,Raw,Masters 1,93,160.0,120.0,210.0,490.0
+Dan Stanescu,M,SBD,Single-ply,Open,74,-100.0,100.0,130.0,130.0
+Martina Koutňáková,F,SBD,Single-ply,Juniors,75,-140.0,80.0,140.0,80.0
+Trystan Self,M,SBD,Raw,MR-C,74,160.0,-115.0,192.5,237.5
+Clara Austrui,F,SBD,Raw,Juniors,57,-95.0,47.5,105.0,57.5
+Ludivine Delos,F,SBD,Raw,Juniors,63,177.5,90.0,185.0,452.5
+Caitlin Vodopia,F,SBD,Raw,FR-O,63,117.5,62.5,125.0,305.0
+Joop Moons,M,SBD,Raw,Open,105,-200.0,117.5,-205.0,-287.5
+Mari Hakulinen,F,SBD,Raw,Open,72,110.0,70.0,120.0,300.0
+Emily Ramirez #1,F,SBD,Raw,FR-Jr,63,75.0,25.0,75.0,175.0
+Joshua Chambers,M,SBD,Raw,Juniors,120,190.0,102.5,197.5,490.0
+Bruce Le,M,SBD,Raw,MR-Jr,105,237.5,165.0,260.0,662.5
+Amber Sentener,F,SBD,Raw,Open,69,97.5,47.5,115.0,260.0
+Stvan Oliveira,M,SBD,Single-ply,Juniors,120+,-190.0,190.0,230.0,230.0
+Paul Kiedl,M,SBD,Raw,Juniors,74,180.0,125.0,220.0,525.0
+Lenka Pilnikova,F,SBD,Raw,FR-O,52,95.0,67.5,135.0,297.5
+Alexander Thammavong,M,SBD,Raw,MR-Jr,93,205.0,120.0,217.5,542.5
+John Rhoden,M,SBD,Raw,MR-T1,53,30.0,25.0,52.5,107.5
+Charles Ocampo,M,SBD,Raw,MR-O,105,160.0,135.0,205.0,500.0
+Sigríður Sigmarsdóttir,F,SBD,Raw,Masters 1,72,85.0,55.0,90.0,230.0
+Breanne Cropley,F,SBD,Raw,Open,57,102.5,62.5,135.0,300.0
+Teagan Lindsay,F,SBD,Raw,FR-Sj,52,80.0,40.0,100.0,220.0
+Oliver Ozvačić,M,SBD,Raw,Juniors,120,240.0,165.0,200.0,605.0
+Eric Lohman,M,SBD,Raw,MR-O,93,200.0,137.5,220.0,557.5
+Jasmyn Seay,F,SBD,Raw,FR-G,72,155.0,102.5,185.0,442.5
+Tatyana Vasilyeva,F,SBD,Single-ply,Open,48,-105.0,-57.5,117.5,-45.0
+Jeremy Dion-Shields,M,SBD,Raw,Juniors,74,-165.0,125.0,207.5,167.5
+Francisco Antonio Ramos,M,SBD,Raw,Open,120+,200.0,160.0,200.0,560.0
+Timo Parviainen,M,SBD,Raw,Over 50,83,-170.0,140.0,-195.0,-225.0
+Mohammed Alaraifi,M,SBD,Raw,Open,93,225.0,147.5,245.0,617.5
+Charles Neal #1,M,SBD,Raw,MR-C,83,-175.0,102.5,-190.0,-262.5
+Václav Primus,M,SBD,Single-ply,Masters 2,110,185.0,132.5,212.5,530.0
+Chris Gallagher,M,SBD,Raw,MR-O,74,-210.0,165.0,210.0,165.0
+Alana Allison,F,SBD,Raw,Open,84+,130.0,70.0,155.0,355.0
+荒井 陸哉,M,SBD,Single-ply,High School,59,30.0,42.5,-65.0,7.5
+Weronika Kawa,F,SBD,Raw,Seniorki,63,100.0,42.5,110.0,252.5
+Norunn Nielsen Holmvik,F,SBD,Single-ply,Open,57,117.5,67.5,130.0,315.0
+Riccardo Rollo,M,SBD,Single-ply,Open,93,235.0,165.0,260.0,660.0
+Oliver Zamzow,M,SBD,Raw,Masters 1,105,250.0,152.5,290.0,692.5
+Lucy Robinson #1,F,SBD,Raw,FR-Jr,63,147.5,65.0,175.0,387.5
+Thomas Hohensinner,M,SBD,Raw,Open,66,130.0,85.0,180.0,395.0
+Edwin Castillo,M,SBD,Raw,Open,83,230.0,125.0,255.0,610.0
+Marwin Demisch,M,SBD,Raw,Juniors,105,237.5,150.0,250.0,637.5
+Wei-Ling Chen,F,SBD,Single-ply,Open,48,-170.0,70.0,170.0,70.0
+Ellie Tunnicliffe,F,SBD,Raw,FR-O,69,115.0,65.0,125.0,305.0
+María Estela Cuervo Usano,F,SBD,Raw,Open,52,145.0,72.5,145.0,362.5
+Karol Krupiński,M,SBD,Single-ply,Juniorzy do lat 18,59,90.0,50.0,127.5,267.5
+Bastien Poyet,M,SBD,Raw,Juniors,74,165.0,187.5,165.0,517.5
+Michael Pennington #2,M,SBD,Raw,Open,120,260.0,190.0,310.0,760.0
+Timo Jakobi,M,SBD,Raw,Open,105,307.5,177.5,322.5,807.5
+Yuriy Chelobitchikov,M,SBD,Single-ply,Open,110+,260.0,230.0,260.0,750.0
+Sebastian Stępniak,M,SBD,Raw,Weterani 40-49 lat,83,175.0,105.0,220.0,500.0
+Aaron Gustum,M,SBD,Raw,MR-O,120,205.0,155.0,255.0,615.0
+Rob Escalante,M,SBD,Raw,MR-C,83,237.5,172.5,252.5,662.5
+Mason Mills #1,M,SBD,Raw,M-C-Open,105,245.0,135.0,267.5,647.5
+Ben Biglin,M,SBD,Raw,M-C-Open,83,-170.0,100.0,210.0,140.0
+Yvonne Tischer,F,SBD,Raw,Open,76,95.0,57.5,115.0,267.5
+Marin Štambuk,M,SBD,Raw,Open,120,-255.0,162.5,262.5,170.0
+Mykhaylo Potapenko,M,SBD,Single-ply,Open,120,340.0,240.0,302.5,882.5
+Dale McLaren,M,SBD,Single-ply,Masters 1,93,300.0,215.0,282.5,797.5
+Chia-Yu Lee,F,SBD,Single-ply,Open,47,-145.0,85.0,165.0,105.0
+武井 天,M,SBD,Raw,Open,83,165.0,120.0,190.0,475.0
+Kathryn Maric,F,SBD,Raw,Open,84+,-135.0,67.5,140.0,72.5
+A. Shirina,M,SBD,Single-ply,Teen,53,140.0,70.0,150.0,360.0
+Brady Oleszak,M,SBD,Raw,MR-O,74,145.0,100.0,175.0,420.0
+Jule Müller,F,SBD,Raw,Juniors,57,55.0,40.0,75.0,170.0
+Luciana Grant,F,SBD,Raw,FR-O,69,135.0,-80.0,125.0,180.0
+Gregory Wunrow,M,SBD,Raw,MR-O,93,267.5,157.5,270.0,695.0
+Luis Zayas Tejero,M,SBD,Raw,SNR,105,200.0,117.5,217.5,535.0
+Frédéric Tinebra,M,SBD,Single-ply,Open,56,200.0,120.0,180.0,500.0
+Magali Battimanza,F,SBD,Raw,Juniors,52,-102.5,52.5,120.0,70.0
+Brandon Delacruz,M,SBD,Raw,MR-O,93,170.0,127.5,225.0,522.5
+Irani Rodrigues Barbosa,F,SBD,Single-ply,Open,60,-175.0,-92.5,150.0,-117.5
+Sara DeMattie,F,SBD,Single-ply,F-T3,84,155.0,65.0,-155.0,65.0
+Fanni Savela,F,SBD,Raw,Juniors,69,147.5,110.0,180.0,437.5
+Tarrin Wilson,M,SBD,Raw,MR-Jr,105,225.0,155.0,250.0,630.0
+Józef Gromek,M,SBD,Raw,Masters 3,93,200.0,130.0,230.0,560.0
+Sven Gunnar Simonsen,M,SBD,Raw,Masters 60-69,93,150.0,115.0,180.0,445.0
+William Greaves,M,SBD,Raw,MR-O,105,255.0,172.5,240.0,667.5
+Chris Seville,M,SBD,Single-ply,Open,82.5,227.5,135.0,240.0,602.5
+Igor Murzin,M,SBD,Single-ply,Open,105,240.0,145.0,225.0,610.0
+Gurvan Seveno,M,SBD,Raw,Seniors,105,-170.0,100.0,210.0,140.0
+Alka Sharma,F,SBD,Single-ply,Masters 1,84,80.0,40.0,90.0,210.0
+Matthew Docherty,M,SBD,Raw,MR-O,105,210.0,125.0,240.0,575.0
+Kevin Feagins,M,SBD,Raw,MR-M2a,105,185.0,142.5,215.0,542.5
+Lauren Joly,F,SBD,Raw,Open,57,85.0,47.5,120.0,252.5
+Roy Andrew,M,SBD,Raw,MR-O,105,187.5,145.0,245.0,577.5
+Julian Letestu,M,SBD,Raw,Seniors,83,-197.5,105.0,235.0,142.5
+Austin Krause,M,SBD,Raw,MR-O,100,170.0,105.0,200.0,475.0
+Yaroslav Levkovskyy,M,SBD,Single-ply,Sub-Juniors,82.5+,-220.0,130.0,-220.0,-310.0
+Nicholas Viet,M,SBD,Raw,Open,59,150.0,97.5,170.0,417.5
+Jaana Mustonen,F,SBD,Raw,Over 40,57,87.5,42.5,105.0,235.0
+Nicolas Recio,M,SBD,Raw,MR-O,120,235.0,145.0,235.0,615.0
+Andie Hernandez,F,SBD,Single-ply,F-O,52,145.0,-90.0,140.0,195.0
+Faith Brooks,F,SBD,Raw,FR-V,90,107.5,50.0,102.5,260.0
+Olivia Porter,F,SBD,Raw,FR-O,84+,130.0,77.5,162.5,370.0
+Rolf Thieme,M,SBD,Single-ply,Masters 3,100,-190.0,120.0,-200.0,-270.0
+John Wilde,M,SBD,Raw,Open,93,155.0,100.0,200.0,455.0
+Amanda Requeno,F,SBD,Single-ply,Open,60,-99.79,-34.02,92.99,-40.82000000000001
+Daniel Luo #1,M,SBD,Raw,Juniors,105,215.0,145.0,285.0,645.0
+Kristie Matthews,F,SBD,Raw,Open,63,-125.0,67.5,145.0,87.5
+Amidy Moreno,F,SBD,Single-ply,F-HS,84,-192.5,82.5,152.5,42.5
+Scott Zeller,M,SBD,Raw,MR-Jr,93,-175.0,-130.0,222.5,-82.5
+Kyle Dahl,M,SBD,Single-ply,Freshman/Sophomore,52,105.0,62.5,135.0,302.5
+Vadim Helmel,M,SBD,Single-ply,Open,74,210.0,120.0,210.0,540.0
+Ana Jakovljević,F,SBD,Raw,O,63,80.0,47.5,90.0,217.5
+Eddie Alvarez,M,SBD,Raw,MR-O,120,227.5,145.0,230.0,602.5
+Chance Porter,M,SBD,Raw,MR-O,74,-137.5,87.5,152.5,102.5
+Julia Vekiarides,F,SBD,Raw,FR-HS,57,50.0,27.5,60.0,137.5
+Duncan Giraudeau,M,SBD,Raw,Juniors,105,190.0,117.5,247.5,555.0
+Angelo Chong,M,SBD,Raw,Open,105,190.0,115.0,205.0,510.0
+Dave Dunford,M,SBD,Single-ply,Masters 1,105,290.0,210.0,270.0,770.0
+Marin Milikić,M,SBD,Raw,Open,105,220.0,162.5,250.0,632.5
+Cameron Anderson #3,M,SBD,Raw,MR-V,120,205.0,120.0,170.0,495.0
+Giulia Cunha Costa Carvalho,F,SBD,Raw,Open,52,135.0,85.0,150.0,370.0
+Jessica Wester,F,SBD,Raw,FR-O,72,175.0,77.5,170.0,422.5
+Adrian Brown,M,SBD,Raw,Masters 1,105,245.0,155.0,270.0,670.0
+Liew Hui Wen,F,SBD,Raw,FR-O,57,87.5,52.5,115.0,255.0
+Carol Anthony,F,SBD,Raw,Masters 2,57,72.5,40.0,105.0,217.5
+Luise Zang,F,SBD,Raw,Open,76,112.5,62.5,120.0,295.0
+Kristjan Elhi,M,SBD,Single-ply,Open,74,150.0,135.0,160.0,445.0
+Chip Beck,M,SBD,Raw,MR-M1a,120,205.0,160.0,227.5,592.5
+Nicolás Amado de Castro,M,SBD,Raw,JUN,66,120.0,85.0,160.0,365.0
+Cole Aldrich,M,SBD,Raw,MR-T2,83,155.0,-80.0,145.0,220.0
+Lassi Immonen,M,SBD,Raw,Juniors,74,225.0,-125.0,-220.0,-120.0
+Nick Clark #4,M,SBD,Wraps,Open,82.5,-110.0,65.0,120.0,75.0
+Helena Clarkova,F,SBD,Raw,FR-M1,84,50.0,40.0,80.0,170.0
+Martín Talamantes,M,SBD,Single-ply,Masters 1,93,165.0,105.0,170.0,440.0
+Lonnie Fariss,F,SBD,Raw,FR-O,72,90.0,70.0,135.0,295.0
+Peter Smetona,M,SBD,Raw,MR-O,105,182.5,125.0,217.5,525.0
+Adrian Andries,M,SBD,Raw,M-M1-U,93,182.5,102.5,182.5,467.5
+Jens Aarhus,M,SBD,Raw,Masters 3,93,195.0,130.0,200.0,525.0
+Clare Hallum,F,SBD,Raw,FR-JV,57,82.5,37.5,97.5,217.5
+Carey Shao,M,SBD,Raw,MR-O,83,-200.0,142.5,232.5,175.0
+Emily Patisso,F,SBD,Raw,FR-O,63,117.5,-72.5,165.0,210.0
+Katherine Abbott,F,SBD,Raw,FR-Jr,69,80.0,42.5,102.5,225.0
+Ramiro Ramirez,M,SBD,Raw,Junior,105,257.5,140.0,242.5,640.0
+William Cross,M,SBD,Raw,MR-O,93,110.0,102.5,165.0,377.5
+Arthur Mashinskiy,M,SBD,Single-ply,Juniors,67.5,260.0,-180.0,260.0,340.0
+Anna Henzi,F,SBD,Raw,Open,63,110.0,75.5,122.5,308.0
+Volodymyr Geraschenko,M,SBD,Single-ply,Open,110,200.0,-150.0,240.0,290.0
+Christian Fritzner,M,SBD,Single-ply,Juniors 19-23,100,-140.0,70.0,160.0,90.0
+Steve Blackwell,M,SBD,Raw,M-C-M2,105,190.0,140.0,230.0,560.0
+Teija Hakala,F,SBD,Raw,Over 40,84,115.0,65.0,140.0,320.0
+Amar Kanane,M,SBD,Raw,Open,93,280.0,160.0,290.0,730.0
+Léa Bouzats,F,SBD,Raw,Seniors,52,80.0,40.0,80.0,200.0
+Jesse Burroughs,M,SBD,Single-ply,M-C,105,230.0,135.0,240.0,605.0
+Nanxi Huang,F,SBD,Raw,Juniors,63,105.0,52.5,110.0,267.5
+Mykola Barannik,M,SBD,Single-ply,Open,83,340.0,265.0,275.0,880.0
+Arwen Newlands,F,SBD,Raw,FR-O,47,87.5,50.0,115.0,252.5
+勝野雅臣,M,SBD,Raw,Open,60,130.0,115.0,160.0,405.0
+Ryan Everaere,M,SBD,Raw,Juniors,83,160.0,120.0,200.0,480.0
+Juho Jaatinen,M,SBD,Raw,Open,120,200.0,150.0,200.0,550.0
+Douglas Neou,M,SBD,Raw,MR-T3,74,165.0,102.5,185.0,452.5
+Andrew Black,M,SBD,Raw,Juniors,83,165.0,115.0,180.0,460.0
+Takahito Akutsu,M,SBD,Single-ply,Open,105,-350.0,-270.0,265.0,-355.0
+Ludwig Jacob,M,SBD,Raw,Juniors,74,165.0,90.0,192.5,447.5
+Thomas Goodwin #1,M,SBD,Raw,MR-M1a,93,152.5,107.5,202.5,462.5
+Sid Ngeth,M,SBD,Raw,MR-O,93,195.0,132.5,205.0,532.5
+Hannu Mikkola,M,SBD,Raw,Over 40,105,60.0,100.0,100.0,260.0
+Victor Sârbu,M,SBD,Raw,Open,74,125.0,100.0,110.0,335.0
+Aaron Wotton,M,SBD,Raw,Open,120+,270.0,147.5,270.0,687.5
+Craig Smith #2,M,SBD,Raw,M-C-Open,93,185.0,117.5,210.0,512.5
+Graeme Boyce,M,SBD,Raw,Masters 2,105,200.0,110.0,250.0,560.0
+Veronika Břízová,F,SBD,Raw,Open,84+,167.5,90.0,205.0,462.5
+Michelle Franklin,F,SBD,Raw,F-C-Open,63,95.0,52.5,127.5,275.0
+Tamara Romo,F,SBD,Raw,Open,76,110.0,60.0,130.0,300.0
+Jack Hong,M,SBD,Raw,MR-O,93,185.0,145.0,217.5,547.5
+Marte Olborg,F,SBD,Single-ply,Open,84+,190.0,-107.5,155.0,237.5
+Sumita Laha,F,SBD,Single-ply,Open,75,220.0,105.0,190.0,515.0
+Alex McCallum,M,SBD,Raw,Open,105,240.0,170.0,245.0,655.0
+Marcellus Williams,M,SBD,Raw,MR-O,83,210.0,155.0,250.0,615.0
+Sebastian Wegener,M,SBD,Raw,Open,105,130.0,117.5,177.5,425.0
+Tamás Sántha,M,SBD,Single-ply,Juniors,110,235.0,180.0,225.0,640.0
+Gianluca Minghetti,M,SBD,Single-ply,Master I,105,205.0,115.0,235.0,555.0
+Alyssa Roehrig,F,SBD,Single-ply,F-V,60,-105.0,55.0,110.0,60.0
+Evgeny Rokhlin,M,SBD,Single-ply,Open,82.5,170.0,120.0,200.0,490.0
+Maksim Zubok,M,SBD,Single-ply,Juniors,82.5,280.0,160.0,-250.0,190.0
+Gemma Bianchi,F,SBD,Raw,FR-O,47,72.5,37.5,80.0,190.0
+Daniel Jackman,M,SBD,Raw,MR-O,93,187.5,135.0,225.0,547.5
+Morgan Frank,F,SBD,Raw,FR-O,84+,-95.0,42.5,87.5,35.0
+Allan Alberto Santandrea Alburez,M,SBD,Raw,Open,120+,215.46,165.56,206.38,587.4
+Gavin Adin,M,SBD,Raw,Open,93,305.0,200.0,305.0,810.0
+A-Yun Lin,F,SBD,Single-ply,Open,56,-125.0,62.5,147.5,85.0
+Zach Fiore,M,SBD,Single-ply,M-C,100,-183.7,-138.35,-185.97,-508.02
+Yuriy Zabolotnyy,M,SBD,Single-ply,Masters 1,125+,280.0,175.0,270.0,725.0
+Mary Vargas,F,SBD,Raw,FR-Jr,57,75.0,35.0,-82.5,27.5
+Ricky Morrison,M,SBD,Single-ply,M-E-Open,83,-200.0,-140.0,195.0,-145.0
+Moises Davila,M,SBD,Single-ply,Open,66,170.0,115.0,-190.0,95.0
+Alena Nastyushenko,F,SBD,Single-ply,Juniors,44,-110.0,-65.0,105.0,-70.0
+Kristy Trahan,F,SBD,Raw,FR-O,57,75.0,45.0,82.5,202.5
+Michelle Fayant,F,SBD,Raw,FR-O,84+,140.0,95.0,170.0,405.0
+Iain Brock,M,SBD,Raw,Open,120,195.0,150.0,242.5,587.5
+Kristine Røen,F,SBD,Raw,Teen 14-18,63,70.0,35.0,95.0,200.0
+Magnus Gabrielsen,M,SBD,Raw,Juniors 19-23,93,160.0,130.0,210.0,500.0
+Jordan Schwartfeger,M,SBD,Raw,Open,93,177.5,105.0,190.0,472.5
+Zack Anderson,M,SBD,Raw,MR-Jr,74,215.0,137.5,220.0,572.5
+Kayla Pietrkiewicz,F,SBD,Raw,FR-Jr,84+,87.5,40.0,82.5,210.0
+Katrine Sundal Haune,F,SBD,Raw,Open,63,137.5,92.5,150.0,380.0
+Alvaro Alonso Arce Olea,M,SBD,Raw,Sub-Juniors,66,-175.0,82.5,205.0,112.5
+Reagan Taylor,F,SBD,Single-ply,F-T2,72,125.0,45.0,115.0,285.0
+Veronika Meggle,F,SBD,Raw,Youth A,69,130.0,70.0,130.0,330.0
+Franc Michalowski,M,SBD,Raw,Masters 4,83,-150.0,85.0,190.0,125.0
+Carolina Flores Muñoz,F,SBD,Single-ply,Open,63,120.0,60.0,120.0,300.0
+Ismo Hietanen,M,SBD,Single-ply,Over 50,74,165.0,115.0,190.0,470.0
+Valentine Cunin,F,SBD,Raw,Juniors,84+,140.0,72.5,155.0,367.5
+Tobias H Juul,M,SBD,Raw,Sub-Juniors,83,145.0,85.0,157.5,387.5
+Emilien Marbaix,M,SBD,Raw,Juniors,105,225.0,135.0,240.0,600.0
+Andrea Fiocca,M,SBD,Single-ply,Open,83,-192.5,120.0,215.0,142.5
+Elena Vakulko,F,SBD,Single-ply,Open,48,50.0,-25.0,-80.0,-55.0
+Larry Traub,M,SBD,Single-ply,M-M2a,90,255.0,172.5,272.5,700.0
+Wendie Kirkland,F,SBD,Single-ply,F-M2,69,127.5,90.0,122.5,340.0
+Åge Berntsen,M,SBD,Single-ply,Masters 40-49,120+,340.0,100.0,270.0,710.0
+Zach Mendoza,M,SBD,Raw,MR-T3,83,-165.0,112.5,195.0,142.5
+Erlandas Petrauskas,M,SBD,Single-ply,Master II,105,140.0,115.0,-217.5,37.5
+Asma Almutairi,F,SBD,Raw,Open,84+,75.0,37.5,92.5,205.0
+Sami Kanth,M,SBD,Raw,Open,120,-220.0,140.0,230.0,150.0
+Jessica Everaere,F,SBD,Raw,Seniors,72,122.5,47.5,145.0,315.0
+Philip Nicaud,M,SBD,Single-ply,M-V,74,-227.5,155.0,205.0,132.5
+Austin Soto,M,SBD,Single-ply,M-C,66,232.5,140.0,237.5,610.0
+Ildar Mustafin,M,SBD,Single-ply,Open,90,285.0,165.0,300.0,750.0
+Dipesh Bhalsod,M,SBD,Raw,MR-O,66,100.0,95.0,145.0,340.0
+Agata Kaliciak,F,SBD,Raw,Open,84+,130.0,67.5,150.0,347.5
+Saša Chalačeva,F,SBD,Raw,Juniors,57,100.0,47.5,127.5,275.0
+Anne Skaalum,F,SBD,Raw,Open,72,122.5,77.5,145.0,345.0
+Daniel Alberto,M,SBD,Raw,MR-T3,120,165.0,100.0,197.5,462.5
+Jake Helme,M,SBD,Raw,MR-Sj,74,140.0,-110.0,180.0,210.0
+Léo Ducrocq,M,SBD,Raw,Juniors,83,-115.0,87.5,140.0,112.5
+Lewis Noppers,M,SBD,Single-ply,Open,67.5,210.0,137.5,240.0,587.5
+Frankie Wallker,F,SBD,Raw,Open,84+,120.0,52.5,152.5,325.0
+Paloma Sánchez Camacho,F,SBD,Raw,SBJ,52,55.0,35.0,70.0,160.0
+Dean Bowring,M,SBD,Single-ply,Juniors,125,265.0,175.0,250.0,690.0
+Chris Herdman,M,SBD,Raw,M-C-Open,105,200.0,150.0,250.0,600.0
+Jakub Straka,M,SBD,Raw,Sub-Juniors,74,155.0,105.0,190.0,450.0
+Krystal Hachey,F,SBD,Raw,Open,69,-97.5,52.5,120.0,75.0
+Federico Fossati,M,SBD,Raw,Junior,83,160.0,112.5,200.0,472.5
+Andrew Wong,M,SBD,Raw,Open,66,180.0,120.0,125.0,425.0
+Janne Marttila,M,SBD,Raw,Open,105,250.0,160.0,275.0,685.0
+Morten Vorhaug,M,SBD,Raw,Juniors 19-23,93,122.5,92.5,130.0,345.0
+Asaad Abdool,M,SBD,Single-ply,M-J,74,182.5,115.0,182.5,480.0
+Yuriy Mirkin,M,SBD,Single-ply,Open,105,-320.0,-225.0,290.0,-255.0
+Monirah Mohammed Binessa,F,SBD,Raw,Open,63,95.0,50.0,120.0,265.0
+Sebastian McLarin,M,SBD,Raw,Open,120+,275.0,190.0,325.0,790.0
+Žydrūnas Kušeliovas,M,SBD,Raw,Open,105,250.0,155.0,280.0,685.0
+Clément Goudin,M,SBD,Raw,Open,93,240.0,180.0,270.0,690.0
+Taylor Boyle,F,SBD,Raw,FR-Jr,63,87.5,52.5,115.0,255.0
+Ann Jordebo,F,SBD,Raw,Masters 2,84+,120.0,60.0,120.0,300.0
+David Allen #2,M,SBD,Raw,M-C-M1,105,165.0,130.0,232.5,527.5
+Chantal Schalkers,F,SBD,Raw,Open,69,125.0,62.5,130.0,317.5
+Arsen Baykov,M,SBD,Single-ply,Juniors,125,-365.0,245.0,320.0,200.0
+Charleen Balcer Rowekamp,F,SBD,Raw,FR-O,52,62.5,72.5,105.0,240.0
+Kari Mattila,M,SBD,Single-ply,Masters 3,90,-200.0,135.0,240.0,175.0
+Lucie Šafářová,F,SBD,Raw,Juniors,69,120.0,62.5,145.0,327.5
+Deborah Tiernan,F,SBD,Raw,FR-M3,63,110.0,64.0,-132.5,41.5
+Moises Amador,M,SBD,Raw,MR-Jr,83,150.0,-112.5,202.5,240.0
+Pedro Antonio Manas Calderon,M,SBD,Raw,Open,83,125.0,75.0,160.0,360.0
+西塚 健司,M,SBD,Raw,Open,59,120.0,100.0,165.0,385.0
+Kira Cates,F,SBD,Single-ply,F-T3,52,92.5,32.5,87.5,212.5
+Nguyễn Thị Diễm Quỳnh,F,SBD,Raw,FR-Jr,69,-120.0,50.0,127.5,57.5
+Pierre Shillingford,M,SBD,Raw,MR-O,105,260.0,167.5,290.0,717.5
+Gabriel Salo,M,SBD,Raw,Under 23,66,40.0,135.0,65.0,240.0
+Erik Willis,M,SBD,Raw,Open,120+,300.0,235.0,350.0,885.0
+Marceau Conte,M,SBD,Raw,Sub-Juniors,74,95.0,60.0,135.0,290.0
+Ngai Chung Lee,M,SBD,Raw,Juniors,83,162.5,102.5,220.0,485.0
+Grace Bartel,F,SBD,Single-ply,Masters 2,52,45.0,37.5,-75.0,7.5
+Anna Antonia Papapicco,F,SBD,Raw,Masters 1,57,105.0,57.5,142.5,305.0
+Benjamin Weddle,M,SBD,Raw,MR-O,105,190.0,135.0,197.5,522.5
+Federico Rossi,M,SBD,Raw,Junior,93,180.0,120.0,190.0,490.0
+Aaron Gonzalez,M,SBD,Raw,MR-Jr,120,185.0,125.0,207.5,517.5
+Pammy Yates,F,SBD,Raw,Open,84+,130.0,77.5,170.0,377.5
+Tushar Morabkar,M,SBD,Raw,MR-O,93,162.5,115.0,180.0,457.5
+Jan Mestari,M,SBD,Raw,Open,120,-255.0,-175.0,-260.0,-690.0
+David Lester #1,M,SBD,Raw,MR-M1,74,-137.5,-102.5,182.5,-57.5
+Kévin Denouille,M,SBD,Raw,Seniors,74,-175.0,112.5,190.0,127.5
+Richard Pearson,M,SBD,Single-ply,M-JV,60,72.5,-62.5,125.0,135.0
+Kiyoshi Casey,M,SBD,Single-ply,M-C,83,202.5,95.0,185.0,482.5
+Alexandre Barsanti,M,SBD,Raw,Juniors,93,215.0,165.0,-230.0,150.0
+Igor Parakhin,M,SBD,Single-ply,Open,74,-240.0,135.0,230.0,125.0
+Thomas Opatz,M,SBD,Raw,MR-V,75,102.5,70.0,142.5,315.0
+Kim Andre Vigemyr,M,SBD,Single-ply,Juniors 19-23,74,100.0,110.0,160.0,370.0
+Bryan Sledge,M,SBD,Raw,MR-C,83,125.0,97.5,195.0,417.5
+Niccolò Chessa,M,SBD,Single-ply,Junior,66,230.0,142.5,220.0,592.5
+Stéphane Balade,M,SBD,Raw,Masters 2,93,-182.5,117.5,225.0,160.0
+Aaron Cooper #1,M,SBD,Raw,M-C-Open,105,235.0,145.0,245.0,625.0
+Loic Maerschalcke,M,SBD,Raw,Sub-Juniors,66,150.0,90.0,165.0,405.0
+Elisa Ahonen,F,SBD,Raw,Under 20,57,77.5,42.5,115.0,235.0
+Daniil Kolpakov,M,SBD,Single-ply,Open,83,-210.0,155.0,230.0,175.0
+Hideki Da Silva,M,SBD,Raw,Open,93,215.0,130.0,260.0,605.0
+Jillian Whiting,F,SBD,Raw,FR-T1,72,70.0,42.5,105.0,217.5
+Hari Singh Cheema,M,SBD,Raw,M-C-M3,74,160.0,100.0,180.0,440.0
+Juan Mughabi de Matos,M,SBD,Raw,Open,93,175.0,-95.0,205.0,285.0
+Florian Dietmayr,M,SBD,Raw,Open,105,215.0,137.5,215.0,567.5
+Gonzalez Martinez Yanira,F,SBD,Raw,SBJ,57,75.0,-40.0,95.0,130.0
+Alexan Cinar,M,SBD,Raw,MR-V,105,165.0,-102.5,142.5,205.0
+Mitsugu Hachisu,M,SBD,Raw,Open,66,162.5,115.0,182.5,460.0
+Thibault Bacq,M,SBD,Raw,Open,120,125.0,75.0,125.0,325.0
+Jay Ward #1,M,SBD,Raw,MR-T3,93,127.5,100.0,155.0,382.5
+Yuval Bar,M,SBD,Single-ply,Open,82.5,160.0,180.0,180.0,520.0
+Faye Jordan,F,SBD,Raw,FR-O,69,85.0,67.5,130.0,282.5
+Harry Lam,M,SBD,Raw,MR-O,105,187.5,125.0,215.0,527.5
+Gianluca Lorenzetti,M,SBD,Raw,Open,105,185.0,105.0,200.0,490.0
+Mathias Kneißl,M,SBD,Single-ply,Open,105,170.0,140.0,180.0,490.0
+Eoin Fagan,M,SBD,Raw,MR-O,93,185.0,130.0,235.0,550.0
+Marko Justinić,M,SBD,Raw,Sub-Juniors,74,180.0,100.0,-215.0,65.0
+Matěj Juračko,M,SBD,Raw,Open,120+,240.0,120.0,220.0,580.0
+Valerie Warmuth,F,SBD,Raw,FR-O,84,112.5,40.0,137.5,290.0
+Maxim Zavodskov,M,SBD,Raw,MR-T,120+,112.5,70.0,135.0,317.5
+Paul Campbell #1,M,SBD,Single-ply,M-E-Open,83,240.0,165.0,240.0,645.0
+Victor Sandru,M,SBD,Raw,MR-O,93,225.0,160.0,257.5,642.5
+Meredith Gran,F,SBD,Raw,FR-O,63,80.0,57.5,90.0,227.5
+Sebastian Petry,M,SBD,Raw,Juniors,83,127.5,97.5,175.0,400.0
+Gabriel Murrieta,M,SBD,Raw,MR-M1,93,-115.0,117.5,182.5,185.0
+Volodimir Uhach,M,SBD,Single-ply,Open,90,-300.0,217.5,290.0,207.5
+Joseph Morris,M,SBD,Raw,MR-JV,83,80.0,62.5,90.0,232.5
+Colton Wells,M,SBD,Raw,MR-T2,74,-125.0,85.0,-137.5,-177.5
+Joshua Vanderheijden,M,SBD,Raw,Open,83,175.0,115.0,200.0,490.0
+Victoria Neill,F,SBD,Raw,FR-O,57,65.0,50.0,97.5,212.5
+Louise Edwards #1,F,SBD,Single-ply,Masters 1,52,125.0,67.5,135.0,327.5
+Ken Christianson,M,SBD,Raw,MR-O,93,161.0,113.4,215.5,489.9
+Carlton Wan,M,SBD,Raw,MR-O,66,157.5,95.0,220.0,472.5
+Gareth Doody,M,SBD,Raw,MR-O,83,152.5,-110.0,-182.5,-140.0
+Pascale Mercier,F,SBD,Raw,Juniors,69,145.0,-90.0,160.0,215.0
+Nathan Roy,M,SBD,Raw,Sub-Juniors,83,-162.5,125.0,175.0,137.5
+Thor Kessinger,M,SBD,Raw,MR-T2,105,-167.5,-102.5,182.5,-87.5
+Clint Sanders,M,SBD,Raw,MR-O,105,180.0,135.0,225.0,540.0
+Golap Beena,F,SBD,Single-ply,Masters 2,67.5,60.0,30.0,80.0,170.0
+Paula Bruns,F,SBD,Raw,Open,69,95.0,57.5,115.0,267.5
+Hunter Birozy,M,SBD,Raw,MR-G,83,190.0,105.0,220.0,515.0
+Michael Nielsen,M,SBD,Raw,Teen 14-18,105,-147.5,110.0,195.0,157.5
+Lucas Raki,M,SBD,Raw,Sub-Juniors,59,60.0,65.0,-100.0,25.0
+Elyse Morton,F,SBD,Raw,Masters 1,84+,-85.0,55.0,95.0,65.0
+David Farrar,M,SBD,Raw,Open,83,190.0,110.0,230.0,530.0
+Mac Macdonald,M,SBD,Raw,MR-Jr,83,160.0,95.0,165.0,420.0
+Taina Nuutinen-Kallio,F,SBD,Raw,Masters 1,84,130.0,62.5,152.5,345.0
+Michael Nguyen #10,M,SBD,Raw,MR-Jr,83,205.0,135.0,207.5,547.5
+Nikolay Zherdev,M,SBD,Single-ply,Open,66,140.0,115.0,170.0,425.0
+Marian Piwowarczyk,M,SBD,Raw,Seniorzy,66,100.0,90.0,140.0,330.0
+Andre Henriksen,M,SBD,Single-ply,Teen 14-18,100,125.0,72.5,150.0,347.5
+Gena Doyle,F,SBD,Raw,FR-M1a,84+,102.1,45.4,120.2,267.7
+Andreas Torgrimsen,M,SBD,Raw,Teen 14-18,93,140.0,80.0,150.0,370.0
+Chris Nguyen,M,SBD,Raw,MR-Jr,67.5,-165.0,92.5,185.0,112.5
+JoJo Moke,F,SBD,Raw,Juniors,84+,110.0,60.0,130.0,300.0
+Amy I'Anson,F,SBD,Raw,Open,84,122.5,75.0,155.0,352.5
+Anthony Guarracino,M,SBD,Raw,MR-Jr,74,187.5,107.5,-210.0,85.0
+Kenneth Hagen,M,SBD,Raw,Open,93,217.5,150.0,225.0,592.5
+Benjamin Motl,M,SBD,Raw,MR-Jr,93,207.5,-142.5,-265.0,-200.0
+Morgan Gladden,F,SBD,Raw,Open,84,152.5,85.0,160.0,397.5
+Truls Kristensen,M,SBD,Raw,Masters 70+,120,110.0,110.0,150.0,370.0
+Dene Lombaard,F,SBD,Raw,FR-Sj,69,75.0,35.0,107.5,217.5
+Ahmadian Ashkan,M,SBD,Single-ply,Sub-Juniors,75,180.0,110.0,200.0,490.0
+Miriam Sinclair,F,SBD,Raw,Masters 3,57,70.0,50.0,105.0,225.0
+Oleg Chamidrak,M,SBD,Raw,Open,105,235.0,150.0,255.0,640.0
+Gumendra Shewdas,M,SBD,Single-ply,M-J,53,180.0,80.0,190.0,450.0
+Olivia Kyösti,F,SBD,Raw,Under 20,47,97.5,55.0,105.0,257.5
+Matt Voice,M,SBD,Raw,Open,74,-160.0,110.0,180.0,130.0
+Cade Buysse,M,SBD,Raw,MR-O,93,185.0,132.5,220.0,537.5
+Michael Walker #1,M,SBD,Raw,MR-O,105,222.5,137.5,252.5,612.5
+Allen Whigham,M,SBD,Single-ply,M-O,56,182.5,90.0,192.5,465.0
+Emma Kesterton,F,SBD,Raw,FR-M1,69,115.0,55.0,150.0,320.0
+J. Cunha,M,SBD,Single-ply,Teen 16-17,90,137.5,90.0,-162.5,65.0
+浅井 陽一,M,SBD,Single-ply,Open,56,90.0,85.0,110.0,285.0
+Loic Chiang,M,SBD,Raw,Sub-Juniors,74,200.0,145.0,225.0,570.0
+Briana Freed-Smith,F,SBD,Raw,F-C-U23,63,65.0,40.0,95.0,200.0
+藤田 悠介,M,SBD,Raw,Open,66,145.0,92.5,160.0,397.5
+Luka Ivić,M,SBD,Raw,Juniors,105,172.5,97.5,215.0,485.0
+Jana Greiner,F,SBD,Raw,Open,63,125.0,67.5,140.0,332.5
+Antonio Carrasco Álvarez,M,SBD,Raw,SNR,74,165.0,117.5,200.0,482.5
+Steve Ogunfemi,M,SBD,Raw,MR-M2,83,200.0,90.0,210.0,500.0
+Nahel Baali,M,SBD,Raw,Open,83,-220.0,160.0,262.5,202.5
+Jason Jones #1,M,SBD,Raw,MR-T1,105,135.0,62.5,190.0,387.5
+Alexander Vest,M,SBD,Raw,M-C-Open,105,190.0,132.5,245.0,567.5
+James Tumbali,M,SBD,Raw,MR-O,93,235.0,180.0,255.0,670.0
+Manon Audouard,F,SBD,Raw,Juniors,57,70.0,50.0,80.0,200.0
+Mary Boyle,F,SBD,Raw,F-O,63,110.0,52.5,145.0,307.5
+Christopher Huong,M,SBD,Raw,MR-Jr,74,145.0,-95.0,180.0,230.0
+John O'Neill,M,SBD,Raw,MR-Sj,105,-145.0,85.0,200.0,140.0
+Derek D'Eon,M,SBD,Raw,Juniors,105,190.0,125.0,205.0,520.0
+Thorsten Thenhart,M,SBD,Single-ply,Masters 1,105,-275.0,190.0,235.0,150.0
+Jelly Barr,F,SBD,Raw,FR-HS,52,75.0,32.5,85.0,192.5
+Ellie Nilsson,F,SBD,Raw,Open,84+,90.0,42.5,132.5,265.0
+Ethan Vang,M,SBD,Raw,MR-V,83,165.0,102.5,167.5,435.0
+Lewis Thomson,M,SBD,Raw,MR-O,83,145.0,105.0,145.0,395.0
+Dillon Davis #4,M,SBD,Raw,MR-O,93,142.5,92.5,185.0,420.0
+Shiyu Lin,M,SBD,Raw,MR-Jr,105,240.0,170.0,260.0,670.0
+Alexey Sorokin,M,SBD,Single-ply,Open,83,345.0,225.0,290.0,860.0
+Ludwig Werner,M,SBD,Raw,Masters 4,59,-90.0,70.0,130.0,110.0
+Glenn Murphy,M,SBD,Single-ply,Open,52,130.0,77.5,147.5,355.0
+Dominic Parrera,M,SBD,Raw,Junior,93,202.5,122.5,225.0,550.0
+Elis Bradshaw,F,SBD,Raw,FR-O,76,147.5,80.0,157.5,385.0
+Dominik Pahl,M,SBD,Single-ply,Open,120+,370.0,-265.0,290.0,395.0
+Malea Stukenholtz,F,SBD,Raw,FR-Jr,84,72.5,55.0,90.0,217.5
+Johanna Mona,F,SBD,Raw,Juniors 19-23,76,95.0,67.5,135.0,297.5
+Geir Arne Giseth,M,SBD,Single-ply,Masters 40-49,125+,220.0,170.0,270.0,660.0
+Jiya Sharma,F,SBD,Raw,Sub-Juniors,84+,50.0,35.0,60.0,145.0
+David W. Morgan,M,SBD,Raw,MR-M3a,90,137.5,125.0,197.5,460.0
+Fernando Santos,M,SBD,Raw,Novice,93,175.0,115.0,200.0,490.0
+Deanna Larrabee,F,SBD,Single-ply,F-O,72,-65.0,-42.5,65.0,-42.5
+Ralf Gierz,M,SBD,Single-ply,Open,125+,340.0,230.0,300.0,870.0
+Jon Kennedy,M,SBD,Single-ply,M-M1,120+,197.5,162.5,185.0,545.0
+Nathan Hazlett,M,SBD,Raw,MR-V,74,90.0,72.5,135.0,297.5
+Yevgeny Birun,M,SBD,Single-ply,Juniors,100,270.0,155.0,305.0,730.0
+Miles Selelo,M,SBD,Raw,MR-Sj,83,155.0,95.0,185.0,435.0
+Günter Icks,M,SBD,Single-ply,Open,60,190.0,100.0,200.0,490.0
+Dmitry Inzarkin,M,SBD,Single-ply,Open,93,340.0,260.0,307.5,907.5
+Leon Koschnik,M,SBD,Single-ply,Juniors,82.5,240.0,150.0,235.0,625.0
+Henning Meyer,M,SBD,Single-ply,Open,82.5,165.0,145.0,160.0,470.0
+Julie Adams,F,SBD,Raw,FR-M1,63,122.5,-65.0,147.5,205.0
+Ashlee Grisham,F,SBD,Single-ply,F-O,52,80.0,-37.5,80.0,122.5
+Bradley Caffell,M,SBD,Raw,Juniors,83,125.0,77.5,140.0,342.5
+Savannah Stone,F,SBD,Raw,FR-O,76,120.0,-67.5,140.0,192.5
+Angelly Patricia Aroca Valdes,F,SBD,Raw,Juniors,63,100.0,-40.0,130.0,190.0
+Giovvana Alejandra González Ortega,F,SBD,Raw,Open,69,55.0,40.0,85.0,180.0
+小林 優子,F,SBD,Single-ply,Open,60,105.0,65.0,125.0,295.0
+Caleb Motsinger,M,SBD,Raw,MR-T3,90,175.0,107.5,-210.0,72.5
+Lea Žunić,F,SBD,Raw,Juniors,57,82.5,52.5,115.0,250.0
+Maria Hakulinen,F,SBD,Raw,Open,63,115.0,77.5,135.0,327.5
+Spenser Souza,M,SBD,Raw,MR-O,93,185.0,-102.5,217.5,300.0
+Krisztián Lukács,M,SBD,Raw,Masters 1,120,180.0,140.0,200.0,520.0
+Martin Skauen,M,SBD,Raw,Open,105,185.0,105.0,212.5,502.5
+Rhys Painter,M,SBD,Raw,Open,120,160.0,130.0,200.0,490.0
+Gus Lecher,M,SBD,Raw,MR-T3,120,190.0,125.0,235.0,550.0
+Saverio Petrillo,M,SBD,Raw,Sub-Junior,74,180.0,102.5,235.0,517.5
+Romane Lion,F,SBD,Raw,Seniors,57,115.0,55.0,135.0,305.0
+Kerim Degachi,M,SBD,Single-ply,Open,120+,-280.0,180.0,-275.0,-375.0
+Gil Francisco García,M,SBD,Raw,M2,105,-160.0,100.0,170.0,110.0
+Aušrinė Skučaitė,F,SBD,Raw,Sub-Junior,57,70.0,35.0,75.0,180.0
+Jasmine Nautel,F,SBD,Raw,FR-T2,47,82.5,42.5,85.0,210.0
+Bryan Oneil Plaza,M,SBD,Raw,MR-O,93,172.5,120.0,192.5,485.0
+Javad Javadifar,M,SBD,Single-ply,Open,105,315.0,190.0,290.0,795.0
+Janne Kreuter Bruhn-Henriksen,F,SBD,Raw,Masters 50-59,69,95.0,70.0,125.0,290.0
+Hanna Wahl,F,SBD,Single-ply,Teen 14-18,72,135.5,75.5,120.0,331.0
+Henryk Sulik,M,SBD,Raw,Masters 3,93,140.0,100.0,180.0,420.0
+Christopher Lambert,M,SBD,Raw,Junior,93,162.5,92.5,172.5,427.5
+Eddy Pengelly,M,SBD,Single-ply,Open,67.5,250.0,140.0,255.0,645.0
+Jarren Chan,M,SBD,Raw,Sub Junior,66,145.0,100.0,190.0,435.0
+池村 正樹,M,SBD,Raw,Masters 1,59,120.0,105.0,160.0,385.0
+Roger Hamilton-Smith,M,SBD,Raw,M-C-Open,74,160.0,105.0,210.0,475.0
+Hayley Widman,F,SBD,Raw,FR-Jr,84,97.5,47.5,132.5,277.5
+Steven Holtzman,M,SBD,Raw,MR-O,83,192.5,110.0,202.5,505.0
+William Howard,M,SBD,Raw,MR-O,74,145.0,-105.0,152.5,192.5
+Kevin Lousen,M,SBD,Raw,Open,93,205.0,127.5,257.5,590.0
+Geir Andre Stubberud,M,SBD,Single-ply,Teen 14-18,90,147.5,97.5,177.5,422.5
+Taneli Asikainen,M,SBD,Raw,Open,74,120.0,100.0,160.0,380.0
+Valeriya Yaragina,F,SBD,Single-ply,Open,63,200.0,-127.5,190.0,262.5
+Roland Desjatski,M,SBD,Raw,Open,83,230.0,130.0,290.0,650.0
+Nikolay Kovtun,M,SBD,Single-ply,Masters 3,75,150.0,-67.5,160.0,242.5
+Ulric Gill,M,SBD,Single-ply,Masters 1,75,-227.5,122.5,227.5,122.5
+Kevin Nilles,M,SBD,Raw,Open,74,155.0,85.0,210.0,450.0
+Brad Gillingham,M,SBD,Single-ply,Open,125+,-352.5,260.0,352.5,260.0
+Nicklas Haddad,M,SBD,Raw,MR-O,74,185.0,125.0,230.0,540.0
+山中 涼平,M,SBD,Raw,High School,59,105.0,75.0,145.0,325.0
+Hriday Dutt,M,SBD,Raw,MR-O,59,92.5,-65.0,130.0,157.5
+Denzel Scott,M,SBD,Single-ply,M-T3,125+,-265.0,157.5,220.0,112.5
+Jorma Ollikainen,M,SBD,Raw,Over 50,83,150.0,100.0,210.0,460.0
+Stewart Breeding,M,SBD,Raw,MR-M,83,190.0,110.0,227.5,527.5
+Massimo Primativo,M,SBD,Single-ply,Senior,83,265.0,165.0,265.0,695.0
+Jasmyn Seay,F,SBD,Raw,FR-Jr,72,-175.0,110.0,190.0,125.0
+Rochelle Oldfield,F,SBD,Raw,FR-O,84+,92.5,57.5,115.0,265.0
+Jordan Tallis,M,SBD,Raw,Open,105,235.0,150.0,260.0,645.0
+Elzani Moulder,F,SBD,Raw,Open,84,135.0,-75.0,170.0,230.0
+Trine Øgaard Bagger,F,SBD,Single-ply,Open,52,150.0,97.5,172.5,420.0
+Václav Primus,M,SBD,Single-ply,Masters 4,105,115.0,90.0,160.0,365.0
+Jacob Dallaire,M,SBD,Raw,Sub-Juniors,83,220.0,117.5,230.0,567.5
+Damiano Capraro,M,SBD,Raw,Open,83,-150.0,95.0,175.0,120.0
+Benjamin Kusin,M,SBD,Raw,MR-G,83,102.5,67.5,147.5,317.5
+Dylan Watson,M,SBD,Raw,MR-Jr,93,182.5,100.0,190.0,472.5
+Alcimar Gottschild,M,SBD,Single-ply,Masters 2,105,215.0,190.0,205.0,610.0
+Martin Brix,M,SBD,Raw,Masters 1,83,150.0,105.0,200.0,455.0
+Melinda Spencer,F,SBD,Raw,FR-O,57,110.0,60.0,145.0,315.0
+Femmy Ayegun,F,SBD,Raw,Masters 2,52,-105.0,70.0,152.5,117.5
+Hege Berge,F,SBD,Single-ply,Open,56,130.0,70.0,140.0,340.0
+Jon Wilkinson,M,SBD,Raw,M-C-Open,93,160.0,-115.0,205.0,250.0
+Ondřej Piekar,M,SBD,Raw,Open,83,185.0,112.5,200.0,497.5
+Richard Kulesza,M,SBD,Raw,Open,93,-175.0,-130.0,-220.0,-525.0
+Pascal van der Werf,M,SBD,Raw,Open,93,-170.0,120.0,210.0,160.0
+Joe Richards,M,SBD,Raw,MR-O,93,220.0,120.0,-235.0,105.0
+Jennifer Palmer,F,SBD,Raw,FR-M1,69,110.0,60.0,125.0,295.0
+Finn Parr,M,SBD,Raw,Sub-Juniors,105,175.0,112.5,220.0,507.5
+Geert Vroonen,M,SBD,Raw,Juniors,105,225.0,165.0,260.0,650.0
+Marija Graham,F,SBD,Raw,Masters 2,84,155.0,65.0,175.0,395.0
+Hisayuki Takase,M,SBD,Single-ply,Juniors,52,140.0,90.0,130.0,360.0
+Linda McFeeters,F,SBD,Single-ply,Masters 3,84+,50.0,60.0,75.0,185.0
+Debbie Candelaria-Mack,F,SBD,Single-ply,Open,60,165.0,80.0,165.0,410.0
+Alese Smith,F,SBD,Raw,FR-O,72,117.5,57.5,132.5,307.5
+Holly Lambe,F,SBD,Raw,FR-O,57,80.0,30.0,100.0,210.0
+Anna Fistek,F,SBD,Raw,Juniorki do lat 23,63,105.0,50.0,-120.0,35.0
+Zachary Sicilian,M,SBD,Raw,MR-O,120+,205.0,132.5,237.5,575.0
+Rainer Raiend,M,SBD,Raw,Juniors,105,-160.0,115.0,180.0,135.0
+Jordan Barnes #1,F,SBD,Single-ply,F-TJ,84,130.0,50.0,142.5,322.5
+Victor Andrés Raposo Antón,M,SBD,Raw,Open,59,97.5,77.5,130.0,305.0
+Gabrielle de Oliveira,F,SBD,Raw,Open,52,80.0,45.0,100.0,225.0
+Flemming Vestergaard,M,SBD,Single-ply,Open,82.5,-160.0,132.5,160.0,132.5
+Peter Cihla,M,SBD,Single-ply,Masters 1,90,255.0,140.0,245.0,640.0
+Dmytro Vovk,M,SBD,Raw,Juniors,120,285.0,215.0,270.0,770.0
+Michael Coleman #7,M,SBD,Raw,M-C-Open,105,100.0,145.0,100.0,345.0
+Conor Sutherland-Lockhart,M,SBD,Raw,M-C-Open,93,225.0,-135.0,225.0,315.0
+Nicola Signani,M,SBD,Single-ply,Open,74,210.0,-175.0,230.0,265.0
+Morgan Mascaro,M,SBD,Raw,Juniors,83,195.0,135.0,215.0,545.0
+William Cole,M,SBD,Raw,MR-T2,93,157.5,105.0,175.0,437.5
+Yaroslav Trystan,M,SBD,Single-ply,Open,100,240.0,140.0,260.0,640.0
+Katrine Nystad Kvitvær,F,SBD,Raw,Open,63,120.0,75.0,150.0,345.0
+Dave Napper,M,SBD,Raw,Open,120+,270.0,160.0,290.0,720.0
+Christian Cadas,M,SBD,Raw,MR-Uni,83,212.5,132.5,212.5,557.5
+Nona Williams,F,SBD,Raw,FR-O,84,70.0,45.0,85.0,200.0
+Rico Piffka,M,SBD,Raw,Youth A,66,100.0,70.0,120.0,290.0
+Viacheslav Stankevich,M,SBD,Single-ply,Masters 2,82.5,230.0,145.0,230.0,605.0
+Matthias Kürzlinger,M,SBD,Single-ply,Open,93,240.0,160.0,220.0,620.0
+Nikolas McCarthy,M,SBD,Raw,MR-O,93,107.5,95.0,127.5,330.0
+Richard Hocquard,M,SBD,Single-ply,Masters 2,120,235.0,175.0,255.0,665.0
+Michael Dampf,M,SBD,Single-ply,Open,75,235.0,132.5,245.0,612.5
+Yannick Atanley,M,SBD,Raw,Seniors,105,-265.0,185.0,-275.0,-355.0
+Alejandro Leacy,M,SBD,Raw,M-SJ,74,-117.5,75.0,87.5,45.0
+Jeff Li,M,SBD,Raw,MR-LW,66,137.5,-95.0,182.5,225.0
+Andrey Strelkov,M,SBD,Single-ply,Sub-Juniors,100,165.0,112.5,190.0,467.5
+Svetlana Shaburkina,F,SBD,Single-ply,Open,75,170.0,90.0,170.0,430.0
+Jennifer Thompson #1,F,SBD,Raw,FR-O,63,130.0,125.0,170.0,425.0
+Federico Innocenti,M,SBD,Raw,Sub-Junior,93,155.0,105.0,180.0,440.0
+Daniel Heintz,M,SBD,Raw,Juniors,74,240.0,137.5,242.5,620.0
+Jeff Phillips #1,M,SBD,Raw,MR-O,66,145.0,105.0,182.5,432.5
+Kendra Miller #1,F,SBD,Single-ply,F-O,52,135.0,65.0,135.0,335.0
+Michael Yu #1,M,SBD,Raw,MR-O,66,-110.0,105.0,147.5,142.5
+James Owen,M,SBD,Raw,Open,83,197.5,142.5,-230.0,110.0
+Lance Kirchner,M,SBD,Single-ply,M-G,75,227.7,-227.7,200.03,200.03
+Kim Stevenson,F,SBD,Raw,Open,72,90.0,-83.0,112.5,119.5
+Kathleen Schult,F,SBD,Raw,Open,84,135.0,-80.0,155.0,210.0
+Ciara Devine,F,SBD,Raw,FR-O,76,90.0,47.5,120.0,257.5
+Ajda Lašič,F,SBD,Raw,Open,69,135.0,80.0,132.5,347.5
+Adam Anderson #1,M,SBD,Raw,Masters 1,105,170.0,115.0,205.0,490.0
+Maximilian Kucher,M,SBD,Raw,Open,120,230.0,147.5,225.0,602.5
+Emily Logan,F,SBD,Raw,FR-Jr,76,70.0,37.5,92.5,200.0
+Mahimasingh Bolla,M,SBD,Single-ply,Masters 4,83,135.0,-70.0,160.0,225.0
+Claire Seeke,F,SBD,Single-ply,F-V,90+,192.5,92.5,160.0,445.0
+Oliver Bates,M,SBD,Raw,MR-O,93,205.0,142.5,225.0,572.5
+Cherry Yeung,F,SBD,Raw,Open,47,112.5,72.5,142.5,327.5
+Eva Sandrith Mieles Palencia,F,SBD,Raw,Open,69,110.0,30.0,115.0,255.0
+Rachel Slick,F,SBD,Raw,FR-O,72,107.5,57.5,155.0,320.0
+Kristine Polizzano,F,SBD,Raw,FR-O,52,85.0,57.5,112.5,255.0
+Joanne Coogan,F,SBD,Raw,F-O,69,-130.0,80.0,155.0,105.0
+Adam Stromko,M,SBD,Raw,Dorastenci,120,270.0,155.0,230.0,655.0
+Javier Pagan,M,SBD,Raw,Juniors,83,162.5,105.0,212.5,480.0
+Luke Burgess,M,SBD,Raw,MR-O,93,170.0,110.0,220.0,500.0
+Petr Karpin,M,SBD,Single-ply,Open,125,270.0,170.0,225.0,665.0
+Amber Clifford,F,SBD,Raw,Junior,69,117.5,62.5,132.5,312.5
+Nathan Dutro,M,SBD,Raw,MR-T2,74,77.5,50.0,87.5,215.0
+James McCafferty,M,SBD,Raw,MR-M2,74,-130.0,92.5,155.0,117.5
+Dustin Meaux,M,SBD,Single-ply,Open,120+,355.0,280.0,295.0,930.0
+Marius Raica,M,SBD,Single-ply,Master II,120+,215.0,170.0,180.0,565.0
+Silvia Erb,F,SBD,Raw,Senior,63,82.5,-55.0,115.0,142.5
+Sergiy Rybalko,M,SBD,Single-ply,Open,75,-255.0,155.0,245.0,145.0
+Steph Radovanovic,F,SBD,Raw,Open,63,85.0,57.5,115.0,257.5
+Jacob Czaplewski,M,SBD,Single-ply,M-TJ,90,227.5,152.5,-235.0,145.0
+Pierre Remetter,M,SBD,Raw,Seniors,83,-170.0,117.5,200.0,147.5
+Douglas King,M,SBD,Raw,MR-O,93,172.5,120.0,215.0,507.5
+David Mooney,M,SBD,Raw,M-C-Open,93,165.0,120.0,210.0,495.0
+Hanna Majorczyk,F,SBD,Raw,Weteranki 40-49 lat,69,75.0,45.0,100.0,220.0
+Bengt Eide-Olsen,M,SBD,Raw,Open,93,-180.0,135.0,190.0,145.0
+Damianos Sidiropoulos,M,SBD,Raw,Open,120,230.0,130.0,240.0,600.0
+Edward Butcher,M,SBD,Raw,Sub-Juniors,66,177.5,100.0,215.0,492.5
+Carla Crook,F,SBD,Raw,F-C-M1,57,95.0,50.0,115.0,260.0
+Gianmario Gorga,M,SBD,Single-ply,Junior,120+,280.0,175.0,250.0,705.0
+Jill Elenbaas,F,SBD,Single-ply,F-O,84+,100.0,52.5,137.5,290.0
+Tammy Drover,F,SBD,Raw,Open,84,160.0,-85.0,165.0,240.0
+H. Dadapeer,M,SBD,Single-ply,Open,60,-200.0,-110.0,225.0,-85.0
+Etienne Waroquet,M,SBD,Raw,MR-T3,74,157.5,102.5,185.0,445.0
+Sheree Donaldson,F,SBD,Raw,F-C-Open,63,95.0,47.5,105.0,247.5
+Filip Sopek,M,SBD,Raw,Open,93,165.0,100.0,-210.0,55.0
+Emma Harris,F,SBD,Raw,F-C-G,84+,100.0,50.0,142.5,292.5
+Craig McMillan,M,SBD,Raw,Masters 2,93,212.5,127.5,240.0,580.0
+Hannah Barnett,F,SBD,Raw,FR-O,84,86.2,38.6,95.3,220.10000000000002
+Deepthi Raj B C,F,SBD,Raw,Open,57,85.0,45.0,152.5,282.5
+Marlene Sabathy,F,SBD,Single-ply,Juniors,57,135.0,65.0,105.0,305.0
+Ewan Seaford,M,SBD,Raw,Masters 2,83,165.0,105.0,205.0,475.0
+Alyssa Gildea,F,SBD,Raw,FR-O,69,132.5,72.5,147.5,352.5
+Klára Zmeškalová,F,SBD,Raw,Open,76,150.0,80.0,170.0,400.0
+Julian Diaz #1,M,SBD,Raw,Open,120,242.5,152.5,237.5,632.5
+Børge Alslie,M,SBD,Raw,Masters 40-49,74,120.0,100.0,160.0,380.0
+Alessia Pettenà,F,SBD,Raw,Senior,84+,150.0,-87.5,170.0,232.5
+Katherine Lawrence,F,SBD,Raw,Masters 2,84+,140.0,70.0,152.5,362.5
+Elisabeth Muhr,F,SBD,Raw,Open,57,82.5,57.5,-140.0,0.0
+Yadhuraj,M,SBD,Single-ply,Juniors,66,200.0,80.0,200.0,480.0
+Mary Everett,F,SBD,Raw,FR-O,72,62.5,30.0,80.0,172.5
+Sarah Lee #1,F,SBD,Raw,FR-Jr,76,80.0,37.5,115.0,232.5
+Lee-Ann Ray,F,SBD,Raw,FR-M1,84+,-127.5,75.0,160.0,107.5
+Lia Goulding,F,SBD,Raw,FR-Sj,69,100.0,50.0,110.0,260.0
+Marco Vecchio,M,SBD,Raw,Open,83,155.0,102.5,200.0,457.5
+Kurt Simonsen,M,SBD,Raw,Masters 40-49,120,-205.0,135.0,195.0,125.0
+Cheryl Newberry,F,SBD,Raw,F-C-Open,72,90.0,50.0,120.0,260.0
+Eric Du,M,SBD,Raw,MR-Jr,93,-227.5,152.5,240.0,165.0
+Iva Maganić,F,SBD,Raw,Open,63,82.5,45.0,105.0,232.5
+Jorge López Cerezo,M,SBD,Raw,JUN,74,205.0,122.5,240.0,567.5
+Lily Sabath,F,SBD,Raw,Open,63,57.5,40.0,97.5,195.0
+Shahzein Syed,M,SBD,Raw,MR-O,105,222.5,152.5,240.0,615.0
+Sami Pullinen,M,SBD,Single-ply,Open,120,330.0,265.0,295.0,890.0
+Hao-Yun Chen,M,SBD,Raw,Masters 1,120,230.0,145.0,245.0,620.0
+Ryan Stewart #1,M,SBD,Raw,Open,59,90.0,72.5,135.0,297.5
+Luke Helmke,M,SBD,Raw,Open,74,205.0,150.0,235.0,590.0
+Michael Chapman,M,SBD,Raw,MR-T2,83,112.5,-110.0,140.0,142.5
+Miles Priefer,M,SBD,Raw,MR-T,59,-125.0,65.0,135.0,75.0
+Thomas Houpert,M,SBD,Raw,Seniors,83,210.0,165.0,210.0,585.0
+Klaudia Gulka,F,SBD,Raw,Juniorki do lat 18,63,75.0,42.5,110.0,227.5
+Alayna Rzempoluch,F,SBD,Raw,FR-C,84+,-117.5,50.0,120.0,52.5
+Harold Puyaoan,M,SBD,Raw,MR-O,83,125.0,97.5,175.0,397.5
+Nic Norwood,M,SBD,Raw,MR-Jr,60,125.0,105.0,160.0,390.0
+Rastislav Siska Simonsen,M,SBD,Raw,Open,105,-215.0,-137.5,230.0,-122.5
+Khalon Hodson,M,SBD,Single-ply,M-E-Open,83,220.0,120.0,220.0,560.0
+Sandra Sołtyszewska,F,SBD,Single-ply,Juniorki do lat 18,72,100.0,55.0,120.0,275.0
+Austin Rineer,M,SBD,Raw,MR-O,83,-150.0,82.5,185.0,117.5
+Miyabi Kikuchi,F,SBD,Single-ply,Sub-Juniors,47,125.0,75.0,120.0,320.0
+Manuel Kogler,M,SBD,Raw,Open,83,115.0,80.0,135.0,330.0
+Matthew Davis #8,M,SBD,Raw,MR-O,74,135.0,-105.0,182.5,212.5
+Benjamin Clouse,M,SBD,Raw,MR-C,93,177.5,110.0,225.0,512.5
+Ivan Freydun,M,SBD,Single-ply,Open,82.5,280.0,195.0,270.0,745.0
+Tom Kean,M,SBD,Raw,Masters 2,83,215.0,145.0,240.0,600.0
+Colin Webb,M,SBD,Raw,Open,93,240.0,135.0,260.0,635.0
+Ben Thompson,M,SBD,Raw,MR-O,93,182.5,125.0,215.0,522.5
+Anita Stavik,F,SBD,Single-ply,Masters 50-59,57,155.0,65.0,150.0,370.0
+Eduardo Lopez,M,SBD,Single-ply,Juniors,75,152.5,92.5,150.0,395.0
+Haydn Tidball,M,SBD,Single-ply,M-O,105,220.0,127.5,227.5,575.0
+Ivana Horná,F,SBD,Raw,Open,69,167.5,100.0,210.0,477.5
+Mark Sigala,M,SBD,Single-ply,M-M1a,75,215.0,150.0,260.0,625.0
+Melissa Hunt,F,SBD,Raw,FR-O,57,95.0,60.0,115.0,270.0
+Václav Dlask,M,SBD,Single-ply,Open,82.5,210.0,110.0,210.0,530.0
+Michael Holmes,M,SBD,Raw,MR-O,120,230.0,140.0,-230.0,140.0
+Lance Calagan,M,SBD,Raw,Juniors,74,210.0,120.0,220.0,550.0
+Malte Tilman Schäpermeier,M,SBD,Raw,Juniors,105,212.5,117.5,220.0,550.0
+Nick Aristidou,M,SBD,Raw,MR-O,66,162.5,-102.5,200.0,260.0
+Filip Szałaj,M,SBD,Raw,Juniorzy do lat 16,93,200.0,120.0,215.0,535.0
+Dave Napper,M,SBD,Raw,Open,120,270.0,155.0,280.0,705.0
+Olivier Hersin,M,SBD,Raw,Seniors,105,-220.0,150.0,250.0,180.0
+Lorena Kolorz,F,SBD,Raw,Open,63,97.5,55.0,100.0,252.5
+Ivars Zemvalds,M,SBD,Raw,M-O,93,192.5,122.5,205.0,520.0
+Guy Djeje,M,SBD,Raw,M-C-Open,105,240.0,180.0,260.0,680.0
+Sebastian White,M,SBD,Single-ply,Juniors 19-23,120,280.0,225.0,270.0,775.0
+Mick Coopey,M,SBD,Raw,M-C-M2,74,155.0,90.0,180.0,425.0
+Cameron Goschke,M,SBD,Raw,MR-O,105,237.5,165.0,240.0,642.5
+Alastair Woodward,M,SBD,Raw,M-C-U23,93,190.0,135.0,230.0,555.0
+Madeline Churches,F,SBD,Raw,FR-Jr,84,110.0,60.0,117.5,287.5
+Maksim Mukhortov,M,SBD,Raw,Open,74,180.0,110.0,-200.0,90.0
+Omar Ahmed Ali,M,SBD,Single-ply,Juniors,82.5,190.0,160.0,210.0,560.0
+Curtis Wainwright,M,SBD,Single-ply,Masters 2,125,237.5,172.5,230.0,640.0
+Joy Nnamani,F,SBD,Raw,F-C-Open,57,120.0,70.0,162.5,352.5
+Patrice Enault,M,SBD,Raw,Masters 1,105,190.0,145.0,225.0,560.0
+Nicola Maycock,F,SBD,Raw,F-C-Open,84,90.0,50.0,110.0,250.0
+鈴木 美穂,F,SBD,Raw,Open,47,60.0,35.0,60.0,155.0
+Jochen Wischnewski,M,SBD,Single-ply,Open,93,-225.0,142.5,180.0,97.5
+Stefan Westerholm,M,SBD,Raw,Open,93,200.0,177.5,-240.0,137.5
+Veikko Eskelinen,M,SBD,Raw,Under 23,83,190.0,120.0,250.0,560.0
+Anton Sedov,M,SBD,Single-ply,Sub-Juniors,67.5,150.0,80.0,170.0,400.0
+LeAnn Ramirez,F,SBD,Single-ply,F-T2,84,150.0,87.5,157.5,395.0
+Benitez Dominguez Miguel,M,SBD,Raw,SBJ,83,182.5,-120.0,215.0,277.5
+Joel Fraser,M,SBD,Raw,M-C-Open,83,160.0,-135.0,195.0,220.0
+Emma McHugh,F,SBD,Raw,Open,84,92.5,50.0,122.5,265.0
+Callum Donaldson,M,SBD,Raw,MR-Jr,93,242.5,150.0,257.5,650.0
+Rebecca Semanski,F,SBD,Raw,FR-C,72,57.5,30.0,95.0,182.5
+Jeremie Leblanc,M,SBD,Raw,Masters 1,120,-115.0,155.0,135.0,175.0
+Mats Høylo Kjøllesdal,M,SBD,Raw,Juniors 19-23,120,250.0,-177.5,265.0,337.5
+Yanis Bouchou,M,SBD,Raw,Seniors,83,265.0,172.5,315.0,752.5
+James Peters,M,SBD,Raw,MR-O,93,195.0,140.0,232.5,567.5
+Lorenzo Rognone,M,SBD,Raw,Senior,93,200.0,122.5,215.0,537.5
+Zariah Valentine,F,SBD,Raw,FR-T3,47,60.0,42.5,110.0,212.5
+Mark Freeman,M,SBD,Single-ply,M-O,105,-305.0,217.5,260.0,172.5
+Samantha Van Den Broek,F,SBD,Raw,Juniors,84+,120.0,50.0,135.0,305.0
+Olga Volynskaya,F,SBD,Raw,Juniors,43,85.0,57.5,105.0,247.5
+Ville Hannula,M,SBD,Raw,Under 18,105,230.0,130.0,250.0,610.0
+Jennifer Thompson #1,F,SBD,Raw,FR-G,63,125.0,125.0,165.0,415.0
+Emmannuelle Archambault,F,SBD,Raw,Masters 1,76,115.0,87.5,160.0,362.5
+Sanjiv Razdan,M,SBD,Raw,Masters 3,93,150.0,110.0,150.0,410.0
+Knut Albert Brandslien Kjær,M,SBD,Raw,Juniors 19-23,93,-135.0,90.0,205.0,160.0
+Elaine Wilson,F,SBD,Raw,FR-M1b,63,72.5,-40.0,105.0,137.5
+Kevin Mock,M,SBD,Raw,MR-Jr,93,195.0,135.0,250.0,580.0
+Breanna Sowinski,F,SBD,Raw,FR-JV,63,80.0,-32.5,90.0,137.5
+Nathan Michael-Steyn,M,SBD,Raw,Open,66,180.0,110.0,205.0,495.0
+Ryan de la Cruz,M,SBD,Raw,MR-O,105,215.0,122.5,217.5,555.0
+Claudia Baende,F,SBD,Raw,Juniors,47,100.0,62.5,112.5,275.0
+Luis Salinas,M,SBD,Single-ply,M-C,82.5,205.0,137.5,227.5,570.0
+Regina Cicerone,F,SBD,Raw,Open,69,-145.0,65.0,140.0,60.0
+Ryan Pothier,M,SBD,Raw,MR-O,105,180.0,130.0,220.0,530.0
+Simon Hornauer,M,SBD,Single-ply,Juniors,83,195.0,115.0,-212.5,97.5
+Grace Feliciano,F,SBD,Raw,FR-O,84,140.0,65.0,165.0,370.0
+Andrew Schweitzer,M,SBD,Raw,MR-O,93,145.0,92.5,175.0,412.5
+Stéphanie Cornette,F,SBD,Single-ply,Open,52,130.0,75.0,125.0,330.0
+Rhy Richardson,M,SBD,Raw,M-C-Open,93,160.0,100.0,185.0,445.0
+Vladimir Kovalchuk,M,SBD,Single-ply,Open,83,-240.0,-150.0,250.0,-140.0
+Aubtin Yazdiha,M,SBD,Raw,MR-O,93,215.0,132.5,240.0,587.5
+David Coimbra,M,SBD,Single-ply,Open,93,345.0,230.0,315.0,890.0
+Mara Nitzschke,F,SBD,Raw,Juniors,76,87.5,55.0,120.0,262.5
+Andriy Artyukh,M,SBD,Single-ply,Open,90,250.0,155.0,280.0,685.0
+Mary Beena,F,SBD,Single-ply,Masters 2,84+,125.0,50.0,130.0,305.0
+Moira Valenti,F,SBD,Raw,FR-O,57,65.0,-40.0,85.0,110.0
+Tatyana Popova,F,SBD,Single-ply,Open,56,85.0,55.0,85.0,225.0
+Laurentiu Chelaru,M,SBD,Single-ply,Junior II,66,110.0,70.0,110.0,290.0
+Keshaun Seabrook,M,SBD,Raw,MR-T2,83,122.5,-87.5,-142.5,-107.5
+Henri Piquette,M,SBD,Raw,Juniors,83,200.0,125.0,240.0,565.0
+Manuel Raal Brito Altamirano,M,SBD,Raw,Open,120+,260.0,165.0,260.0,685.0
+Viktoriya Abdulina,F,SBD,Single-ply,Open,56,185.0,95.0,170.0,450.0
+Ingvild Lien,F,SBD,Raw,Open,72,110.0,80.0,140.0,330.0
+Cody Giampa,M,SBD,Single-ply,M-O,120,380.0,175.0,305.0,860.0
+Anne Regine Adolfsen,F,SBD,Single-ply,Open,63,145.0,90.0,135.0,370.0
+Riccardo Barboni,M,SBD,Raw,Junior,74,-160.0,90.0,-180.0,-250.0
+Nathalie Feraud,F,SBD,Single-ply,Masters 1,47,-110.0,-77.5,125.0,-62.5
+Tobias Bear,M,SBD,Raw,MR-O,120,-170.0,100.0,210.0,140.0
+Jaqui Carey,F,SBD,Raw,FR-Jr,84+,187.5,82.5,140.0,410.0
+Nathan Alexander #1,M,SBD,Raw,MR-O,120,305.0,185.0,340.0,830.0
+Jerriann Doll,F,SBD,Raw,FR-O,84+,105.0,90.0,150.0,345.0
+Shane Price,M,SBD,Raw,Juniors,120+,-280.0,155.0,-280.0,-405.0
+Bonney Rempel,F,SBD,Raw,Masters 2,84+,160.0,102.5,165.0,427.5
+Madeleine Forberg,F,SBD,Raw,FR-O,57,127.5,72.5,130.0,330.0
+Trond Einar Michelsen,M,SBD,Raw,Masters 60-69,83,-170.0,95.0,-195.0,-270.0
+Lars Engø-Monsen,M,SBD,Raw,Teen 14-18,66,145.0,110.5,170.0,425.5
+Jean-François Vinot,M,SBD,Raw,Masters 3,83,140.0,80.0,180.0,400.0
+Leonardo Cavaglia,M,SBD,Single-ply,Open,110,300.0,190.0,270.0,760.0
+Katelin Jones,F,SBD,Raw,FR-O,63,92.5,40.0,135.0,267.5
+Greg Moyer,M,SBD,Single-ply,M-C,125+,-245.0,167.5,200.0,122.5
+Maria Rodriguez,F,SBD,Raw,FR-O,57,127.5,70.0,132.5,330.0
+Dina Power,F,SBD,Raw,Juniors,72,105.0,55.0,135.0,295.0
+Kaito Fujita,M,SBD,Raw,Sub-Juniors,53,100.0,75.0,-130.0,45.0
+Alison Drysdale,F,SBD,Raw,F-C-Open,57,75.0,50.0,107.5,232.5
+Rissa Bouwsema,F,SBD,Raw,Open,69,140.0,70.0,155.0,365.0
+Marc Rius i Pecanins,M,SBD,Raw,Open,93,257.5,165.0,310.0,732.5
+Durga Prasad M,M,SBD,Single-ply,Juniors,93,250.0,150.0,220.0,620.0
+Irina Tatarova,F,SBD,Single-ply,Juniors,52,155.0,75.0,150.0,380.0
+Da'Jour Jupiter,M,SBD,Single-ply,M-O,120+,-320.0,135.0,245.0,60.0
+Chris Calvano,M,SBD,Single-ply,Open,110,125.0,-232.5,125.0,17.5
+Olga Gomez,F,SBD,Raw,FR-O,76,92.5,40.0,95.0,227.5
+Nicholas Storsveen,M,SBD,Raw,Open,93,222.5,147.5,260.0,630.0
+Sofía Pantoja Cano,F,SBD,Raw,JUN,52,-65.0,37.5,100.0,72.5
+Jan Simo,M,SBD,Raw,Open,74,195.0,120.0,235.0,550.0
+Alyssa Haveson,F,SBD,Raw,Open,57,117.5,67.5,140.0,325.0
+Jeffrey Li,M,SBD,Raw,MR-O,66,150.0,100.0,195.0,445.0
+Bo André Bergan,M,SBD,Single-ply,Juniors 19-23,100,260.0,165.0,260.0,685.0
+Alexander Nasuta,M,SBD,Raw,Open,105,-170.0,115.0,190.0,135.0
+Josie Henry,F,SBD,Raw,Open,72,55.0,35.0,72.5,162.5
+Howard Davison,M,SBD,Single-ply,M-O,90,167.5,120.0,200.0,487.5
+Christian G. Frugone,M,SBD,Raw,Open,100,185.0,160.0,200.0,545.0
+Pamela Fellows,F,SBD,Raw,F-C-Open,84,130.0,-70.0,157.5,217.5
+Ana Caceres Glover,F,SBD,Raw,FR-O,72,-75.0,-42.5,80.0,-37.5
+Matthew Estes,M,SBD,Raw,MR-O,83,182.5,-125.0,240.0,297.5
+Nicco Tommaseo,M,SBD,Single-ply,M-V,105,287.5,170.0,235.0,692.5
+Qin Wei Lim,F,SBD,Raw,Junior,43,77.5,46.0,100.0,223.5
+Nico Flores,M,SBD,Raw,MR-Jr,74,-205.0,135.0,242.5,172.5
+Anatoliy Grishchenkov,M,SBD,Single-ply,Open,110,265.0,-200.0,300.0,365.0
+Michael Fritz,M,SBD,Single-ply,Juniors,100,240.0,200.0,255.0,695.0
+Pantea Supanetz,F,SBD,Single-ply,Open,63,165.0,102.5,187.5,455.0
+Nemanja Vranjković,M,SBD,Raw,O,74,110.0,80.0,180.0,370.0
+Pamela Anderson,F,SBD,Raw,Juniors,52,115.0,67.5,135.0,317.5
+Mari Hakulinen,F,SBD,Raw,Open,72,125.0,75.0,140.0,340.0
+Josh Parker #1,M,SBD,Raw,MR-O,83,137.5,100.0,175.0,412.5
+Maurice Myrie,M,SBD,Raw,MR-O,93,215.0,175.0,270.0,660.0
+Bethany Winkler,F,SBD,Raw,FR-O,84,-152.5,90.0,175.0,112.5
+Natalya Zotova-Payusova,F,SBD,Single-ply,Juniors,82.5,200.0,140.0,200.0,540.0
+Rain Suurkivi,M,SBD,Single-ply,Masters 1,100,235.0,145.0,210.0,590.0
+Jedd Porter,M,SBD,Raw,M-C-U23,83,145.0,90.0,185.0,420.0
+Denis Mudryy,M,SBD,Raw,Sub-Juniors,59,80.0,55.0,-95.0,40.0
+Dylan Inthof,M,SBD,Raw,Open,93,160.0,-90.0,205.0,275.0
+Fernando Ramos-Diaz,M,SBD,Raw,MR-Jr,83,200.0,125.0,225.0,550.0
+Midhun C P,M,SBD,Raw,Juniors,66,162.5,92.5,212.5,467.5
+Charlene Cadavis,F,SBD,Raw,FR-O,84+,-150.0,77.5,-175.0,-247.5
+Joseph Cappellino,M,SBD,Single-ply,M-O,120+,415.0,335.0,330.0,1080.0
+Alexandre Lavial,M,SBD,Raw,Juniors,74,160.0,105.0,210.0,475.0
+Patrick Posten,M,SBD,Raw,MR-O,93,270.0,175.0,300.0,745.0
+Philippe Facchini,M,SBD,Raw,Seniors,83,160.0,110.0,160.0,430.0
+Joni Brown,F,SBD,Raw,FR-O,69,-107.5,55.0,135.0,82.5
+Catherine Jennings,F,SBD,Raw,Open,57,145.0,82.5,170.0,397.5
+Olivier Jodoin,M,SBD,Raw,Open,83,160.0,130.0,210.0,500.0
+John LaFlamme,M,SBD,Raw,Masters 4,83,175.0,95.0,215.0,485.0
+Arnhildur Anna Árnadóttir,F,SBD,Raw,Open,72,147.5,80.0,165.0,392.5
+Marina Lattuca,F,SBD,Raw,Open,63,90.0,47.5,100.0,237.5
+Vicente Encinas,M,SBD,Raw,M2,120,225.0,-175.0,250.0,300.0
+Kavya Katugam,F,SBD,Raw,FR-Jr,63,112.5,52.5,-137.5,27.5
+Thomas Hochart,M,SBD,Raw,Seniors,93,190.0,145.0,215.0,550.0
+Auke-Jan Piers,M,SBD,Raw,Open,93,170.0,125.0,220.0,515.0
+Jake Astapoveh,M,SBD,Raw,MR-O,83,160.0,-120.0,185.0,225.0
+Ole Henrik Sandbo,M,SBD,Single-ply,Open,93,260.0,190.0,230.0,680.0
+Dominic Parrera,M,SBD,Raw,Junior,93,165.0,105.0,200.0,470.0
+Anne Kari Kyvik,F,SBD,Raw,Masters 50-59,72,90.0,55.0,117.5,262.5
+Sara Letica De Oliveira,F,SBD,Raw,Open,57,80.0,42.5,95.0,217.5
+Mikaïl Berdi,M,SBD,Single-ply,Open,83,220.0,170.0,225.0,615.0
+Per Jørgen Gundersen,M,SBD,Raw,Juniors 19-23,93,150.0,125.0,170.0,445.0
+Yuriy Simonenko,M,SBD,Single-ply,Open,100,250.0,160.0,270.0,680.0
+Roy Kjetil Danielsen,M,SBD,Raw,Masters 40-49,93,160.0,110.0,225.0,495.0
+Jay Wright #1,F,SBD,Single-ply,Open,67.5,-115.0,-60.0,150.0,-25.0
+Sivert R. Ljøkelsøy,M,SBD,Raw,Teen 14-18,120,110.0,-70.0,135.0,175.0
+Molly Feterika,F,SBD,Raw,Open,76,150.0,72.5,165.0,387.5
+Cameron Jackson #3,M,SBD,Raw,Open,120+,102.5,65.0,140.0,307.5
+Siarhei Dubchuk,M,SBD,Raw,Open,59,125.0,92.5,155.0,372.5
+Cameron Mayor,M,SBD,Raw,Open,105,202.5,135.0,232.5,570.0
+Leah Mears,F,SBD,Raw,F-C-Open,72,107.5,-45.0,110.0,172.5
+Vyacheslav Aksenov,M,SBD,Single-ply,Open,125,230.0,145.0,260.0,635.0
+Travis Miller,M,SBD,Raw,MR-O,120+,210.0,155.0,-250.0,115.0
+Oscar Ojeda,M,SBD,Single-ply,Juniors,93,317.5,-210.0,285.0,392.5
+Beatrice Narizzano,F,SBD,Raw,Open,76,150.0,90.0,155.0,395.0
+Viktoriya Pankina,F,SBD,Single-ply,Juniors,56,135.0,75.0,140.0,350.0
+Dmitriy Biryukov,M,SBD,Raw,Open,120+,270.0,207.5,250.0,727.5
+Hiroyuki Isagawa,M,SBD,Raw,Masters 4,59,65.0,100.0,85.0,250.0
+Louis Audibert,M,SBD,Raw,Sub-Juniors,93,170.0,110.0,215.0,495.0
+Rebecca Attwater,F,SBD,Raw,F-C-Open,84+,-85.0,-50.0,115.0,-20.0
+Eloise Hirst-Thynne,F,SBD,Raw,Juniors,84+,127.5,65.0,132.5,325.0
+田村 僚馬,M,SBD,Raw,Open,83,-180.0,135.0,245.0,200.0
+Robert Michelli,M,SBD,Raw,MR-T,74,-85.0,70.0,85.0,70.0
+Valeriy Volodko,M,SBD,Single-ply,Open,90,290.0,202.5,265.0,757.5
+Che-Yi Liao,M,SBD,Single-ply,Open,110,-265.0,140.0,260.0,135.0
+Eliraz Katz,F,SBD,Single-ply,F-C,72,-105.0,55.0,125.0,75.0
+Samuel Trail,M,SBD,Raw,Open,83,160.0,110.0,200.0,470.0
+Kristian Uren Bjørlykhaug,M,SBD,Single-ply,Juniors 19-23,120,220.0,175.0,180.0,575.0
+Kelli Hingerton,F,SBD,Raw,FR-O,72,87.5,-52.5,127.5,162.5
+Marko Salovaara,M,SBD,Single-ply,Open,93,250.0,-190.0,260.0,320.0
+Frédéric Spitz,M,SBD,Raw,Masters 2,120,235.0,145.0,245.0,625.0
+Clive Lingard,M,SBD,Raw,Masters 4,105,110.0,105.0,160.0,375.0
+Jorrit Proost,M,SBD,Raw,Open,93,165.0,100.0,180.0,445.0
+Michael Macri,M,SBD,Single-ply,M-O,75,-250.0,-152.5,237.5,-165.0
+Joshua Mauel,M,SBD,Raw,MR-T,110,125.0,92.5,167.5,385.0
+Salwan Bendriss,M,SBD,Raw,Juniors,120+,140.0,45.0,120.0,305.0
+Jose Maria Desdentado Guillem,M,SBD,Raw,SNR,83,192.5,100.0,227.5,520.0
+Stephen Schultz,M,SBD,Raw,MR-O,93,125.0,102.5,142.5,370.0
+Jolijn Brandsma,F,SBD,Raw,Open,69,130.0,55.0,165.0,350.0
+Edoardo Sinistro,M,SBD,Raw,Junior,105,180.0,110.0,200.0,490.0
+Jeffrey Hammond,M,SBD,Raw,MR-O,74,162.5,105.0,195.0,462.5
+Zorana Kostić,F,SBD,Raw,O,57,65.0,-45.0,75.0,95.0
+Jeffrey McGlinnen,M,SBD,Raw,MR-O,83,152.5,102.5,167.5,422.5
+Amir Zaynutdinov,M,SBD,Single-ply,Open,66,145.0,82.5,160.0,387.5
+Natalya Kuznetsova,F,SBD,Single-ply,Open,90+,120.0,60.0,115.0,295.0
+Michael Olsen,M,SBD,Raw,Juniors,93,125.0,75.0,140.0,340.0
+David Chu,M,SBD,Raw,Open,74,167.5,92.5,190.0,450.0
+Tobias W Jensen,M,SBD,Raw,Open,120,215.0,162.5,230.0,607.5
+Vitaliy Baykin,M,SBD,Single-ply,Open,82.5,-230.0,155.0,240.0,165.0
+Arkadiy Shalokha,M,SBD,Single-ply,Open,67.5,260.0,180.0,252.5,692.5
+Aysun Cakmak,F,SBD,Raw,Open,63,115.0,72.5,152.5,340.0
+Bartłomiej Pomietło,M,SBD,Raw,Seniorzy,74,170.0,115.0,220.0,505.0
+Younis Poulaud,M,SBD,Raw,Juniors,93,220.0,127.5,220.0,567.5
+René Hüsing,M,SBD,Raw,Open,83,225.0,125.0,225.0,575.0
+Niko Schroderus,M,SBD,Raw,Under 23,74,185.0,120.0,235.0,540.0
+Henrik Sørensen,M,SBD,Raw,Masters 1,120,210.0,170.0,220.0,600.0
+Theevan Gurusamy,M,SBD,Raw,MR-O,93,105.0,70.0,110.0,285.0
+S McClain,M,SBD,Raw,MR-O,90,235.0,190.0,275.0,700.0
+花田 典久,M,SBD,Raw,Masters 1,59,110.0,95.0,135.0,340.0
+Henry Piralli,M,SBD,Raw,Open,120+,210.0,140.0,250.0,600.0
+Anastasiya Lysenko,F,SBD,Single-ply,Open,72,100.0,80.0,90.0,270.0
+Sue Burrows-Meaney,F,SBD,Raw,F-C-Open,72,-110.0,-55.0,125.0,-40.0
+Tom Webber,M,SBD,Raw,Junior,93,-190.0,120.0,210.0,140.0
+Kelechi Azoro-Osuji,M,SBD,Raw,MR-O,93,-247.5,150.0,280.0,182.5
+Karoll Darin Contrera Fernandez,F,SBD,Raw,Open,47,115.0,60.0,135.0,310.0
+Konrad Burghardt,M,SBD,Single-ply,Open,93,300.0,210.0,285.0,795.0
+Emil Pedersen,M,SBD,Raw,Sub-Juniors,83,-200.0,-135.0,217.5,-117.5
+Alexander Jabbour,M,SBD,Raw,Juniors,83,202.5,142.5,235.0,580.0
+Rafael Ramirez,M,SBD,Raw,Junior,74,192.5,125.0,217.5,535.0
+遠藤 健太,M,SBD,Raw,Open,105,250.0,170.0,230.0,650.0
+Tejab Kumar Suna,M,SBD,Raw,Open,59,165.0,85.0,-190.0,60.0
+Giovana Palacios,F,SBD,Raw,Juniors,57,115.0,55.0,147.5,317.5
+Brooklyn Stroik,F,SBD,Single-ply,F-HS,69,125.0,-90.0,125.0,160.0
+Julian Schedlberger,M,SBD,Raw,Open,120,170.0,-112.5,210.0,267.5
+Yoana Panayotova,F,SBD,Single-ply,F-T3,57,80.0,35.0,80.0,195.0
+Maryna Greblya,F,SBD,Single-ply,Open,48,60.0,30.0,-120.0,-30.0
+Øystein Furnes,M,SBD,Raw,Open,105,240.0,165.0,242.5,647.5
+Theodoros Pavlidis,M,SBD,Raw,Open,74,195.0,-130.0,195.0,260.0
+Maik Klingert,M,SBD,Raw,Masters 1,83,160.0,110.0,210.0,480.0
+Tomáš Vítovec,M,SBD,Raw,Open,74,140.0,100.0,160.0,400.0
+Chris Burkhart #2,M,SBD,Raw,MR-M3b,74,75.0,95.0,90.0,260.0
+Ben Davis #1,M,SBD,Raw,M-C-Open,83,175.0,105.0,200.0,480.0
+Carter Brantner,M,SBD,Raw,MR-T2,120,195.0,92.5,-192.5,95.0
+Danny Do,M,SBD,Raw,Open,105,235.0,157.5,227.5,620.0
+Rebecca Alves,F,SBD,Raw,FR-O,63,62.5,32.5,82.5,177.5
+Adrián Manuel Pérez Velasco,M,SBD,Raw,Open,93,200.0,125.0,-215.0,110.0
+Aleksandr Kodolov,M,SBD,Single-ply,Open,56,190.0,130.0,190.0,510.0
+Rudi Vieira,M,SBD,Raw,Open,93,240.0,165.0,125.0,530.0
+Kirsty Flores,F,SBD,Raw,FR-O,57,115.0,57.5,150.0,322.5
+Alice Beck,F,SBD,Raw,FR-O,72,100.0,55.0,110.0,265.0
+David Akinola,M,SBD,Raw,M-C-Open,83,180.0,130.0,230.0,540.0
+Bradley McCallion,M,SBD,Raw,Juniors,66,115.0,72.5,145.0,332.5
+Jennifer Sauter,F,SBD,Raw,FR-O,57,132.5,65.0,-145.0,52.5
+Juan Manuel Pantoja,M,SBD,Single-ply,Open,93,220.0,135.0,210.0,565.0
+Sam Heerkens,M,SBD,Raw,Juniors,93,190.0,97.5,215.0,502.5
+Jonn Esguerra,M,SBD,Raw,MR-O,93,200.0,120.0,210.0,530.0
+Willie Haller,M,SBD,Raw,MR-T2,105,137.5,-105.0,182.5,215.0
+Alayna Easterly,F,SBD,Single-ply,F-T1,47,110.0,60.0,135.0,305.0
+Carson Glascock,M,SBD,Single-ply,M-SO,83,34.0,20.4,38.6,93.0
+Holly Miller,F,SBD,Raw,FR-O,84+,125.0,75.0,125.0,325.0
+Dieter Hundertmark,M,SBD,Single-ply,Masters 3,83,175.0,125.0,190.0,490.0
+Artem Suprun,M,SBD,Single-ply,Open,120,300.0,220.0,260.0,780.0
+Anja Eidsheim,F,SBD,Raw,Open,52,40.0,30.0,70.0,140.0
+Emma Moore,F,SBD,Single-ply,F-T1,57,110.0,55.0,115.0,280.0
+Ronel Reyneke,F,SBD,Raw,Masters 1,63,107.5,57.5,115.0,280.0
+Hesam Golbadi,M,SBD,Raw,Juniors,83,170.0,105.0,210.0,485.0
+Wieslaw Grabski,M,SBD,Single-ply,Juniors,82.5,280.0,185.0,230.0,695.0
+Dávid Susa #2,M,SBD,Raw,Open,93,230.0,145.0,250.0,625.0
+Isaac Do,M,SBD,Raw,Open,66,170.0,115.0,175.0,460.0
+Robert Sheets,M,SBD,Single-ply,M-C,125,215.0,137.5,215.0,567.5
+Casper Futtrup,M,SBD,Single-ply,Open,120,362.5,255.0,275.0,892.5
+Stella Hardwick,F,SBD,Raw,FR-T1,57,55.0,30.0,60.0,145.0
+Reid Elder,M,SBD,Raw,MR-O,105,210.0,150.0,220.0,580.0
+加瀬 智,M,SBD,Raw,Open,120,275.0,180.0,245.0,700.0
+Bryan Menzel,M,SBD,Single-ply,Youth A,66,120.0,75.0,130.0,325.0
+Aleksey Motovilov,M,SBD,Single-ply,Juniors,100,-345.0,180.0,295.0,130.0
+Devin Balts,M,SBD,Raw,MR-T1,53,72.5,42.5,92.5,207.5
+奥田 和美,F,SBD,Raw,Open,56,90.0,60.0,125.0,275.0
+Halil İbrahim Efe Tokyay,M,SBD,Raw,MR-SJ,59,162.5,105.0,180.0,447.5
+Jimmy Langgo-ok,M,SBD,Raw,Open,74,-145.0,105.0,145.0,105.0
+Sam Schouten,M,SBD,Single-ply,M-V,90,247.5,142.5,-265.0,125.0
+Anna Rumánková,F,SBD,Raw,Juniors,76,-105.0,65.0,140.0,100.0
+Sidney Afshari,F,SBD,Raw,FR-O,63,85.0,42.5,110.0,237.5
+Louna Cabanes,F,SBD,Raw,Juniors,76,77.5,60.0,90.0,227.5
+Michael Cheung,M,SBD,Single-ply,M-O,66,185.0,110.0,165.0,460.0
+Emily Bearden,F,SBD,Single-ply,F-C,75,132.5,-75.0,132.5,190.0
+Markus Oveland,M,SBD,Raw,Teen 14-18,83,150.0,92.5,180.0,422.5
+America Mendez,F,SBD,Raw,FR-Jr,72,-65.0,35.0,85.0,55.0
+Fernando Benavides Ditta,M,SBD,Raw,Open,83,140.0,-100.0,150.0,190.0
+Friederike Hoppe,F,SBD,Raw,Open,76,157.5,107.5,175.0,440.0
+John Hershberger,M,SBD,Raw,MR-O,93,152.5,112.5,177.5,442.5
+Volodymyr Pozhydaiev,M,SBD,Raw,Masters 50-59,93,-125.0,95.0,180.0,150.0
+Liva Raahauge,F,SBD,Raw,Open,57,110.0,65.0,125.0,300.0
+Ludivine Delos,F,SBD,Raw,Juniors,63,165.0,87.5,175.0,427.5
+Philipp Kreuzig,M,SBD,Single-ply,Juniors,75,130.0,145.0,160.0,435.0
+Taryll Galloway,M,SBD,Raw,MR-O,120,222.5,170.0,270.0,662.5
+Patrick S Poulsen,M,SBD,Single-ply,Open,93,170.0,80.0,170.0,420.0
+Aniek Brugman,F,SBD,Raw,Open,76,115.0,72.5,150.0,337.5
+Josef Lipka,M,SBD,Raw,Masters 1,93,185.0,140.0,235.0,560.0
+Kristin Ripley,F,SBD,Raw,FR-M1a,72,115.0,67.5,127.5,310.0
+Doungdarra Thach,M,SBD,Raw,MR-Jr,74,160.0,115.0,-212.5,62.5
+Maxym Glinchevskyy,M,SBD,Single-ply,Open,125+,240.0,-250.0,210.0,200.0
+Milan Špingl,M,SBD,Single-ply,Masters 1,120+,340.0,240.0,260.0,840.0
+Austin Januchowski,M,SBD,Raw,MR-HS,125,185.0,107.5,212.5,505.0
+Christine Castro,F,SBD,Raw,Open,72,170.0,90.0,202.5,462.5
+Austin Stoudt,M,SBD,Raw,MR-Jr,83,172.5,-125.0,187.5,235.0
+Rod Sutton,M,SBD,Single-ply,Open,83,150.0,125.0,150.0,425.0
+Lidia Ortega,F,SBD,Raw,Guest,84,-105.0,60.0,125.0,80.0
+Vanessa Berger,F,SBD,Raw,FR-O,72,112.5,65.0,-147.5,30.0
+Joana Zink,F,SBD,Raw,Youth A,63,70.0,50.0,90.0,210.0
+Ralph Villegas,M,SBD,Raw,Junior,83,140.0,92.5,180.0,412.5
+Franco Guadarrama Jr,M,SBD,Raw,MR-T3,100,185.0,107.5,202.5,495.0
+Steven McLawchlin,M,SBD,Single-ply,M-O,75,237.5,142.5,227.5,607.5
+Liam Mclean,M,SBD,Raw,MR-O,74,130.0,92.5,150.0,372.5
+Vaden Williams,M,SBD,Raw,MR-T1,105,112.5,95.0,165.0,372.5
+Sean Slavens,M,SBD,Raw,MR-T2,67.5,102.5,57.5,159.0,319.0
+Lucy Simister,F,SBD,Single-ply,Closed,67.5,-40.0,-50.0,90.0,0.0
+Ellen B. Åkesson,F,SBD,Raw,Open,69,135.0,95.0,180.0,410.0
+Heiko Krüger,M,SBD,Single-ply,Open,83,180.0,120.0,180.0,480.0
+Lottie Hall #1,F,SBD,Single-ply,F-O,69,150.0,70.0,135.0,355.0
+Tracey Burn,F,SBD,Raw,F-C-M2,63,35.0,25.0,75.0,135.0
+Zachary Jones #1,M,SBD,Raw,MR-O,83,200.0,150.0,220.0,570.0
+Markéta Holečková,F,SBD,Raw,Juniors,69,-85.0,45.0,100.0,60.0
+Andreas Werthenbach,M,SBD,Single-ply,Juniors,93,180.0,120.0,200.0,500.0
+Troy Thomas,M,SBD,Single-ply,Open,100,-170.0,112.5,185.0,127.5
+Artem Varlamov,M,SBD,Single-ply,Juniors,75,270.0,145.0,-280.0,135.0
+Ryan Norton,M,SBD,Raw,MR-O,93,175.0,105.0,202.5,482.5
+Ninni Kopola,F,SBD,Raw,Open,52,55.0,30.0,65.0,150.0
+Collyn Richardson,M,SBD,Raw,MR-T3,120+,275.0,187.5,247.5,710.0
+Cas Vervoort,M,SBD,Raw,Juniors,120,270.0,165.0,290.0,725.0
+Morad Ettaki,M,SBD,Single-ply,Open,75,160.0,-120.0,175.0,215.0
+鈴木 将光,M,SBD,Single-ply,Open,67.5,100.0,90.0,110.0,300.0
+Pedro Felipe Moutinho Bernardes De Morae,M,SBD,Raw,Open,83,140.0,90.0,185.0,415.0
+Muñoz Monfort Ana,F,SBD,Raw,Open,76,100.0,60.0,132.5,292.5
+Sukhwinder Kumar,M,SBD,Single-ply,Beginners,67.5,110.0,95.0,110.0,315.0
+Kacper Mazurkiewicz,M,SBD,Raw,Seniorzy,105,150.0,95.0,200.0,445.0
+Laura Kirkpatrick,F,SBD,Raw,FR-Jr,63,115.0,72.5,155.0,342.5
+Jørgen Schwarzenegger Eide,M,SBD,Raw,Open,93,165.0,-130.0,205.0,240.0
+Febrose Tsiode,F,SBD,Raw,Sub-Juniors,52,127.5,100.5,130.0,358.0
+Nathan Nalem,M,SBD,Raw,Juniors,105,175.0,-105.0,175.0,245.0
+Gert Koovit,M,SBD,Single-ply,Masters 1,120+,270.0,240.0,280.0,790.0
+Yoshimi Nakada,F,SBD,Raw,Open,47,70.0,52.5,97.5,220.0
+Joshua Schwartz #1,M,SBD,Raw,MR-V,93,150.0,110.0,200.0,460.0
+Tiffani Bacon,F,SBD,Raw,FR-O,84,92.5,45.0,115.0,252.5
+Katrina Parsons,F,SBD,Raw,FR-O,72,95.0,65.0,135.0,295.0
+Georges Mingot,M,SBD,Raw,Masters 2,83,180.0,132.5,190.0,502.5
+Jewgenij Kondraschow,M,SBD,Single-ply,Juniors,125+,320.0,-240.0,305.0,385.0
+Marc Osborne,M,SBD,Raw,M-C-Open,83,157.5,110.0,192.5,460.0
+Romano Gaspardis,M,SBD,Raw,Masters 3,93,140.0,72.5,160.0,372.5
+Anna Popova,F,SBD,Single-ply,Juniors,44,70.0,32.5,90.0,192.5
+William Vargas,M,SBD,Single-ply,Masters 40-44,75,195.0,122.5,182.5,500.0
+Eddie Prizeman,M,SBD,Raw,Open,83,215.0,150.0,240.0,605.0
+Julie Brookfield,F,SBD,Raw,FR-O,72,147.5,92.5,170.0,410.0
+Igor Szczurek,M,SBD,Raw,Juniorzy do lat 18,93,215.0,110.0,225.0,550.0
+Luke Marcucci,M,SBD,Raw,MR-O,93,177.5,110.0,210.0,497.5
+Whitney Mack,F,SBD,Raw,FR-O,72,62.5,45.0,80.0,187.5
+Cheryl Swagger,F,SBD,Single-ply,Open,60,-105.0,55.0,115.0,65.0
+Michael Rodriguez #1,M,SBD,Single-ply,M-T2,110,325.0,205.0,250.0,780.0
+Ricky Zhang,M,SBD,Raw,MR-Jr,83,222.5,130.0,240.0,592.5
+Sofia Etlin,F,SBD,Raw,Open,76,110.0,55.0,137.5,302.5
+Katrin Modrowicz,F,SBD,Single-ply,Open,56,110.0,65.0,120.0,295.0
+Remu Rokka,M,SBD,Raw,Under 23,93,230.0,137.5,230.0,597.5
+Chris Caltabiano,M,SBD,Single-ply,Juniors,110,285.0,231.0,250.0,766.0
+Laura Shea,F,SBD,Raw,F-C-Open,84+,110.0,65.0,115.0,290.0
+Frank Ferrara,M,SBD,Raw,Masters 3,93,140.0,100.0,180.0,420.0
+Susann Cichon,F,SBD,Single-ply,Open,57,142.5,-80.0,142.5,205.0
+Nelson Toh,M,SBD,Raw,Open,120+,75.0,190.0,75.0,340.0
+Domenic Depaoli,M,SBD,Raw,MR-HS,120+,160.0,97.5,192.5,450.0
+Matthew Lafond,M,SBD,Raw,MR-O,93,167.5,95.0,-180.0,82.5
+Nevio- Patrice Vierig,M,SBD,Raw,Youth B,93,95.0,55.0,95.0,245.0
+Nicola Berger,F,SBD,Raw,Masters 1,84+,160.0,75.0,175.0,410.0
+Sarah Shackelford,F,SBD,Single-ply,F-C,63,105.0,52.5,107.5,265.0
+Konrad Barczykowski,M,SBD,Raw,Seniorzy,74,192.5,112.5,210.0,515.0
+Ruth Balcombe,F,SBD,Raw,FR-O,57,97.5,52.5,120.0,270.0
+Salvatore Capria,M,SBD,Raw,MR-O,83,187.5,125.0,220.0,532.5
+Jaxon Eyth,M,SBD,Raw,MR-Y2,35,47.5,30.0,65.0,142.5
+Ziyed Badreddine,M,SBD,Single-ply,Open,120+,-320.0,200.0,290.0,170.0
+Jędrzej Jagodziński,M,SBD,Raw,Seniorzy,105,190.0,125.0,210.0,525.0
+David Mihan,M,SBD,Raw,MR-O,120+,235.0,142.5,245.0,622.5
+Reinhold Blüml,M,SBD,Single-ply,Masters 1,93,250.0,-160.0,220.0,310.0
+Ronny Celis,M,SBD,Single-ply,Open,60,210.0,130.0,225.0,565.0
+Mirta Celes,F,SBD,Raw,Masters 2,69,-75.0,35.0,95.0,55.0
+Igor Halink,M,SBD,Raw,Open,93,160.0,112.5,200.0,472.5
+David Dias de Souza,M,SBD,Raw,Juniors,83,135.0,95.0,175.0,405.0
+William Pickering #1,M,SBD,Raw,M-C-U23,83,-210.0,135.0,245.0,170.0
+Philip Kerns,M,SBD,Raw,MR-O,105,207.5,142.5,232.5,582.5
+Marc Galligan,M,SBD,Raw,M-O,105,250.0,150.0,270.0,670.0
+Akshay Shah,M,SBD,Raw,MR-Sj,93,160.0,100.0,195.0,455.0
+Amy Atkinson,F,SBD,Raw,Open,72,155.0,95.0,162.5,412.5
+Davide Carciola,M,SBD,Raw,Juniors,74,140.0,80.0,200.0,420.0
+Zachary Brière,M,SBD,Raw,Juniors,74,180.0,107.5,210.0,497.5
+Krystin Krodle,F,SBD,Raw,FR-T,60,77.5,47.5,95.0,220.0
+Matt Teske,M,SBD,Single-ply,M-O,93,-227.5,152.5,247.5,172.5
+Omar Kerknawi,M,SBD,Raw,Open,83,182.5,137.5,225.0,545.0
+Veronika Cyrany,F,SBD,Raw,Sub-Juniors,69,95.0,55.0,130.0,280.0
+Nicola Maycock,F,SBD,Raw,F-C-Open,84+,60.0,37.5,100.0,197.5
+Bradford Olson,M,SBD,Raw,MR-M2a,66,155.0,115.0,190.0,460.0
+Bjørn Andre S. Westbye,M,SBD,Raw,Teen 14-18,120,240.0,110.0,240.0,590.0
+Ajay Sharma #1,M,SBD,Raw,M-C-Open,120+,-285.0,190.0,290.0,195.0
+Nick Stowell,M,SBD,Single-ply,M-V,100,200.0,85.0,215.0,500.0
+Edward Payuyao,M,SBD,Raw,MR-O,83,210.0,125.0,227.5,562.5
+Rafaela Mendizabal,F,SBD,Raw,Open,63,115.0,57.5,135.0,307.5
+Stefan Solagratio Simanjuntak,M,SBD,Raw,Open,93,190.0,155.0,250.0,595.0
+Massimo Primativo,M,SBD,Raw,Junior,74,165.0,120.0,230.0,515.0
+Dani Sánchez Forns,M,SBD,Raw,SNR,93,160.0,95.0,205.0,460.0
+Michael Gaudet,M,SBD,Raw,MR-M2,83,127.5,105.0,155.0,387.5
+Haley Dickens,F,SBD,Single-ply,F-C,72,-110.0,65.0,105.0,60.0
+Blake Lander,M,SBD,Raw,MR-Jr,83,167.5,110.0,212.5,490.0
+James McIlree,M,SBD,Raw,Juniors,66,145.0,90.0,175.0,410.0
+David Hess,M,SBD,Raw,MR-O,105,125.0,70.0,165.0,360.0
+Victor Tirebaque,M,SBD,Raw,Seniors,120,190.0,195.0,215.0,600.0
+John Huff,M,SBD,Raw,MR-O,120,202.5,-152.5,225.0,275.0
+Mordechai Shimon Rosenberg,M,SBD,Raw,O,93,150.0,130.0,190.0,470.0
+Matilde Guglielmi,F,SBD,Raw,Sub-Junior,52,102.5,55.0,120.0,277.5
+Finn Miller,M,SBD,Raw,MR-Jr,83,125.0,77.5,150.0,352.5
+Marlena Gabriel,F,SBD,Raw,Open,72,135.0,75.0,165.0,375.0
+Diana Le Roy,F,SBD,Single-ply,Open,90+,125.0,72.5,-140.0,57.5
+Verneri Ylimäki,M,SBD,Raw,Open,105,180.0,110.0,252.5,542.5
+Øyvind Brennset,M,SBD,Single-ply,Juniors 19-23,75,155.0,85.0,160.0,400.0
+Jasmine Chapman,F,SBD,Raw,FR-O,57,110.0,52.5,132.5,295.0
+Anna K Haar,F,SBD,Raw,Open,84,157.5,77.5,160.0,395.0
+Andrew Richard,M,SBD,Raw,MR-O,83,232.5,155.0,245.0,632.5
+Eimear McCabe,F,SBD,Raw,F-C-Open,72,-87.5,47.5,95.0,55.0
+Marius Perianudumitru,M,SBD,Raw,Seniors,74,165.0,-125.0,205.0,245.0
+Gunhild Knutsen,F,SBD,Raw,Open,84,25.0,-25.0,60.0,60.0
+Tery Powell,M,SBD,Single-ply,M-Jr,105,290.0,190.0,282.5,762.5
+Patrick Johnson,M,SBD,Single-ply,M-O,110,295.0,210.0,265.0,770.0
+藤本 章夫,M,SBD,Raw,Masters 3,83,120.0,110.0,180.0,410.0
+Corbin Young,M,SBD,Raw,MR-Jr,105,185.0,-135.0,205.0,255.0
+Tobias Rogers,M,SBD,Raw,MR-O,93,232.5,147.5,255.0,635.0
+You-Si Jhang,M,SBD,Single-ply,Open,83,255.0,155.0,290.0,700.0
+Logan Morrison,M,SBD,Raw,MR-T2,93,160.0,92.5,167.5,420.0
+Tapani Laitala,M,SBD,Single-ply,Masters 3,120,250.0,155.0,220.0,625.0
+Anna Emilie Engebretsen,F,SBD,Raw,Open,84,110.0,60.0,137.5,307.5
+Sabina Oproiu,F,SBD,Single-ply,Junior II,57,-80.0,50.0,70.0,40.0
+Tamara Lopes,F,SBD,Raw,FR-M2,72,62.5,62.5,137.5,262.5
+Alexandra Adams,F,SBD,Raw,FR-O,52,120.0,62.5,130.0,312.5
+Roman Malo,M,SBD,Raw,Open,83,215.0,120.0,240.0,575.0
+Kay Lucas,F,SBD,Raw,FR-M2b,52,60.0,40.0,77.5,177.5
+Fredrik Danielsen,M,SBD,Raw,Open,93,165.0,125.0,235.0,525.0
+Shawn Womack,M,SBD,Single-ply,M-O,59,112.5,70.0,137.5,320.0
+Jamie Bloomfield,F,SBD,Raw,Open,63,105.0,55.0,117.5,277.5
+Roman Kidiba,M,SBD,Single-ply,Open,75,235.0,135.0,-230.0,140.0
+Álvaro de Balbín Bueno,M,SBD,Raw,SNR,93,187.5,115.0,200.0,502.5
+Anthony Yatos,M,SBD,Raw,MR-T3,66,215.0,-122.5,215.0,307.5
+Alexis Seaman,F,SBD,Raw,Juniors,84,150.0,70.0,180.0,400.0
+Grégory Fontaine,M,SBD,Raw,Sub-Juniors,74,130.0,85.0,160.0,375.0
+Carrisa Tashiro,F,SBD,Raw,FR-O,76,67.5,-45.0,87.5,110.0
+Cyrille Vaillant,M,SBD,Single-ply,Masters 1,93,-300.0,200.0,260.0,160.0
+Chandler Thompson,M,SBD,Raw,MR-O,93,142.5,85.0,142.5,370.0
+Ivan Solovyev,M,SBD,Single-ply,Juniors,100,310.0,190.0,280.0,780.0
+Ricardo de Oliveira,M,SBD,Raw,Masters 2,105,235.0,135.0,265.0,635.0
+Jeffrey Pagini,M,SBD,Raw,MR-O,93,142.5,105.0,215.0,462.5
+Brandon Quon,M,SBD,Raw,Juniors,83,220.0,140.0,225.0,585.0
+Guilherme Menezes,M,SBD,Raw,Open,83,235.0,155.0,270.0,660.0
+Mathieu Ducas,M,SBD,Raw,Juniors,83,155.0,95.0,165.0,415.0
+Alexas McBride,F,SBD,Raw,FR-Jr,63,115.0,60.0,125.0,300.0
+Kelvin Brown,M,SBD,Raw,MR-M4,83,100.0,57.5,115.0,272.5
+Carmella Mattingly,F,SBD,Raw,FR-M1,57,-125.0,67.5,142.5,85.0
+William Melson,M,SBD,Raw,MR-O,83,142.9,86.2,152.0,381.1
+Carlos Burgos,M,SBD,Raw,Masters 2,74,165.0,110.0,220.0,495.0
+Leonardo Blažeković,M,SBD,Raw,Juniors,83,-210.0,120.0,230.0,140.0
+Jan Tuszyński,M,SBD,Raw,Juniorzy do lat 16,120+,175.0,100.0,175.0,450.0
+Zi Ting Leow,F,SBD,Raw,F-O,69,107.5,77.5,130.0,315.0
+Ioan Ordean,M,SBD,Single-ply,Junior II,120,180.0,110.0,190.0,480.0
+Lucy Hyde,F,SBD,Raw,F-C-Open,84,100.0,80.0,137.5,317.5
+Brian Morrison,M,SBD,Raw,MR-M1,83,175.0,130.0,202.5,507.5
+Lucas Chelles,M,SBD,Raw,Open,66,175.0,-117.5,-190.0,-132.5
+Ole Vaagan Thorsen,M,SBD,Raw,Open,83,180.0,125.0,205.0,510.0
+Keyla Sarai Quintanar Cano,F,SBD,Raw,Open,57,85.0,50.0,110.0,245.0
+Henrik Kolve Thunes,M,SBD,Raw,Open,105,160.0,85.0,207.5,452.5
+Gope Seema,F,SBD,Single-ply,Open,75,130.0,80.0,140.0,350.0
+Andrew Gardelle,M,SBD,Raw,MR-O,120,180.0,125.0,195.0,500.0
+Arkadiusz Rak,M,SBD,Raw,Seniorzy,93,145.0,120.0,200.0,465.0
+Jules B Colding,M,SBD,Raw,Masters 2,93,155.0,120.0,190.0,465.0
+Kristen Tarrin,F,SBD,Raw,FR-M1,84+,60.0,55.0,87.5,202.5
+Steve Labson,M,SBD,Raw,MR-O,83,125.0,130.0,165.0,420.0
+Kenji Sasaki,M,SBD,Single-ply,Masters 3,100,240.0,160.0,245.0,645.0
+Monzolesso Bagah-Kognagba,M,SBD,Raw,MR-O,83,-190.0,-117.5,260.0,-47.5
+Byron Pratt,M,SBD,Raw,MR-M,93,145.0,125.0,167.5,437.5
+Valentin Pellerin,M,SBD,Raw,Seniors,59,120.0,-80.0,140.0,180.0
+Griffin Johns,M,SBD,Raw,Sub-Juniors,83,150.0,95.0,200.0,445.0
+Shu Min Ng,F,SBD,Raw,Open,52,102.5,50.0,115.0,267.5
+Vahap Özdemir,M,SBD,Raw,MR-Jr,74,145.0,97.5,187.5,430.0
+Alexander Pennie,M,SBD,Raw,MR-O,93,180.0,117.5,187.5,485.0
+Wilmer Zavala,M,SBD,Raw,MR-O,105,170.0,107.5,177.5,455.0
+Anthony Wilcockson,M,SBD,Raw,Open,120+,205.0,105.0,230.0,540.0
+Gregorio Villao,M,SBD,Raw,Masters 2,66,140.0,95.0,145.0,380.0
+James Crosbie,M,SBD,Raw,M-C-Open,105,192.5,132.5,260.0,585.0
+Tom Vestvik,M,SBD,Raw,Masters 40-49,83,140.0,-100.0,-160.0,-120.0
+Brittany Turner,F,SBD,Raw,FR-O,84,115.0,67.5,145.0,327.5
+Claudia Gallin,F,SBD,Single-ply,Open,63,70.0,-100.0,120.0,90.0
+Azouaou Slila,M,SBD,Raw,Sub-Juniors,74,180.0,100.0,200.0,480.0
+Brenda Kuhns,F,SBD,Raw,FR-M1a,84+,-120.0,85.0,132.5,97.5
+Luca Melluzzo,M,SBD,Raw,Senior,93,220.0,160.0,220.0,600.0
+Karrin Arries,F,SBD,Raw,FR-O,63,110.0,62.5,120.0,292.5
+Camryn Ochs,F,SBD,Single-ply,F-V,75,137.5,77.5,135.0,350.0
+Karina Kuznetsovskaya,F,SBD,Single-ply,Open,52,40.0,30.0,55.0,125.0
+Dylan Hoye,M,SBD,Raw,MR-Jr,93,177.5,125.0,200.0,502.5
+Tony Wightman,M,SBD,Raw,M-C-M3,83,130.0,80.0,165.0,375.0
+Sam Harvey #2,M,SBD,Raw,MR-T1,83,137.5,-92.5,157.5,202.5
+Stefanie Obereder,F,SBD,Raw,Open,84+,147.5,77.5,165.0,390.0
+Manson Adagu,M,SBD,Raw,MR-Jr,83,227.5,155.0,260.0,642.5
+Jürgen Nemeth,M,SBD,Single-ply,Open,56,205.0,115.0,215.0,535.0
+Quinton Quinn-Tanner,M,SBD,Raw,MR-O,120,-150.0,125.0,220.0,195.0
+Laurent Marsolais,M,SBD,Raw,Juniors,83,225.0,145.0,245.0,615.0
+Richard Cousins,M,SBD,Raw,MR-O,74,140.0,100.0,177.5,417.5
+Joe Ladnier,M,SBD,Single-ply,Teen 16-17,90,275.0,177.5,267.5,720.0
+Wesley Launey,M,SBD,Single-ply,M-O,74,230.0,155.0,-230.0,155.0
+Chiyti Chibaco,M,SBD,Raw,Seniors,105,200.0,140.0,240.0,580.0
+Andreas Pauluth,M,SBD,Single-ply,Juniors,100,-230.0,140.0,230.0,140.0
+Marina Zimina,F,SBD,Single-ply,Open,67.5,110.0,62.5,140.0,312.5
+Mattia Giaretto,M,SBD,Raw,Sub-Junior,93,-200.0,-105.0,215.0,-90.0
+Jamie Ball,M,SBD,Raw,MR-Jr,83,-25.0,-140.0,-75.0,-240.0
+Lachlan Ash,M,SBD,Raw,Open,120,-110.0,70.0,150.0,110.0
+Frank Stamboolian Jr,M,SBD,Raw,Masters 4,74,70.0,90.0,142.5,302.5
+Cameron D'Amours,M,SBD,Raw,Juniors,83,230.0,142.5,235.0,607.5
+Alexander Pfaff,M,SBD,Raw,Masters 1,93,205.0,142.5,215.0,562.5
+Audun Kvitvær,M,SBD,Single-ply,Teen 14-18,74,180.0,115.0,180.0,475.0
+Michal Svinčák,M,SBD,Single-ply,Dorastenci,83,100.0,50.0,125.0,275.0
+Emily Martin,F,SBD,Raw,FR-O,63,68.0,31.8,90.7,190.5
+Andyn Grubb,M,SBD,Raw,MR-V,74,170.0,125.0,217.5,512.5
+Amanda Padgett,F,SBD,Raw,FR-O,56,92.5,52.5,132.5,277.5
+Jasmin Hübler,F,SBD,Raw,Youth A,63,110.0,70.0,105.0,285.0
+James Walther,M,SBD,Raw,MR-C,83,125.0,107.5,182.5,415.0
+Maren Tverderøy Eidsvik,F,SBD,Raw,Open,84,95.0,55.0,115.0,265.0
+Denis Poleschuk,M,SBD,Single-ply,Open,120,300.0,185.0,280.0,765.0
+Sarah Sparks,F,SBD,Raw,FR-O,72,82.5,40.0,92.5,215.0
+Damert Requena,M,SBD,Raw,Open,93,215.0,155.0,255.0,625.0
+Chris Seville,M,SBD,Single-ply,Open,90,140.0,-110.0,175.0,205.0
+Raymond Cruz,M,SBD,Raw,MR-O,83,227.5,150.0,262.5,640.0
+Matthew Guffy,M,SBD,Raw,MR-Jr,93,172.5,117.5,192.5,482.5
+Mattia Zanutto,M,SBD,Raw,Master I,74,160.0,145.0,100.0,405.0
+Jonathan Skinner,M,SBD,Raw,MR-O,83,172.5,-120.0,212.5,265.0
+Sarah Speer,F,SBD,Raw,Juniors,63,115.0,65.0,130.0,310.0
+Macie Lincicum,F,SBD,Raw,FR-T1,72,62.5,30.0,62.5,155.0
+Jared Theriault,M,SBD,Raw,MR-Jr,74,150.0,110.0,175.0,435.0
+Jack Killick,M,SBD,Raw,MR-O,83,210.0,130.0,217.5,557.5
+Benjamin Rischebode,M,SBD,Raw,Open,120+,205.0,155.0,220.0,580.0
+Ziana Azariah,F,SBD,Raw,FR-O,84,155.0,65.0,190.0,410.0
+Vasiliy Shavaleev,M,SBD,Single-ply,Open,67.5,200.0,125.0,220.0,545.0
+Giacomo Simili,M,SBD,Single-ply,Junior,93,180.0,90.0,170.0,440.0
+Tereza Herrmannová,F,SBD,Raw,Juniors,63,-105.0,50.0,110.0,55.0
+Ryohei Suzuki,M,SBD,Single-ply,Sub-Juniors,75,185.0,-105.0,195.0,275.0
+Henry Hermans,M,SBD,Raw,Over 60,83,130.0,85.0,140.0,355.0
+Sawyer Cimarolli,F,SBD,Single-ply,F-JV,56,-112.5,52.5,120.0,60.0
+Matthew Martino #1,M,SBD,Raw,MR-O,105,242.5,147.5,235.0,625.0
+Gary Young #1,M,SBD,Raw,Open,83,205.0,135.0,225.0,565.0
+Arvo Tölli,M,SBD,Raw,Over 70,83,130.0,112.5,-150.0,92.5
+Andrew Burge,M,SBD,Single-ply,Open,90,250.0,-140.0,240.0,350.0
+Lisa Weise,F,SBD,Raw,Open,76,142.5,67.5,152.5,362.5
+Phil Menzie,M,SBD,Single-ply,Blind,75,150.0,120.0,190.0,460.0
+Ellissa Hull,F,SBD,Raw,Masters 1,47,110.0,60.0,150.0,320.0
+Niklas Rønning,M,SBD,Single-ply,Teen 14-18,83,155.0,105.0,135.0,395.0
+Marnel Spencer,F,SBD,Raw,Masters 2,47,77.5,52.5,105.0,235.0
+Victor Ramirez,M,SBD,Raw,Open,74,-185.0,137.5,202.5,155.0
+Arkadiy Shalokha,M,SBD,Single-ply,Open,67.5,250.0,-165.0,250.0,335.0
+Herbert Kalischke,M,SBD,Raw,Open,105,-150.0,110.0,160.0,120.0
+Edith Guennec,F,SBD,Single-ply,Masters 3,57,95.0,62.5,157.5,315.0
+Kai Bolme,M,SBD,Raw,MR-T1,83,-132.5,93.0,143.0,103.5
+孙洪辉,M,SBD,Raw,Open,83,210.0,125.0,225.0,560.0
+Tommy Ødegård,M,SBD,Raw,Open,93,142.5,115.0,185.0,442.5
+Steve Ritucci,M,SBD,Raw,MR-O,83,160.0,125.0,205.0,490.0
+Tiffany Vu,F,SBD,Raw,FR-Jr,43,77.5,37.5,97.5,212.5
+Nour-Eddine Ghaoui,M,SBD,Raw,Seniors,120,260.0,160.0,260.0,680.0
+Romain Lefebvre,M,SBD,Raw,Juniors,83,210.0,-155.0,240.0,295.0
+Lewis Davies,M,SBD,Raw,MR-Jr,105,190.0,125.0,230.0,545.0
+Andrea Lange,F,SBD,Single-ply,Masters 1,72,90.0,80.0,130.0,300.0
+Lindsey Head,F,SBD,Raw,FR-O,63,80.0,37.5,80.0,197.5
+Eskil Dekkerhus,M,SBD,Raw,Open,105,182.5,160.0,260.0,602.5
+Jagannathan N,M,SBD,Raw,Sub-Juniors,53,70.0,45.0,107.5,222.5
+Bryson McJunkin,M,SBD,Raw,MR-G,59,115.0,72.5,105.0,292.5
+Syue-En Chen,F,SBD,Single-ply,Sub-Juniors,57,110.0,-70.0,120.0,160.0
+Jack Burrell,M,SBD,Raw,Juniors,93,222.5,132.5,245.0,600.0
+Oleksandr Gromov,M,SBD,Single-ply,Open,56,175.0,115.0,190.0,480.0
+Huy Vu,M,SBD,Single-ply,M-O,83,165.0,102.5,190.0,457.5
+Johnny Billups,M,SBD,Raw,MR-O,83,140.0,100.0,175.0,415.0
+Jennifer Gonzales,F,SBD,Raw,Open,63,85.0,40.0,80.0,205.0
+Collin Yakwo,M,SBD,Raw,Open,105,225.0,180.0,225.0,630.0
+Irina Kotendzhi,F,SBD,Single-ply,Open,63,120.0,70.0,120.0,310.0
+Jeremy Schwartz,M,SBD,Raw,MR-O,66,132.5,102.5,150.0,385.0
+Alena Gladkova,F,SBD,Raw,Juniors,52,80.0,75.0,120.0,275.0
+Michelle Blackledge,F,SBD,Raw,Open,72,60.0,37.5,80.0,177.5
+Dwayne Welch,M,SBD,Raw,M-O-U,59,135.0,85.0,165.0,385.0
+Felix Bergsvik Hamar,M,SBD,Raw,Teen 14-18,66,70.0,50.0,105.0,225.0
+Jonas Cardoso Amadeu,M,SBD,Raw,Open,105,-180.0,150.0,220.0,190.0
+Andrew Villafuerte,M,SBD,Raw,Open,74,190.0,120.0,227.5,537.5
+Edoardo Zoni,M,SBD,Raw,Junior,93,250.0,147.5,240.0,637.5
+Adrián Solana Guerrero,M,SBD,Raw,SNR,93,220.0,145.0,265.0,630.0
+Keith Jackson II,M,SBD,Single-ply,M-T3,120+,-280.0,125.0,225.0,70.0
+Lucas Cheylan,M,SBD,Raw,Sub-Juniors,59,130.0,70.0,142.5,342.5
+Robert Salin,M,SBD,Raw,Open,105,180.0,100.0,210.0,490.0
+Luca Fornari,M,SBD,Single-ply,M-M1,82.5,170.0,-92.5,180.0,257.5
+Michael Campion,M,SBD,Raw,Open,120,210.0,185.0,240.0,635.0
+Peter Read,M,SBD,Raw,MR-O,120,235.0,160.0,245.0,640.0
+David Spady,M,SBD,Raw,MR-O,93,177.5,105.0,217.5,500.0
+Olena Dukhovna,F,SBD,Single-ply,Open,75,115.0,55.0,120.0,290.0
+Levi Faustino,M,SBD,Raw,MR-O,93,100.0,60.0,102.5,262.5
+Katrina Dunbar,F,SBD,Single-ply,F-TJ,60,122.5,-67.5,125.0,180.0
+Maxence Duchamp,M,SBD,Raw,Juniors,83,145.0,77.5,-170.0,52.5
+Niko Tukiainen,M,SBD,Raw,Under 23,120,220.0,135.0,235.0,590.0
+Eduard Tepper,M,SBD,Single-ply,Open,93,275.0,210.0,280.0,765.0
+Aysun Cakmak,F,SBD,Raw,Masters 1,63,130.0,70.0,-155.0,45.0
+Saqib Shahid,M,SBD,Raw,MR-O,74,87.5,40.0,130.0,257.5
+Mikkel Madsen,M,SBD,Single-ply,Open,83,230.0,122.5,192.5,545.0
+María Sánchez Rodríguez #1,F,SBD,Raw,SNR,69,140.0,-77.5,162.5,225.0
+Andrey Butenko,M,SBD,Single-ply,Open,82.5,260.0,-160.0,240.0,340.0
+Ron Kronschwitz,M,SBD,Single-ply,Open,82.5,245.0,180.0,220.0,645.0
+PJ Chovanec,M,SBD,Single-ply,M-O,100,-305.0,182.5,320.0,197.5
+Nadiya Petrovska,F,SBD,Single-ply,Open,75,-170.0,100.0,150.0,80.0
+Gökhan Akkaş,M,SBD,Raw,MR-SJ,74,142.5,110.0,195.0,447.5
+Sergiy Drachuk,M,SBD,Single-ply,Juniors,82.5,250.0,-160.0,240.0,330.0
+Gustavo Adolfo Moreno Martinez,M,SBD,Single-ply,Open,93,170.0,110.0,230.0,510.0
+Matthew Seiuli,M,SBD,Raw,MR-O,120+,272.5,-225.0,272.5,320.0
+Marita Hårberg Vaterholm,F,SBD,Raw,Open,69,-140.0,85.0,150.0,95.0
+Daniela Anton,F,SBD,Raw,Open,63,155.0,75.0,172.5,402.5
+Jenesis Fonder,F,SBD,Raw,FR-TJ,63,120.0,75.0,150.0,345.0
+Aaron Gonzalez,M,SBD,Raw,MR-O,120,185.0,125.0,207.5,517.5
+Khristine Zimmerman,F,SBD,Raw,FR-Jr,63,80.0,40.0,97.5,217.5
+John Gerard Horgan,M,SBD,Raw,M3,83,130.0,77.5,-170.0,37.5
+Rebecca Miracle,F,SBD,Raw,FR-Y3,69,70.0,37.5,82.5,190.0
+Tim Connors,M,SBD,Raw,MR-O,120,-182.5,-117.5,265.0,-35.0
+Nadeige Dionne-Welch,F,SBD,Raw,Open,84,120.0,57.5,110.0,287.5
+Oddbjørn Vagle,M,SBD,Raw,Masters 40-49,83,150.0,120.0,220.0,490.0
+Jon Ramstad,M,SBD,Single-ply,Open,105,290.0,270.0,260.0,820.0
+Sofia Tweedie,F,SBD,Raw,FR-Y,72,72.5,32.5,87.5,192.5
+Eryk Paszkiewicz,M,SBD,Raw,Juniorzy do lat 20,105,260.0,125.0,260.0,645.0
+Cliff Haynes,M,SBD,Single-ply,M-E-M2,74,220.0,170.0,215.0,605.0
+Simone Scheltens,F,SBD,Raw,Open,57,-120.0,70.0,142.5,92.5
+Kelly Tabor,F,SBD,Raw,FR-M1,72,100.0,45.0,115.0,260.0
+John Smart,M,SBD,Raw,MR-O,105,232.5,140.0,212.5,585.0
+Tanya Walis,F,SBD,Raw,FR-O,84,105.0,60.0,135.0,300.0
+Charles Mathis,M,SBD,Raw,MR-O,83,190.0,127.5,227.5,545.0
+Davide Ren,M,SBD,Raw,Senior,93,220.0,142.5,220.0,582.5
+Oana Nicoleta Nica,F,SBD,Raw,Junior,63,90.0,47.5,-120.0,17.5
+Ryan Walsh,M,SBD,Raw,MR-O,105,255.0,165.0,257.5,677.5
+Maryana Rospopa,F,SBD,Single-ply,Sub-Juniors,40,42.5,32.5,-52.5,22.5
+Claudio Forti,M,SBD,Raw,Open,74,185.0,115.0,230.0,530.0
+Shanyn Simmerman,F,SBD,Raw,FR-T3,84+,140.0,52.5,140.0,332.5
+Bill Peters-Cheale,M,SBD,Raw,MR-O,74,147.5,112.5,200.0,460.0
+Maria Hakulinen,F,SBD,Raw,Open,63,105.0,72.5,120.0,297.5
+Michael Armeni,M,SBD,Raw,MR-O,105,202.5,112.5,220.0,535.0
+Jack Ward,M,SBD,Raw,MR-O,120+,190.0,125.0,190.0,505.0
+Brian Simpson,M,SBD,Raw,M-C-Open,105,167.5,110.0,220.0,497.5
+Carste Stornfels,M,SBD,Single-ply,Open,110,230.0,145.0,235.0,610.0
+Noor Abwah,F,SBD,Raw,Open,52,87.5,45.0,85.0,217.5
+Craig Smith #1,M,SBD,Raw,Masters 1,120,190.0,140.0,250.0,580.0
+Ravi Hollo,M,SBD,Raw,Juniors,83,210.0,142.5,240.0,592.5
+田野 智徳,M,SBD,Raw,Open,105,275.0,-210.0,265.0,330.0
+Bianca Mourik,F,SBD,Raw,F-C-Open,63,112.5,55.0,130.0,297.5
+松田 理希,M,SBD,Raw,Sub-Juniors,53,60.0,40.0,100.0,200.0
+Jim Tim,M,SBD,Raw,MR-O,105,250.0,155.0,240.0,645.0
+Matthew Plozza,M,SBD,Raw,Open,93,127.5,82.5,170.0,380.0
+Marie-Line Durand,F,SBD,Raw,Masters 2,63,80.0,40.0,115.0,235.0
+Anne-Chloe Olix,F,SBD,Raw,FR-O,84+,112.5,62.5,102.5,277.5
+Mikael Suonio,M,SBD,Raw,Under 23,83,140.0,105.0,165.0,410.0
+Daniel Edwards #5,M,SBD,Raw,MR-O,93,212.5,145.0,235.0,592.5
+Wiiliam Harding,M,SBD,Raw,M-C-Open,93,140.0,110.0,200.0,450.0
+Wiktor Glinka,M,SBD,Raw,MR-Jr,93,170.0,100.0,180.0,450.0
+Giulia Floriana Felecan,F,SBD,Raw,Junior,76,167.5,65.0,125.0,357.5
+Oleksiy Rokochyy Jr,M,SBD,Single-ply,Open,110,370.0,260.0,-340.0,290.0
+Cezary Swiderek,M,SBD,Raw,Juniorzy do lat 23,93,135.0,80.0,165.0,380.0
+Brady Crooks,M,SBD,Raw,M-C-Open,93,-202.5,132.5,222.5,152.5
+Sue Ann Roberts,F,SBD,Single-ply,Masters 40-44,56,65.0,27.5,75.0,167.5
+Ethan Rausch,M,SBD,Raw,MR-T,83,-182.5,110.0,167.5,95.0
+Jack Southwick,M,SBD,Raw,M-C-N,93,-150.0,130.0,170.0,150.0
+Phil Frost,M,SBD,Single-ply,M-E-M2,120,225.0,190.0,210.0,625.0
+Vadym Katruk,M,SBD,Single-ply,Open,120+,300.0,210.0,260.0,770.0
+Sorina Matei,F,SBD,Single-ply,Junior I,63,105.0,25.0,105.0,235.0
+Amanda LaCass,F,SBD,Raw,FR-O,84,97.5,60.0,125.0,282.5
+Chris Bechara,M,SBD,Raw,MR-T,105,185.0,-125.0,257.5,317.5
+William Hickman,M,SBD,Raw,MR-O,105,232.5,-142.5,-245.0,-155.0
+Agnès Alves,F,SBD,Raw,Juniors,57,132.5,82.5,152.5,367.5
+Josef Pilský,M,SBD,Raw,Open,83,170.0,120.0,175.0,465.0
+Jan Zilke,M,SBD,Raw,Open,59,90.0,85.0,110.0,285.0
+John Walls,M,SBD,Raw,Juniors,93,205.0,155.0,230.0,590.0
+Charan Singh Kharb,M,SBD,Single-ply,Open,90,260.0,145.0,285.0,690.0
+Magnus H Hedegård,M,SBD,Raw,Open,74,155.0,100.0,205.0,460.0
+Aron Muijsenberg,M,SBD,Single-ply,Juniors,105,125.0,100.0,185.0,410.0
+Ragnheiður Kr. Sigurðardóttir,F,SBD,Single-ply,Open,52,90.0,70.0,100.0,260.0
+Giacomo Verucchi,M,SBD,Single-ply,Junior,93,270.0,175.0,-240.0,205.0
+Peter Redfern,M,SBD,Raw,MR-Jr,93,-157.5,90.0,170.0,102.5
+Jonathan Christie,M,SBD,Raw,Open,83,220.0,132.5,262.5,615.0
+Tim Rootliep,M,SBD,Raw,Open,105,215.0,122.5,260.0,597.5
+Rafael Da Silva Van Gysel,M,SBD,Raw,MR-O,93,185.0,117.5,225.0,527.5
+Artem Gorbachev,M,SBD,Single-ply,Open,67.5,100.0,75.0,130.0,305.0
+Mohammed Ibrahim #1,M,SBD,Single-ply,Sub-Juniors,75,190.0,110.0,190.0,490.0
+Steve Walker #1,M,SBD,Single-ply,Masters 1,75,-230.0,165.0,240.0,175.0
+Martin August Størkson Kvile,M,SBD,Raw,Open,83,-150.0,130.0,200.0,180.0
+Nikos Kounis,M,SBD,Raw,Open,93,200.0,130.0,230.0,560.0
+Ian Bell,M,SBD,Single-ply,Juniors,93,-322.5,182.5,335.0,195.0
+Kameron Lange,M,SBD,Single-ply,M-O,105,162.5,90.0,160.0,412.5
+Ousmane Diallo,M,SBD,Raw,Juniors,105,210.0,127.5,245.0,582.5
